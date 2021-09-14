@@ -23,17 +23,19 @@ public class Parfait {
         Scanner lecteurClavier = new Scanner(System.in);
         System.out.println("entrez un nombre entier strictement supérieur à 2:");
         String nombreLu = lecteurClavier.nextLine();
-        int nombre = Integer.parseInt(nombreLu);
-        if (nombre > 2) {
-            if (estParfait(nombre)){
-                System.out.println("le nombre est parfait");
+        try {
+            int nombre = Integer.parseInt(nombreLu);
+            if (nombre > 2) {
+                if (estParfait(nombre)) {
+                    System.out.println("le nombre est parfait");
+                } else {
+                    System.out.println("le nombre n'est pas parfait");
+                }
             } else {
-                System.out.println("le nombre n'est pas parfait");
+                System.out.println("le nombre doit etre suppérieur à 2!");
             }
-        } else {
-            System.out.println("le nombre doit etre suppérieur à 2!");
+        }catch (Exception e){
+            System.out.println("Ceci n'est pas un nombre!");
         }
-
-        //TODO gérer les esceptions lorsque l'utilisateur ne rentre pas un nombre (exemple: il rentre toto)
     }
 }
