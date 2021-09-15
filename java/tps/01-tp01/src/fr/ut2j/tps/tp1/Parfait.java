@@ -13,6 +13,15 @@ public class Parfait {
         }
         return somme;
     }
+    public static int sommeDiviseurs1(int nombre) {
+        int somme = 1;
+        for (int i = 2; i <= Math.sqrt(nombre); i++){
+            if (nombre % i == 0){
+                somme += i + (nombre/i);
+            }
+        }
+        return somme;
+    }
 
     public static boolean estParfait(int nombre) {
        return (sommeDiviseurs(nombre) == nombre);
@@ -37,5 +46,8 @@ public class Parfait {
         }catch (Exception e){
             System.out.println("Ceci n'est pas un nombre!");
         }
+
+        System.out.println(sommeDiviseurs1(1500));
+        System.out.println(sommeDiviseurs(1500));
     }
 }
