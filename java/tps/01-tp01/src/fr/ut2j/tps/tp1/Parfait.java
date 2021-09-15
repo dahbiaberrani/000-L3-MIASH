@@ -24,7 +24,7 @@ public class Parfait {
     }
 
     public static boolean estParfait(int nombre) {
-       return (sommeDiviseurs(nombre) == nombre);
+       return (sommeDiviseurs1(nombre) == nombre);
     }
 
     public static void main(String[] args) {
@@ -47,7 +47,7 @@ public class Parfait {
             System.out.println("Ceci n'est pas un nombre!");
         }
 
-        System.out.println(sommeDiviseurs1(1500));
-        System.out.println(sommeDiviseurs(1500));
+//        System.out.println(sommeDiviseurs1(1500));
+//        System.out.println(sommeDiviseurs(1500));
     }
 }
