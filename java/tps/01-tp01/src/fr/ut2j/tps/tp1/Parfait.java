@@ -13,18 +13,22 @@ public class Parfait {
         }
         return somme;
     }
-    public static int sommeDiviseurs1(int nombre) {
+    public static int sommeDiviseursSqrt(int nombre) {
         int somme = 1;
         for (int i = 2; i <= Math.sqrt(nombre); i++){
             if (nombre % i == 0){
-                somme += i + (nombre/i);
+                if (i == Math.sqrt(nombre)) {
+                    somme += i;
+                } else {
+                    somme += i + (nombre/i);
+                }
             }
         }
         return somme;
     }
 
     public static boolean estParfait(int nombre) {
-       return (sommeDiviseurs1(nombre) == nombre);
+       return (sommeDiviseursSqrt(nombre) == nombre);
     }
 
     public static void main(String[] args) {
@@ -33,6 +37,7 @@ public class Parfait {
         System.out.println("entrez un nombre entier strictement supérieur à 2:");
         String nombreLu = lecteurClavier.nextLine();
         try {
+
             int nombre = Integer.parseInt(nombreLu);
             if (nombre > 2) {
                 if (estParfait(nombre)) {
@@ -47,7 +52,7 @@ public class Parfait {
             System.out.println("Ceci n'est pas un nombre!");
         }
 
-//        System.out.println(sommeDiviseurs1(1500));
-//        System.out.println(sommeDiviseurs(1500));
+//        System.out.println(sommeDiviseursSqrt(28));
+//        System.out.println(sommeDiviseurs(28));
     }
 }

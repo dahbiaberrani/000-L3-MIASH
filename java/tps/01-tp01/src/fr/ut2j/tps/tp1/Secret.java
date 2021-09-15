@@ -8,6 +8,6 @@ package fr.ut2j.tps.tp1;
 
 public class Secret {
     public static boolean lecteur(int nombre){
-
+        return true;
     }
 }

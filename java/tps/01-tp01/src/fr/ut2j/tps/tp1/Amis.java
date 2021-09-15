@@ -10,8 +10,9 @@ public class Amis {
 
     public static void rechercheCoupleDivisuer(int borneSupperieur){
         for(int i=2; i <= borneSupperieur;i++){
-            if(Parfait.sommeDiviseurs1(i)==Parfait.sommeDiviseurs1(i+1)){
-                System.out.println("(" + i + ","+ i+1+")");
+            for(int j=i+1; j <= borneSupperieur;j++)
+                if(Parfait.sommeDiviseurs(i)==Parfait.sommeDiviseursSqrt(j) && Parfait.sommeDiviseursSqrt(i) != 1) {
+                    System.out.println("(" + i + ","+ j +")");
             }
         }
     }
