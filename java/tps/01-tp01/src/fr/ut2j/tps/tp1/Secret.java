@@ -7,7 +7,22 @@ package fr.ut2j.tps.tp1;
  */
 
 public class Secret {
-    public static boolean lecteur(int nombre){
-        return true;
-    }
+
+
+    public static void main(String [] args){
+//        int nombreSecre;
+//        int nmUtilisateur;
+//        int compteur;
+//        public static final int nombreEssaie;
+//
+//        static{
+//            nombreEssaie = 5;
+//        }
+//        int reponse=1;
+//        for(reponse ==1){
+//           int compteur = 0;
+//           int nombreSucre = Math.random();
+//
+//        }
+   }
 }
