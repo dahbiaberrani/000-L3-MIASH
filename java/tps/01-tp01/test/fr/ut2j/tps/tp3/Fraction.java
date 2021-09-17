@@ -29,4 +29,25 @@ public class Fraction {
     public int setY(int denomirateur){
         return this.y= denomirateur;
     }
+    
+    public Fraction add(int fraction1 , int fraction2){
+        Fraction f1 = new Fraction();
+        Fraction f2 = new Fraction();
+        Fraction f3= new Fraction();
+
+        if (f1.y == f2.y){
+            f3.x = (f1.x)+(f2.x);
+            f3.y = f1.y ;
+        } else {
+            f3.x = (f1.x) * (f2.y);
+            f3.y = (f1.y) * (f2.y);
+        }
+        return f3;
+    }
+
+    public static void main(String[] args) {
+
+    }
+
 }
+@Override
