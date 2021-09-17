@@ -7,22 +7,25 @@ package fr.ut2j.tps.tp2;
  */
 
 public class Fusion {
+    public static  int [] []tab2= {{54,2,10,102,3,18},{1,0,-15,1500}};
+        public static int [] fusion(int[][] tableau) {
+            int[] resultats = new int[tableau.length];
+            for (int i = 0; i < tableau.length-1; i++) {
+                for (int j = 1; j < tableau[i].length-1; i++) {
+                    if (tableau[i][j] <= tableau[j][i]) {
+                        resultats = tableau[i];
+                    } else {
+                        resultats = tableau[j];
+                    }
+                }
 
-//    public static void trieTableau(int [][] tableau ) {
-//        int [] tab1 = new
-//
-//        for (int i = 0; i < tableau[i][j]; i++) {
-//            if (tableau[i][j] < tableau[i][j]) {
-//
-//            }
-//        }
-//        //
-//
-//    }
-
-
+            }
+            return resultats;
+        }
     public static void main(String[] args) {
 
+        int [] resultats = (fusion(tab2));
+        TableauUtils.afficherTableau(resultats);
          }
 }
 
