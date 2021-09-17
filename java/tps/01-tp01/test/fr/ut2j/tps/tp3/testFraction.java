@@ -20,18 +20,25 @@ public class testFraction {
     }
 
     @Test
-    void testConsctructeur(){
+    void testConsctructeur() {
         Fraction f2 = new Fraction(50, 5);
         assertEquals(50,f2.getNum());
         assertEquals(5,f2.getDen());
     }
 
     @Test
-    void testSetter(){
+    void testSetter() {
         Fraction f2 = new Fraction(50, 5);
-        f2.setNumerateur(81);
+        f2.setNum(81);
         assertEquals(81,f2.getNum());
-        f2.setDenominateur(56);
+        f2.setDen(56);
         assertEquals(56, f2.getDen());
+    }
+    @Test
+    void testFonctionAdd() {
+        Fraction f1 = new Fraction(4,3);
+        Fraction f2 = new Fraction(5, 4);
+        Fraction f3 = new Fraction(31, 12);
+        assertEquals(f3, f1.add(f2));
     }
 }

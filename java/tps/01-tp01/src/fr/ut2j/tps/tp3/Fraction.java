@@ -8,69 +8,45 @@ package fr.ut2j.tps.tp3;
 
 public class Fraction {
     //attributes
-    private int numerateur, denominateur;
+    private int num, den;
 
     //constructors
     public Fraction(){
-        this.numerateur = 0;
-        this.denominateur = 1;
+        this.num = 0;
+        this.den = 1;
     }
 
     public Fraction(int numerateur, int denominateur){
-        this.numerateur = numerateur;
-        this.denominateur = denominateur;
+        this.num = numerateur;
+        this.den = denominateur;
     }
 
     //methods
-    // getters
     public int getNum() {
-        return this.numerateur;
+        return this.num;
     }
 
     public int getDen() {
-        return this.denominateur;
+        return this.den;
     }
 
-    //setters
-    public int setNumerateur(int numerateur){
-        return this.numerateur = numerateur;
+    public int setNum(int numerateur){
+        return this.num = numerateur;
     }
 
-    public int setDenominateur(int denomirateur){
-        return this.denominateur = denomirateur;
+    public int setDen(int denomirateur){
+        return this.den = denomirateur;
     }
-
     public Fraction add(Fraction fraction){
-        int a,b;
-        b = this.numerateur * fraction.denominateur;
-        a = (this.denominateur * fraction.denominateur) + (fraction.numerateur * this.denominateur);
-        Fraction fractadd = new Fraction (a,b);
-        return fractadd;
-
-    }
-    public Fraction sup(Fraction fraction){
-        int a,b;
-        b = this.numerateur * fraction.denominateur;
-        a = (this.denominateur * fraction.denominateur) - (fraction.numerateur * this.denominateur);
-        Fraction fractsup = new Fraction (a,b);
-        return fractsup;
-
-    }
-    public Fraction mult(Fraction fraction) {
-        int a,b;
-        b = this.denominateur * fraction.denominateur;
-        a =  this.numerateur * fraction.numerateur;
-        Fraction fractmult = new Fraction (a,b);
-        return fractmult;
-
+        Fraction resultatF3 = new Fraction();
+        resultatF3.num = this.num * fraction.den + fraction.num * this.den;
+        resultatF3.den = this.den * fraction.den;
+        return resultatF3;
     }
 
     @Override
-    public String toString() {
-        return ("(" + this.numerateur + "/" + this.denominateur + ")");
-    }
-
-    public static void main(String[] args) {
-
+    public boolean equals(Object obj) {
+        Fraction fraction = (Fraction) obj;
+        return this.num * fraction.den == fraction.num * this.den;
     }
 }
