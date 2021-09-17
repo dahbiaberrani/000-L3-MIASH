@@ -1,0 +1,3 @@
+todo: exercice2 faire une metod statique generale a tout les tps pour lire un entier a partir du clavier
+todo: faire exercice 4
+todo: faire exercice 5

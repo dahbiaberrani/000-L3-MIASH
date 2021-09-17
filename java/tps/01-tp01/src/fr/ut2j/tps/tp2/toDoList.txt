@@ -1,0 +1,3 @@
+toDo exercice1 faire scanne clvier pour demande à l’utilisateur de saisir une valeur entière(valeur reférence),
+todo faire exercice2 bug fix
+todo faire exercice3
