@@ -83,10 +83,10 @@ public class Fraction implements Comparable<Fraction>{
         this.den = this.den / resultatPgcd;
     }
 
-    public int compareTo(Fraction f){
-        return 5;
-    }
-    
+//    public int compareTo(Fraction f){
+//        return 5;
+//    }
+
     @Override
     public boolean equals(Object obj) {
         Fraction fraction = (Fraction) obj;
@@ -103,5 +103,17 @@ public class Fraction implements Comparable<Fraction>{
         return new Fraction(this.num, this.den);
     }
 
+    @Override
+    public int compareTo(Fraction fraction) {
+            if (this.num * fraction.den > fraction.num * this.den){
+                return 1;
+            } else {
+                if (this.num == fraction.num){
+                    return 0;
+                } else {
+                    return -1;
+                }
+            }
+    }
 
 }
