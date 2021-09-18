@@ -22,8 +22,8 @@ public class testFraction {
     @Test
     void testConsctructeur() {
         Fraction f2 = new Fraction(50, 5);
-        assertEquals(50,f2.getNum());
-        assertEquals(5,f2.getDen());
+        assertEquals(10,f2.getNum());
+        assertEquals(1,f2.getDen());
     }
 
     @Test
@@ -108,6 +108,9 @@ public class testFraction {
     void testStockageFormeSimplifiee(){
         Fraction fractionNonSimplifiable = new Fraction(16, 12);
         assertEquals(4, fractionNonSimplifiable.getNum());
+        assertEquals(3, fractionNonSimplifiable.getDen());
+        Fraction fractionNumDenNegatifs = new Fraction(-2, -3);
+        assertEquals(2, fractionNumDenNegatifs.getNum());
         assertEquals(3, fractionNonSimplifiable.getDen());
     }
 }

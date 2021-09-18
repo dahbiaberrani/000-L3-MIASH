@@ -45,13 +45,15 @@ public class Fraction implements Comparable<Fraction>{
         Fraction resultatF3 = new Fraction();
         resultatF3.num = this.num * fraction.den + fraction.num * this.den;
         resultatF3.den = this.den * fraction.den;
-        return resultatF3;
+        resultatF3.simplifier();
+        return (resultatF3);
     }
 
     public Fraction add(int entier){
         Fraction result = new Fraction();
         result.num = entier * this.den + this.num;
         result.den = this.den;
+        result.simplifier();
         return result;
     }
 
@@ -59,15 +61,20 @@ public class Fraction implements Comparable<Fraction>{
         Fraction resultatF3 = new Fraction();
         resultatF3.num = this.num * fraction.num;
         resultatF3.den = this.den * fraction.den;
+        resultatF3.simplifier();
         return resultatF3;
     }
 
     public  Fraction sub(Fraction fraction){
-        return this.add(new Fraction(-fraction.num, fraction.den));
+        Fraction result = this.add(new Fraction(-fraction.num, fraction.den));
+        result.simplifier();
+        return result;
     }
 
     public  Fraction div(Fraction fraction){
-        return this.mult(new Fraction(fraction.den, fraction.num));
+        Fraction result = this.mult(new Fraction(fraction.den, fraction.num));
+        result.simplifier();
+        return result;
     }
 
     public void simplifier() {
@@ -79,8 +86,7 @@ public class Fraction implements Comparable<Fraction>{
     public int compareTo(Fraction f){
         return 5;
     }
-
-
+    
     @Override
     public boolean equals(Object obj) {
         Fraction fraction = (Fraction) obj;
