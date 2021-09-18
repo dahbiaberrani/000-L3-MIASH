@@ -6,7 +6,9 @@ package fr.ut2j.tps.tp3;
  * berrani.dehbia1993@gmail.com
  */
 
-public class Fraction {
+import fr.ut2j.tps.Utils;
+
+public class Fraction implements Comparable<Fraction>{
     //attributes
     private int num, den;
 
@@ -19,6 +21,7 @@ public class Fraction {
     public Fraction(int numerateur, int denominateur){
         this.num = numerateur;
         this.den = denominateur;
+        this.simplifier();
     }
 
     //methods
@@ -67,6 +70,17 @@ public class Fraction {
         return this.mult(new Fraction(fraction.den, fraction.num));
     }
 
+    public void simplifier() {
+        int resultatPgcd = Utils.pgcd(this.num, this.den);
+        this.num = this.num / resultatPgcd;
+        this.den = this.den / resultatPgcd;
+    }
+
+    public int compareTo(Fraction f){
+        return 5;
+    }
+
+
     @Override
     public boolean equals(Object obj) {
         Fraction fraction = (Fraction) obj;
@@ -77,4 +91,11 @@ public class Fraction {
     public String toString(){
         return "(" + this.num + "/" + this.den + ")";
     }
+
+    @Override
+    public Fraction clone() throws CloneNotSupportedException {
+        return new Fraction(this.num, this.den);
+    }
+
+
 }
