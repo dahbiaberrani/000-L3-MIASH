@@ -19,6 +19,7 @@ public class Fraction implements Comparable<Fraction>{
     }
 
     public Fraction(int numerateur, int denominateur){
+        //TODO vérifier que le dénominateur et != de 0, sinon lever une exception
         this.num = numerateur;
         this.den = denominateur;
         this.simplifier();
@@ -81,11 +82,11 @@ public class Fraction implements Comparable<Fraction>{
         int resultatPgcd = Utils.pgcd(this.num, this.den);
         this.num = this.num / resultatPgcd;
         this.den = this.den / resultatPgcd;
+        if (this.den < 0) {
+            this.num *= -1;
+            this.den *= -1;
+        }
     }
-
-//    public int compareTo(Fraction f){
-//        return 5;
-//    }
 
     @Override
     public boolean equals(Object obj) {
@@ -115,5 +116,4 @@ public class Fraction implements Comparable<Fraction>{
                 }
             }
     }
-
 }

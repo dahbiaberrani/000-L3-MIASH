@@ -74,7 +74,7 @@ public class testFraction {
     }
 
     @Test
-    void testColone(){
+    void testColone() {
         Fraction f1 = new Fraction(4, 3);
         Fraction resulatAttenduf1 = new Fraction(4, 3);
         Fraction resulatatAttenduApresModif2 = new Fraction(56, 3);
@@ -105,12 +105,30 @@ public class testFraction {
     }
 
     @Test
-    void testStockageFormeSimplifiee(){
+    void testStockageFormeSimplifiee() {
         Fraction fractionNonSimplifiable = new Fraction(16, 12);
         assertEquals(4, fractionNonSimplifiable.getNum());
         assertEquals(3, fractionNonSimplifiable.getDen());
         Fraction fractionNumDenNegatifs = new Fraction(-2, -3);
         assertEquals(2, fractionNumDenNegatifs.getNum());
         assertEquals(3, fractionNonSimplifiable.getDen());
+    }
+
+    @Test
+    void testCompareTo() {
+        Fraction f1 = new Fraction(6, 2);
+        Fraction f2 = new Fraction(2, 4);
+        assertEquals(1, f1.compareTo(f2));
+        assertEquals(-1, f2.compareTo(f1));
+        assertEquals(0, f1.compareTo(f1));
+
+        f1 = new Fraction(2, 3);
+        f2 = new Fraction(1, -2);
+        assertEquals(1, f1.compareTo(f2));
+    }
+
+    @Test
+    void testDenominateurNull() {
+//        new Fraction(12, 0);
     }
 }
