@@ -37,6 +37,7 @@ public class Fraction {
     public int setDen(int denomirateur){
         return this.den = denomirateur;
     }
+
     public Fraction add(Fraction fraction){
         Fraction resultatF3 = new Fraction();
         resultatF3.num = this.num * fraction.den + fraction.num * this.den;
@@ -44,9 +45,36 @@ public class Fraction {
         return resultatF3;
     }
 
+    public Fraction add(int entier){
+        Fraction result = new Fraction();
+        result.num = entier * this.den + this.num;
+        result.den = this.den;
+        return result;
+    }
+
+    public Fraction mult(Fraction fraction){
+        Fraction resultatF3 = new Fraction();
+        resultatF3.num = this.num * fraction.num;
+        resultatF3.den = this.den * fraction.den;
+        return resultatF3;
+    }
+
+    public  Fraction sub(Fraction fraction){
+        return this.add(new Fraction(-fraction.num, fraction.den));
+    }
+
+    public  Fraction div(Fraction fraction){
+        return this.mult(new Fraction(fraction.den, fraction.num));
+    }
+
     @Override
     public boolean equals(Object obj) {
         Fraction fraction = (Fraction) obj;
         return this.num * fraction.den == fraction.num * this.den;
+    }
+
+    @Override
+    public String toString(){
+        return "(" + this.num + "/" + this.den + ")";
     }
 }

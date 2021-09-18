@@ -41,4 +41,30 @@ public class testFraction {
         Fraction f3 = new Fraction(31, 12);
         assertEquals(f3, f1.add(f2));
     }
+    @Test
+    void testFonctionMult() {
+        Fraction f1 = new Fraction(4,3);
+        Fraction f2 = new Fraction(5, 4);
+        Fraction f3 = new Fraction(20, 12);
+        assertEquals(f3, f1.mult(f2));
+    }
+    @Test
+    void testFonctionDiv() {
+        Fraction f1 = new Fraction(4,3);
+        Fraction f2 = new Fraction(5, 4);
+        Fraction f3 = new Fraction(16, 15);
+        assertEquals(f3, f1.div(f2));
+    }
+    @Test
+    void testFonctionAddInteger() {
+        Fraction f1 = new Fraction(4,3);
+        int f2 = 5;
+        Fraction f3 = new Fraction(19, 3);
+        assertEquals(f3, f1.add(f2));
+    }
+    @Test
+    void testToString() {
+        Fraction f1 = new Fraction(4,3);
+        assertEquals("(4/3)", f1.toString());
+    }
 }
