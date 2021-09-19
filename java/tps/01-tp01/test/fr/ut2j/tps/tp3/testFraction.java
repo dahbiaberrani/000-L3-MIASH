@@ -129,6 +129,10 @@ public class testFraction {
 
     @Test
     void testDenominateurNull() {
-//        new Fraction(12, 0);
+        try {
+            new Fraction(12, 0);
+        } catch (ArithmeticException e) {
+            assertEquals("java.lang.ArithmeticException: le denominateur ne doit pas être = 0", e.toString());
+        }
     }
 }

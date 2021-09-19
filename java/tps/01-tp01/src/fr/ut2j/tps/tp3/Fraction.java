@@ -19,7 +19,9 @@ public class Fraction implements Comparable<Fraction>{
     }
 
     public Fraction(int numerateur, int denominateur){
-        //TODO vérifier que le dénominateur et != de 0, sinon lever une exception
+        if (denominateur == 0) {
+           throw new ArithmeticException("le denominateur ne doit pas être = 0");
+        }
         this.num = numerateur;
         this.den = denominateur;
         this.simplifier();
