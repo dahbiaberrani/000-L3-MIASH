@@ -5,25 +5,26 @@ package fr.ut2j.tps.tp3;
  * BERRANI Dahbia
  * berrani.dehbia1993@gmail.com
  */
-
+class InvalidOperationException extends RuntimeException { }
 public class Pile {
     //Attributes
        private Entree sommet;
     //Constructor
-    public Pile(){
+    public Pile() {
         this.sommet = null;
     }
 
     //Methods
-    public int sommet(){
+    public Integer sommet() {
         if (this.sommet == null) {
-            return 0;
+            return null;
         } else {
             return this.sommet.getValeur();
         }
 
     }
-    public boolean pileVide(){
+
+    public boolean pileVide() {
         return this.sommet == null;
     }
 
@@ -31,9 +32,14 @@ public class Pile {
        Entree val = new Entree(a , this.sommet);
        this.sommet = val;
     }
-    public int depiler(){
 
-        return 1;
+    public int depiler() {
+        if (this.sommet == null){
+            throw new InvalidOperationException();
+        }else{
+            this.sommet = sommet.getSuivant();
+        }
+        return sommet.getValeur();
     }
 
     @Override
@@ -46,6 +52,22 @@ public class Pile {
         }
         return "[" + resultat + "]";
     }
+    public Pile cloneRenversed() {
+        Entree courant = this.sommet;
+        Pile cloneReversed = new Pile();
+        while (courant != null){
+            cloneReversed.empiler(courant.getValeur());
+            courant = courant.getSuivant();
+        }
+        return cloneReversed;
+
+    }
+
+    @Override
+    public Pile clone() /*throws CloneNotSupportedException*/{
+        return this.cloneRenversed().cloneRenversed();
+    }
+
 
     public static void main(String[] args) {
         Pile maPile = new Pile();
@@ -54,7 +76,14 @@ public class Pile {
         maPile.empiler(89);
         maPile.empiler(58);
         maPile.empiler(6);
+        Pile maCopiePile = maPile.clone();
         System.out.println(maPile);
+        int a = maPile.depiler();
+        System.out.println(a);
+        System.out.println(maPile);
+        maPile.depiler();
+        System.out.println(maPile);
+        System.out.println(maCopiePile);
     }
 
 }
