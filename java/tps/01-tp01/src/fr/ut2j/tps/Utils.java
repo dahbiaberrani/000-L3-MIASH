@@ -30,4 +30,13 @@ public class Utils {
         }
         return r;
     }
+
+    public static String tabToString(int[] tab) {
+        String resultat = "{";
+        for (int i = 0; i < tab.length; i++) {
+            resultat += tab[i] + ",";
+        }
+
+            return resultat + "}";
+    }
 }

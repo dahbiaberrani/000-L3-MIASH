@@ -18,6 +18,7 @@ public class Fraction implements Comparable<Fraction>{
         this.den = 1;
     }
 
+
     public Fraction(int numerateur, int denominateur){
         if (denominateur == 0) {
            throw new ArithmeticException("le denominateur ne doit pas être = 0");
@@ -108,14 +109,14 @@ public class Fraction implements Comparable<Fraction>{
 
     @Override
     public int compareTo(Fraction fraction) {
-            if (this.num * fraction.den > fraction.num * this.den){
-                return 1;
+        if (this.num * fraction.den > fraction.num * this.den){
+            return 1;
+        } else {
+            if (this.num == fraction.num){
+                return 0;
             } else {
-                if (this.num == fraction.num){
-                    return 0;
-                } else {
-                    return -1;
-                }
+                return -1;
             }
+        }
     }
 }

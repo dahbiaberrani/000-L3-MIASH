@@ -34,4 +34,11 @@ public class Entree {
     public Entree getSuivant() {
         return this.suivant;
     }
+
+    @Override
+    public boolean equals(Object obj){
+        Entree entree = (Entree) obj;
+        return entree.valeur == this.valeur;
+    }
+
 }
