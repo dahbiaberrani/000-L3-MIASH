@@ -8,11 +8,11 @@ package fr.ut2j.tps.tp4;
 
 import org.junit.jupiter.api.Test;
 
-public class Yakuza extends Humain {
+public class Yakusa extends Humain {
     private String clan;
     private int reputation = 0;
 
-    public Yakuza(int argent, String boisson, String nom, String clan ) {
+    public Yakusa(int argent, String boisson, String nom, String clan ) {
         super(argent, boisson, nom);
         this.clan = clan;
     }

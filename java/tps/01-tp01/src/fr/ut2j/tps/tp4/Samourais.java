@@ -9,12 +9,11 @@ package fr.ut2j.tps.tp4;
 public class Samourais extends Ronin{
     String seigneur;
 
-    public Samourais(int argent, String boisson, String nom) {
+    public Samourais(int argent, String boisson, String nom,String seigneur) {
         super(argent,boisson,nom);
-        this.seigneur = nom;
+        this.seigneur = seigneur;
     }
     public  void boire(String boisson) {
         this.boire();
-        this.parler("");
     }
 }

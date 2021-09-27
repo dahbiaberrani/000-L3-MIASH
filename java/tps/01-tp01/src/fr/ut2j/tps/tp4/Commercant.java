@@ -8,8 +8,8 @@ package fr.ut2j.tps.tp4;
 
 public class Commercant extends Humain {
 
-    public Commercant(int argent) {
-        super(argent, "thé", "commercant");
+    public Commercant(int argent, String nom) {
+        super(argent, "thé",  nom);
     }
 
     public int seFaireExtorquer() {
