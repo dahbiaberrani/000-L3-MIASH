@@ -6,8 +6,6 @@ package fr.ut2j.tps.tp4;
  * berrani.dehbia1993@gmail.com
  */
 
-import org.junit.jupiter.api.Test;
-
 public class Yakusa extends Humain {
     private String clan;
     private int reputation = 0;
