@@ -8,14 +8,13 @@ package fr.ut2j.tps.tp4;
 
 public class Commercant extends Humain {
 
-    public Commercant(int argent, String boisson, String nom) {
-        super(argent, boisson, nom);
-
+    public Commercant(int argent) {
+        super(argent, "thé", "commercant");
     }
 
-    public void seFaireExtorquer() {
-        new Humain(123,"the","Commercant");
-        this.perdreArgent(this.getArgent());
+    public int seFaireExtorquer() {
+         this.parler("le monde est vraiment trop injuste");
+         return this.perdreArgent(this.getArgent());
     }
     public void recevoir(int argent){
         this.ajouterArgent(argent);

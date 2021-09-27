@@ -1,0 +1,4 @@
+class Reseau:
+
+    connecter():
+    

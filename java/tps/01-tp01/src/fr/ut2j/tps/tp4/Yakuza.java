@@ -6,5 +6,41 @@ package fr.ut2j.tps.tp4;
  * berrani.dehbia1993@gmail.com
  */
 
-public class Yakuza{
+import org.junit.jupiter.api.Test;
+
+public class Yakuza extends Humain {
+    private String clan;
+    private int reputation = 0;
+
+    public Yakuza(int argent, String boisson, String nom, String clan ) {
+        super(argent, boisson, nom);
+        this.clan = clan;
+    }
+
+    public String getClan() {
+        return clan;
+    }
+
+    public int getReputation() {
+        return reputation;
+    }
+
+    public void extorquer(Commercant commercant) {
+        this.ajouterArgent(commercant.seFaireExtorquer());
+        this.reputation += 1;
+        this.parler( "hhhh j'ai gagné ma reputation");
+    }
+
+    public void gagner(Ronin r) {
+        this.ajouterArgent(r.getArgent());
+    }
+    public void perdre() {
+        this.perdreArgent(getArgent());
+    }
+
+
+    public void direBonjour() {
+        this.parler("("+ this.clan + ")");
+        super.direBonjour();
+    }
 }

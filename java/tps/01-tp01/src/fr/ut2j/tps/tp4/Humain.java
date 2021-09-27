@@ -13,17 +13,18 @@ public class Humain {
     private  String nom;
 
     public Humain(int argent, String boisson, String nom ) {
-        this.argent = 0;
-        this.boisson = "hello";
-        this.nom = "toto";
+        this.argent = argent;
+        this.boisson = boisson;
+        this.nom = nom;
     }
 
     public void ajouterArgent(int argent) {
         this.argent += argent;
     }
 
-    public void perdreArgent(int argent) {
+    public int perdreArgent(int argent) {
         this.argent -= argent;
+        return argent;
     }
 
     public String getNom() {
@@ -38,15 +39,15 @@ public class Humain {
         return this.boisson;
     }
 
-    public String parler(String texte) {
-        return texte;
+    public void parler(String texte) {
+        System.out.println("(" + this.nom + ")" + "-" + texte);
     }
 
     public void direBonjour() {
-         this.parler("Bonjour ! Je m’appelle ... et j’aime boire du ");
+         this.parler("Bonjour ! Je m’appelle " + this.nom + "  et j’aime boire du " + this.boisson);
     }
     public void boire() {
-        this.boisson = parler("Ahhh, un bon verre de .... ! GLOUPS !");
+        this.parler("Ahhh, un bon verre de " + this.boisson + " .... ! GLOUPS !");
     }
 }
 
