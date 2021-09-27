@@ -15,14 +15,16 @@ public class Ronin extends Humain{
     }
 
     public void donner(int argent, Commercant c) {
-        c.ajouterArgent(argent);
+        c.recevoir(argent);
+        this.perdreArgent(argent);
+        this.parler("Tiens, Marchand voici " + argent + "$.");
     }
 
     public void provoquer(Yakusa y) {
         if ((this.honneur)*2 > y.getReputation()) {
-            y.perdre();
+            ajouterArgent(y.perdre());
             honneur +=1;
-            this.parler("hhh je suis gagne " + y.getArgent() + " mdr");
+            this.parler("Je t’ai eu, " + y.getClan() );
         } else {
             honneur -= 1;
             this.parler("j viens de perdre tout mon argent hm hm");

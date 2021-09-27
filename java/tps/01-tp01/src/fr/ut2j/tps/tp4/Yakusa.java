@@ -28,19 +28,20 @@ public class Yakusa extends Humain {
     public void extorquer(Commercant commercant) {
         this.ajouterArgent(commercant.seFaireExtorquer());
         this.reputation += 1;
-        this.parler( "hhhh j'ai gagné ma reputation");
+        this.parler( "J’ai dépouillé  " + commercant.getNom());
     }
 
     public void gagner(Ronin r) {
         this.ajouterArgent(r.getArgent());
     }
-    public void perdre() {
-        this.perdreArgent(getArgent());
+    public int  perdre() {
+        return  this.perdreArgent(getArgent());
     }
 
 
     public void direBonjour() {
         this.parler("("+ this.clan + ")");
         super.direBonjour();
+        this.parler("Je suis fier de faire partie des " + this.getNom());
     }
 }

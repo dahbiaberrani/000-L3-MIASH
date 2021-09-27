@@ -13,10 +13,11 @@ public class Commercant extends Humain {
     }
 
     public int seFaireExtorquer() {
-         this.parler("le monde est vraiment trop injuste");
+         this.parler("J’ai tout perdu ! Le monde est trop injuste...");
          return this.perdreArgent(this.getArgent());
     }
     public void recevoir(int argent){
         this.ajouterArgent(argent);
+        this.parler("Merci, généreux donateur !!!");
     }
 }

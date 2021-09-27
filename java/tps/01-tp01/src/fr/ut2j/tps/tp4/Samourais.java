@@ -14,6 +14,6 @@ public class Samourais extends Ronin{
         this.seigneur = seigneur;
     }
     public  void boire(String boisson) {
-        this.boire();
+        this.parler("Ahhh, un bon verre de " + boisson + "! GLOUPS !");
     }
 }
