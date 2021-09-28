@@ -1,4 +1,4 @@
-package fr.ut2j.tps.tp4;
+package tp4;
 /*
  * Université Toulouse 2 Jean Jaures
  * L3 MIASHS 2021-2022
