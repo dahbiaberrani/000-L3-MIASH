@@ -41,7 +41,7 @@ public class EnsembleHachSet {
         return this.data.iterator();
     }
 
-    public EnsembleHachSet fusion(EnsembleHachSet ens) {
+    public EnsembleHachSet union(EnsembleHachSet ens) {
         EnsembleHachSet monEnsemble = new EnsembleHachSet();
         // Ajout des elements de this
         Iterator<Integer> iter = this.iterator();
@@ -88,4 +88,6 @@ public class EnsembleHachSet {
             return false;
         }
     }
+
+
 }
