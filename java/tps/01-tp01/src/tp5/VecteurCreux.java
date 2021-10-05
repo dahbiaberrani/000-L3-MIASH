@@ -58,22 +58,15 @@ public class VecteurCreux {
 
     public VecteurCreux add(VecteurCreux vect) {
         VecteurCreux vectResultat = new VecteurCreux(this.taille + vect.taille,vect.valeurReference + this.valeurReference);
-        Iterator<Integer> iter =  this.iterator();
-        Iterator<Integer> iterVect =  vect.iterator();
-        Integer value = null;
-        	if	(this.taille!=	vect.taille) {
-                return	null	;
-            }
-            while (iter.hasNext()) {
-            while (iterVect.hasNext()) {
-                value = getValue(iter.next())+getValue(iterVect.next());
-            for (var i :vectResultat) {
-                    vectResultat.set(i, value);
-
-                }
+        for (var elt : vectResultat.vect.keySet()) {
+                if (this.vect.containsKey(elt) && (vect.vect.containsKey(elt))) {
+                    if (vectResultat.valeurReference != this.getValue(elt)+vect.getValue(elt)) {
+                        vectResultat.set(elt,this.getValue(elt)+vect.getValue(elt));
+                    }
             }
         }
-        return vectResultat;
+
+            return vectResultat;
     }
 
     public static void main(String[] args) {

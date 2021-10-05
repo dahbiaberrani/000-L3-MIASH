@@ -47,6 +47,8 @@ public class Ensemble {
         return monEnsemble ;
     }
 
+
+
     public Iterator<Integer> iterator() {
         return set.keySet().iterator();
     }
@@ -63,6 +65,8 @@ public class Ensemble {
         }
         return ensembleResultat;
     }
+
+
 
     public int [] toArray() {
         int [] tableauResultat = new int[this.card()];
