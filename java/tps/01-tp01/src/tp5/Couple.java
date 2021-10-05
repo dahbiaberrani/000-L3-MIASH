@@ -19,12 +19,16 @@ public class Couple {
         this.j = j;
     }
 
+    @Override
+    public String toString() {
+        String res = "(" + i + j + ")";
+        return res;
+
+    }
 
     @Override
     public int hashCode() {
-
-        int[] tab = {this.i,this.j};
-        return tab.hashCode();
+        return this.toString().hashCode();
     }
 
     @Override

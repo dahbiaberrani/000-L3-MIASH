@@ -25,11 +25,8 @@ public class VecteurCreux {
 
     public  Integer getValue(int i) {
         int value = valeurReference;
-        for (var ind: this.vect.keySet()) {
-            if (ind == i) {
-                value = this.vect.get(i);
-            }
-        } return value;
+        value = this.vect.get(i);
+        return value;
     }
 
     public void set(Integer ind, int e ) {
