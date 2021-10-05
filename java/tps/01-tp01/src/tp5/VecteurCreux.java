@@ -56,27 +56,24 @@ public class VecteurCreux {
         return "{"+  resultat + "}";
     }
 
-    public VecteurCreux add(VecteurCreux vect2) {
-        VecteurCreux somme= new VecteurCreux((this.taille+vect2.taille),this.valeurReference+vect2.valeurReference);
-        for (int i=0;i<somme.taille;i++) {
-            if(this.vect.containsValue(i) && vect2.vect.containsKey(i)) {
-                int s = this.vect.get(i) +vect2.vect.get(i);
-                if(s == this.valeurReference+vect2.valeurReference) {
-                    somme.vect.remove(i);
-                } else {
-                    somme.set(i,s);
+    public VecteurCreux add(VecteurCreux vect) {
+        VecteurCreux vectResultat = new VecteurCreux(this.taille + vect.taille,vect.valeurReference + this.valeurReference);
+        Iterator<Integer> iter =  this.iterator();
+        Iterator<Integer> iterVect =  vect.iterator();
+        Integer value = null;
+        	if	(this.taille!=	vect.taille) {
+                return	null	;
+            }
+            while (iter.hasNext()) {
+            while (iterVect.hasNext()) {
+                value = getValue(iter.next())+getValue(iterVect.next());
+            for (var i :vectResultat) {
+                    vectResultat.set(i, value);
+
                 }
             }
-            if(this.vect.containsKey(i) && vect2.vect.containsKey(i)==false) {
-                int s= this.vect.get(i);
-                somme.set(i,s);
-            }
-            if(vect2.vect.containsKey(i)&& this.vect.containsKey(i)==false) {
-                int s= vect2.vect.get(i);
-                somme.set(i,s);
-            }
         }
-        return somme;
+        return vectResultat;
     }
 
     public static void main(String[] args) {
