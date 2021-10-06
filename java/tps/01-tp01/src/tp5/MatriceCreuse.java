@@ -28,18 +28,20 @@ public class MatriceCreuse {
     }
 
     public int getValue(int i,int j) {
-        if ( (i >= this.tailleLig || i < 0)  && (j >= this.tailleCol || j < 0) ) {
+        if ( (i >= this.tailleLig || i < 0)  || (j >= this.tailleCol || j < 0) ) {
             throw new IndexOutOfBoundsException(" index out of bounds  ");
         }
-            return this.matrice.getOrDefault(new Couple(i,j),this.defaultValue);
+        Couple key = new Couple(i,j);
+        int result = this.matrice.getOrDefault(key, this.defaultValue);
+        return result;
     }
 
     public void setValue(int indLig, int indCol ,int val) {
-        if ( (indLig >= this.tailleLig || indLig < 0)  && (indCol >= this.tailleCol || indCol < 0) ) {
+        if (indLig >= this.tailleLig || indLig < 0 || indCol >= this.tailleCol || indCol < 0) {
             throw new IndexOutOfBoundsException(" index out of bounds  ");
         }
         if (this.defaultValue != val) {
-            this.matrice.put(new Couple(indCol,indLig),val);
+            this.matrice.put(new Couple(indLig,indCol),val);
         }
     }
 
@@ -63,10 +65,10 @@ public class MatriceCreuse {
     @Override
     public String toString() {
         String matrice = "";
-        for (int i = 0; i < this.tailleLig; i++ ) {
-            matrice += "|\n";
-            for (int j = 0; j < this.tailleCol; i++) {
-                matrice += this.getValue(i,j) + "\t\t";
+        for (int lineIndex = 0; lineIndex < this.tailleLig; lineIndex++ ) {
+            matrice += "|\t\t";
+            for (int rowIndex = 0; rowIndex < this.tailleCol; rowIndex++) {
+                matrice += this.getValue(lineIndex, rowIndex) + "\t\t";
             }
             matrice += "|\n";
         }

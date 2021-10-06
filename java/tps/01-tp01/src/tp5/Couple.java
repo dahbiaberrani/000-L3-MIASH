@@ -21,7 +21,7 @@ public class Couple {
 
     @Override
     public String toString() {
-        String res = "(" + i + j + ")";
+        String res = "(" + i + "," + j + ")";
         return res;
 
     }

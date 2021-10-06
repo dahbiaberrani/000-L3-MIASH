@@ -79,29 +79,26 @@ public class VecteurCreux {
         return "{"+  resultat + "}";
     }
 
+    public static void main(String[] args) {
+        VecteurCreux vect1 = new VecteurCreux(20, 42);
+        vect1.setValue(1, 3);
+        vect1.setValue(2, 4);
+        vect1.setValue(3, 12);
+        System.out.println("vect1 = " + vect1);
 
+        VecteurCreux vect2 = new VecteurCreux(20, 42);
+        vect2.setValue(1, 4);
+        vect2.setValue(2, 10);
+        vect2.setValue(12, 100);
+        vect2.setValue(3, -12);
+        System.out.println("vect2 = " + vect2);
 
-        public static void main(String[] args) {
-            VecteurCreux vect1 = new VecteurCreux(20, 42);
-            vect1.setValue(1, 3);
-            vect1.setValue(2, 4);
-            vect1.setValue(3, 12);
-            System.out.println("vect1 = " + vect1);
+        System.out.println("vect1 + vect2 = " + vect1.add(vect2));
 
-            VecteurCreux vect2 = new VecteurCreux(20, 42);
-            vect2.setValue(1, 4);
-            vect2.setValue(2, 10);
-            vect2.setValue(12, 100);
-            vect2.setValue(3, -12);
-            System.out.println("vect2 = " + vect2);
-
-            System.out.println("vect1 + vect2 = " + vect1.add(vect2));
-
-            VecteurCreux vect3 = new VecteurCreux(vect2);
-            vect2.setValue(19, 16);    // On modifie vect2
-            // et ça n'a pas d'influence sur vect3...
-            System.out.printf("vect2[20] = %d, vect3[20] = %d%n", vect2.getValue(19), vect3.getValue(19));
-        }
-
+        VecteurCreux vect3 = new VecteurCreux(vect2);
+        vect2.setValue(19, 16);    // On modifie vect2
+        // et ça n'a pas d'influence sur vect3...
+        System.out.printf("vect2[20] = %d, vect3[20] = %d%n", vect2.getValue(19), vect3.getValue(19));
+    }
 
 }
