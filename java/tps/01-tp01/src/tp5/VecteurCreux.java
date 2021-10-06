@@ -7,7 +7,7 @@ package tp5;
  */
 
 import java.util.HashMap;
-import java.util.Iterator;
+import java.util.HashSet;
 
 public class VecteurCreux {
     // attributes
@@ -16,36 +16,62 @@ public class VecteurCreux {
     private int valeurReference;
 
     //constructor
-
     public VecteurCreux(int taille, int valeurRef) {
         this.vect = new HashMap<Integer, Integer >();
         this.valeurReference = valeurRef;
         this.taille = taille;
     }
 
+    public VecteurCreux(VecteurCreux vectCreux) {
+        this.taille = vectCreux.taille;
+        this.valeurReference = vectCreux.valeurReference;
+        this.vect = (HashMap<Integer, Integer>) vectCreux.vect.clone();
+    }
+
+
     public  Integer getValue(int i) {
+        if (i >= this.taille || i < 0) {
+            throw new IndexOutOfBoundsException(" index out of bounds  ");
+        }
         int value = valeurReference;
-        value = this.vect.get(i);
+        if (this.vect.containsKey(i)) {
+            value = this.vect.get(i);
+        }
         return value;
     }
 
-    public void set(Integer ind, int e ) {
+    public void setValue(Integer ind, int e ) {
+        if (ind >= this.taille || ind < 0) {
+            throw new IndexOutOfBoundsException(" index out of bounds  ");
+        }
         if (this.valeurReference != e) {
             this.vect.put(ind, e);
         }
 
     }
 
-    public Iterator<Integer> iterator() {
-        return vect.keySet().iterator();
+    public VecteurCreux add(VecteurCreux vect) {
+
+        // Vérification des pré conditions
+        if ( this.taille != vect.taille) {
+            throw new ArithmeticException ("les vecteurs doit avoir la même taille pour faire la somme ");
+        }
+
+        int valRefResultat = vect.valeurReference + this.valeurReference;
+        VecteurCreux vectResultat = new VecteurCreux(this.taille,valRefResultat);
+        for (int i = 0; i < vectResultat.taille; i++) {
+            vectResultat.setValue(i, this.getValue(i)+vect.getValue(i));
+        }
+        return vectResultat;
     }
+
 
     @Override
     public String toString() {
         String resultat = "";
         for (int i = 0; i < this.taille; i++) {
             if (this.vect.keySet().contains(new Integer(i)) ){
-               resultat += this.vect.get(i) + ",";
+                resultat += this.vect.get(i) + ",";
             } else {
                 resultat += this.valeurReference +",";
             }
@@ -53,38 +79,29 @@ public class VecteurCreux {
         return "{"+  resultat + "}";
     }
 
-    public VecteurCreux add(VecteurCreux vect) {
-        VecteurCreux vectResultat = new VecteurCreux(this.taille + vect.taille,vect.valeurReference + this.valeurReference);
-        for (var elt : vectResultat.vect.keySet()) {
-                if (this.vect.containsKey(elt) && (vect.vect.containsKey(elt))) {
-                    if (vectResultat.valeurReference != this.getValue(elt)+vect.getValue(elt)) {
-                        vectResultat.set(elt,this.getValue(elt)+vect.getValue(elt));
-                    }
-            }
+
+
+        public static void main(String[] args) {
+            VecteurCreux vect1 = new VecteurCreux(20, 42);
+            vect1.setValue(1, 3);
+            vect1.setValue(2, 4);
+            vect1.setValue(3, 12);
+            System.out.println("vect1 = " + vect1);
+
+            VecteurCreux vect2 = new VecteurCreux(20, 42);
+            vect2.setValue(1, 4);
+            vect2.setValue(2, 10);
+            vect2.setValue(12, 100);
+            vect2.setValue(3, -12);
+            System.out.println("vect2 = " + vect2);
+
+            System.out.println("vect1 + vect2 = " + vect1.add(vect2));
+
+            VecteurCreux vect3 = new VecteurCreux(vect2);
+            vect2.setValue(19, 16);    // On modifie vect2
+            // et ça n'a pas d'influence sur vect3...
+            System.out.printf("vect2[20] = %d, vect3[20] = %d%n", vect2.getValue(19), vect3.getValue(19));
         }
 
-            return vectResultat;
-    }
 
-    public static void main(String[] args) {
-        VecteurCreux vect1 = new VecteurCreux(5, 42);
-        vect1.set(5, 3);
-        vect1.set(2, 4);
-        vect1.set(0, 12);
-        System.out.println("vect1 = " + vect1);
-
-        VecteurCreux vect2 = new VecteurCreux(5, 42);
-        vect2.set(1, 4);
-        vect2.set(0, 10);
-        vect2.set(2, 100);
-        vect2.set(3, -12);
-        System.out.println("vect2 = " + vect2);
-        System.out.println("vect1 + vect2 = " + vect1.add(vect2));
-
-//        VecteurCreux vect3 = new VecteurCreux(vect2);
-//        vect2.set(20, 16);    // On modifie vect2
-//        // et ça n'a pas d'influence sur vect3...
-//        System.out.printf("vect2[20] = %d, vect3[20] = %d%n", vect2.getValue(20), vect3.getValue(20));
-
-    }
 }

@@ -7,6 +7,7 @@ package tp5;
  */
 
 import java.util.HashMap;
+import java.util.Iterator;
 
 public class MatriceCreuse {
 
@@ -14,32 +15,67 @@ public class MatriceCreuse {
     private HashMap<Couple, Integer> matrice;
     private int tailleLig;
     private  int tailleCol;
+    private int defaultValue;
 
     // constructors
 
-    public MatriceCreuse(int tailleCol,int tailleLig) {
+    public MatriceCreuse(int tailleCol,int tailleLig, int defaultValue) {
         this.matrice = new HashMap<Couple, Integer>();
-        this.tailleCol = tailleLig;
+        this.tailleLig = tailleLig;
         this.tailleCol = tailleCol;
-    }
+        this.defaultValue = defaultValue;
 
+    }
 
     public int getValue(int i,int j) {
-       return this.matrice.getOrDefault(new Couple(i,j),0);
+        if ( (i >= this.tailleLig || i < 0)  && (j >= this.tailleCol || j < 0) ) {
+            throw new IndexOutOfBoundsException(" index out of bounds  ");
+        }
+            return this.matrice.getOrDefault(new Couple(i,j),this.defaultValue);
     }
 
-    public void set(int ind1 = ,int val) {
-
-        this.matrice.put(new Couple())
+    public void setValue(int indLig, int indCol ,int val) {
+        if ( (indLig >= this.tailleLig || indLig < 0)  && (indCol >= this.tailleCol || indCol < 0) ) {
+            throw new IndexOutOfBoundsException(" index out of bounds  ");
+        }
+        if (this.defaultValue != val) {
+            this.matrice.put(new Couple(indCol,indLig),val);
+        }
     }
-//    @Override
-//    public String toString() {
-//        String matrice = "";
-//        for (int i = 0; i < tailleLig; i++) {
-//            for (int j = 0; j < tailleCol; i++ ) {
-//
-//            }
-//        }
-//        return matrice;
-//    }
+
+    public Iterator iterator() {
+        return matrice.keySet().iterator();
+    }
+
+    public MatriceCreuse add(MatriceCreuse mat) {
+        MatriceCreuse resultatMat = new MatriceCreuse(mat.tailleCol, mat.tailleLig, mat.defaultValue+this.defaultValue);
+        if (this.tailleCol != this.tailleCol && mat.tailleLig != mat.tailleLig) {
+            throw new ArithmeticException ("l’addition de deux matrices avec des  tailles égales");
+        }
+        for (int i = 0; i < mat.tailleLig; i++ ) {
+            for (int j = 0; j < mat.tailleCol; i++) {
+                resultatMat.setValue(i,j,(this.getValue(i,j) + mat.getValue(i,j)));
+            }
+        }
+        return resultatMat;
+    }
+
+    @Override
+    public String toString() {
+        String matrice = "";
+        for (int i = 0; i < this.tailleLig; i++ ) {
+            matrice += "|\n";
+            for (int j = 0; j < this.tailleCol; i++) {
+                matrice += this.getValue(i,j) + "\t\t";
+            }
+            matrice += "|\n";
+        }
+        return matrice;
+    }
+
+    public static void main(String[] args) {
+        MatriceCreuse matrice = new MatriceCreuse(2,2,5);
+        matrice.setValue(0,1,60);
+        System.out.println(matrice);
+    }
 }
