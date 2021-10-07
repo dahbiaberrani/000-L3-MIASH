@@ -60,11 +60,11 @@ public class MatriceCreuse {
         return resultatMat;
     }
 
-    public MatriceCreuse multiplication(int scalaire) {
+    public MatriceCreuse multiplication(float scalaire) {
         MatriceCreuse  resultat = new MatriceCreuse(this.tailleLig, this.tailleCol, this.defaultValue);
         for (int i = 0; i < this.tailleLig; i++ ) {
             for (int j = 0; j < this.tailleCol; j++) {
-                resultat.setValue(i,j,(this.getValue(i,j) * scalaire));
+                resultat.setValue(i,j,Math.round((this.getValue(i,j) * scalaire)) );
             }
         }
         return resultat;
@@ -92,6 +92,6 @@ public class MatriceCreuse {
         System.out.println(data1);
 
         System.out.println("data + data1 = \n" + data.add(data1));
-        System.out.println("data1 x 5 = \n" + data1.multiplication(5));
+        System.out.println("data1 x 5 = \n" + data1.multiplication(5.0f));
     }
 }
