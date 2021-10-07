@@ -12,15 +12,15 @@ public class Etudiant {
     private String nom;
     private String prenom;
     private int numeroEtudiant;
-    private int matiere;
+
 
     // constructors
 
-    public Etudiant( String nom, String prenom, int numeroEtudiant, int matiere) {
+    public Etudiant( String nom, String prenom, int numeroEtudiant) {
         this.nom = nom;
         this.prenom = prenom;
         this.numeroEtudiant = numeroEtudiant;
-        this.matiere = matiere;
+
     }
 
     // getters
@@ -28,16 +28,12 @@ public class Etudiant {
     public int getNumeroEtudiant() {
         return numeroEtudiant;
     }
-
-    public int getMatiere() {
-        return matiere;
-    }
-
     public String getNom() {
         return nom;
     }
     public String getPrenom() {
         return prenom;
     }
+
 
 }
