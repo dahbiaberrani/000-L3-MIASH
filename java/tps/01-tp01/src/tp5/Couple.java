@@ -35,11 +35,11 @@ public class Couple {
     public boolean equals(Object obj) {
 
         if (obj instanceof Couple) {
-            Couple couple = (Couple) obj;
             if (this == obj) {
                 return true;
             } else {
-                return this.j == this.i;
+                Couple couple = (Couple) obj;
+                return this.i == couple.i && this.j == couple.j;
             }
         } else {
             return false;

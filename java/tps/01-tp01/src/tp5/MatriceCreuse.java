@@ -19,7 +19,7 @@ public class MatriceCreuse {
 
     // constructors
 
-    public MatriceCreuse(int tailleCol,int tailleLig, int defaultValue) {
+    public MatriceCreuse(int tailleLig, int tailleCol, int defaultValue) {
         this.matrice = new HashMap<Couple, Integer>();
         this.tailleLig = tailleLig;
         this.tailleCol = tailleCol;
@@ -31,9 +31,7 @@ public class MatriceCreuse {
         if ( (i >= this.tailleLig || i < 0)  || (j >= this.tailleCol || j < 0) ) {
             throw new IndexOutOfBoundsException(" index out of bounds  ");
         }
-        Couple key = new Couple(i,j);
-        int result = this.matrice.getOrDefault(key, this.defaultValue);
-        return result;
+        return this.matrice.getOrDefault(new Couple(i,j), this.defaultValue);
     }
 
     public void setValue(int indLig, int indCol ,int val) {
@@ -50,25 +48,35 @@ public class MatriceCreuse {
     }
 
     public MatriceCreuse add(MatriceCreuse mat) {
-        MatriceCreuse resultatMat = new MatriceCreuse(mat.tailleCol, mat.tailleLig, mat.defaultValue+this.defaultValue);
+        MatriceCreuse resultatMat = new MatriceCreuse(mat.tailleLig, mat.tailleCol, mat.defaultValue+this.defaultValue);
         if (this.tailleCol != this.tailleCol && mat.tailleLig != mat.tailleLig) {
             throw new ArithmeticException ("l’addition de deux matrices avec des  tailles égales");
         }
         for (int i = 0; i < mat.tailleLig; i++ ) {
-            for (int j = 0; j < mat.tailleCol; i++) {
+            for (int j = 0; j < mat.tailleCol; j++) {
                 resultatMat.setValue(i,j,(this.getValue(i,j) + mat.getValue(i,j)));
             }
         }
         return resultatMat;
     }
 
+    public MatriceCreuse multiplication(int scalaire) {
+        MatriceCreuse  resultat = new MatriceCreuse(this.tailleLig, this.tailleCol, this.defaultValue);
+        for (int i = 0; i < this.tailleLig; i++ ) {
+            for (int j = 0; j < this.tailleCol; j++) {
+                resultat.setValue(i,j,(this.getValue(i,j) * scalaire));
+            }
+        }
+        return resultat;
+    }
+
     @Override
     public String toString() {
         String matrice = "";
         for (int lineIndex = 0; lineIndex < this.tailleLig; lineIndex++ ) {
-            matrice += "|\t\t";
+            matrice += "|\t";
             for (int rowIndex = 0; rowIndex < this.tailleCol; rowIndex++) {
-                matrice += this.getValue(lineIndex, rowIndex) + "\t\t";
+                matrice += this.getValue(lineIndex, rowIndex) + "\t";
             }
             matrice += "|\n";
         }
@@ -76,8 +84,14 @@ public class MatriceCreuse {
     }
 
     public static void main(String[] args) {
-        MatriceCreuse matrice = new MatriceCreuse(2,2,5);
-        matrice.setValue(0,1,60);
-        System.out.println(matrice);
+        MatriceCreuse data = new MatriceCreuse(2,2,5);
+        MatriceCreuse data1 = new MatriceCreuse(2,2,1);
+        data.setValue(0,1,60);
+        data1.setValue(0,1,45);
+        System.out.println(data);
+        System.out.println(data1);
+
+        System.out.println("data + data1 = \n" + data.add(data1));
+        System.out.println("data1 x 5 = \n" + data1.multiplication(5));
     }
 }
