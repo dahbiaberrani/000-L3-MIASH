@@ -21,11 +21,13 @@ public class Note {
 
     // getters
 
-
     public float getValue() {
         return value;
     }
-    public String getMatiere() {
+
+    public String getNomMatiere() {
         return matiere;
     }
+
+
 }
