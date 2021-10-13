@@ -31,6 +31,18 @@ public class Game {
         this.nbCols = nbCols;
     }
 
+    //getter
+
+    public int getNbLigs() {
+        return this.nbLigs;
+    }
+    public int getNbCols() {
+        return this.nbCols;
+    }
+    public HashSet<Coord> getDamier() {
+        return this.damier;
+    }
+
     //methods
 
     public boolean estVivante(Coord coord) {

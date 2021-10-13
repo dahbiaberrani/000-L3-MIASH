@@ -1,0 +1,464 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html" ; charset="utf-8">
+<title>Jeu de la vie</title>
+</head><body style="background:yellow;">
+"<h1 align="center">Le jeu de la vie</h1>
+
+<h2>Génération 1</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Génération 2</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Génération 3</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Génération 4</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Génération 5</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Génération 6</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Génération 7</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Génération 8</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Génération 9</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Génération 10</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Génération 11</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:red;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Génération 12</h2>
+
+<table border = "1" style= "color:white;">
+<tbody><tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+<tr><td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+<td><td width="20 " style= " background:white;">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+
+</html>
