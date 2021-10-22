@@ -11,7 +11,7 @@ public class Fusion {
         public static int [] fusion(int[][] tableau) {
             int[] resultats = new int[tableau.length];
             for (int i = 0; i < tableau.length-1; i++) {
-                for (int j = 1; j < tableau[i].length-1; i++) {
+                for (int j = 1; j < tableau.length-1; j++) {
                     if (tableau[i][j] <= tableau[j][i]) {
                         resultats = tableau[i];
                     } else {
