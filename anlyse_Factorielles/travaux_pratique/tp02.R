@@ -18,7 +18,7 @@ output:
 
 
 
-TEMP = read.csv("http://www.math.univ-toulouse.fr/???ferraty/DATA/acp-temperatures-villes-francaises.txt", header=TRUE, sep ="",dec=",",row.names=1)
+TEMP = read.csv("http://www.math.univ-toulouse.fr/???ferraty/DATA/acp-temperatures-villes-francaises.txt",sep ="\t",dec=",",row.names=1)
 library(FactoMineR)
 summary(TEMP)
 # réalisation de l'acp à l'aide de la fonction pca 

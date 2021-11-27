@@ -1,0 +1,3080 @@
+
+------------------
+#FICHIER IFIXIT_1498
+TITRE : Comment raccommoder un accroc de manière quasi invisible
+URL : https://fr.ifixit.com/Tutoriel/Comment+raccommoder+un+accroc+de+mani%C3%A8re+quasi+invisible/97746
+---------
+Introduction
+Un objet pointu ou l'usure ont traversé le tissu d'un de vos vêtements préférés ?
+Pas de panique ! Avec un peu de matériel et au moins autant de patience, l'accroc sera vite raccommodé et quasi invisible.
+Lisez attentivement et respectez les instructions de repassage du vêtementet le mode d'emploi de la toile thermo-collante. Cela vous évitera de brûler le tissu ou la toile.
+Outils
+Fabric Scissors
+Flat iron
+Sewing Needle
+Thread
+Fusible web
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Comment raccommoder un accroc de manière quasi invisible
+Pour raccommoder un accroc, il ne vous faut que quelques accessoires : de la toile thermo-collante, un fer à repasser, du fil, une aiguille, une paire de ciseaux et … un peu de patience !
+Il vaut mieux laver au préalable la pièce de vêtement. Ainsi, la colle adhèrera mieux au tissu.
+Repassez l'endroit troué pour bien aplatir les bords et coupez les fils qui dépassent éventuellement pour obtenir des bords propres et nets.
+Étape 2
+Coupez la toile thermo-collante à la bonne taille. Le morceau doit être légèrement plus grand que l'accroc.
+Arrondissez les coins. Les angles risquent sinon de se décoller plus facilement.
+Étape 3
+Posez la toile côté colle (il s'agit du côté le plus brillant) sur l'envers du tissu.
+Fixez-la à l'aide du fer à repasser en appuyant fermement sur le fer et en lui faisant faire des mouvements de va-et-vient et de rotation.
+Lisez attentivement l'étiquette du vêtement et le mode d'emploi de la toile thermo-collante. Respectez les instructions concernant la température du feret la durée du repassage. Vous risquez sinon de brûler le tissu et/ou la toile thermo-collante.
+Étape 4
+La toile est à présent collée, mais pour s'assurer qu'elle ne se décollera pas au bout de quelques lavages, il vaut mieux en coudre le bord au tissu.
+Choisissez un fil de couleur proche de celle du tissu pour que la couture se voit le moins possible.
+Enfilez le fil sur une aiguille et faites un nœud au bout.
+En commençant à l'envers du tissu (pour que le nœud n'apparaisse pas), piquez avec l'aiguille de part et d'autre du tissu tout le long du bord du morceau de toile.
+Je préfère travailler ici sur l'endroit du tissu pour mieux contrôler la visibilité des points.
+Une fois arrivé au bout, refaites un nœud et coupez le fil en trop. Et voilà ! On ne voit presque plus rien !
+Qui a une machine à coudre, peut évidemment s'en servir au cours de cette étape. Mais c'est tout aussi facile à la main :)
+
+------------------
+#FICHIER IFIXIT_2924
+TITRE : Remplacement de l'écran du Google Pixel 3a XL
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+l'%C3%A9cran+du+Google+Pixel+3a+XL/124262
+---------
+Introduction
+Consultez ce tutoriel pour remplacer l'écran fissuré ou cassé d'un Pixel 3a XL, ou bien pour ouvrir le téléphone et remplacer un autre composant.
+L'écran OLED sous la vitre du 3a XL est fragile. Si vous avez l'intention de réutiliser votre écran après l'avoir retiré de votre téléphone, faites extrêmement attention et suivez soigneusement les instructions de ce tutoriel.
+Outils
+iOpener
+Suction Handle
+iFixit Opening Picks (Set of 6)
+Tweezers
+Spudger
+T3 Torx Screwdriver
+Pièces
+Google Pixel 3a XL Screen 
+Google Pixel 3a XL Display Adhesive 
+Étape 1
+Écran
+Au cours des étapes suivantes, vous allez retirer l'écran du Pixel 3a en tranchant l'adhésif qui le maintient en place.
+Servez-vous de la photo de l'arrière de l'écran pour vous repérer.
+Remarquez le petit espace entre le bord de l'écran et de la dalle OLED sous la vitre. Si vous avez l'intention de réutiliser l'écran, veuillez suivre soigneusement les instructions ci-dessous.
+Prenez également note des deux différentes jointures sur la tranche du téléphone :
+La jointure de l'écran entre l'écran et le reste du téléphone : c'est ici que vous devrez faire levier pour séparer l'écran.
+La jointure du châssis central entre le châssis et le téléphone : la pièce est vissée, ne faites donc pas levier ici.
+Étape 2
+Posez une ventouse sur le bord droit de l'écran, juste en dessous du bouton de volume.
+Étape 3
+Lors de la prochaine étape, vous allez insérer un médiator entre l'écran et la partie en plastique du téléphone.
+Si vous ne faites pas assez attention, l'outil d'ouverture en plastique risque d'endommager la dalle OLED fragile en dessous de la vitre.
+Si vous avez l'intention de réutiliser l'écran de votre téléphone, veillez à insérer votre médiator en l'inclinant, comme vous le voyez sur la seconde photo de cette étape.
+Cela vous permettra de faire glisser le médiator sous la dalle OLED et non entre la vitre et la dalle, cela ruinerait l'écran.
+Étape 4
+Tirez fermement et constamment sur la ventouse pour ouvrir un espace entre l'écran et le téléphone.
+Insérez votre médiator dans l'espace.
+Arrêtez-vous si vous sentez que la pointe du médiator heurte contre quelque chose. Cela pourrait être le bord de la dalle OLED. Inclinez le médiator et réessayez.
+Une fois que vous avez inséré un médiator, décollez la ventouse.
+Étape 5
+Faites ensuite glisser le médiator le long du bord droit du téléphone, vers le haut puis vers le bas, pour faire céder l'adhésif qui colle l'écran.
+Étape 6
+L'adhésif qui fixe les bords supérieur et inférieur de l'écran est plus épais et beaucoup plus tenace que les fines bandes sur les côtés.
+Si vous avez l'intention de réutiliser votre écran, faites chauffer le bord supérieur du téléphone avec un iOpener, un pistolet à air chaud ou un sèche-cheveux, pour ramollir l'adhésif avant de commencer à le faire céder.
+Étape 7
+Faites soigneusement glisser votre médiator le long du coin supérieur droit de l'écran.
+Comme illustré dans la première étape, il y a plus d'espace ici entre l'écran et le bord de la vitre que sur les côtés.
+Si vous avez l'intention de réutiliser votre écran, faites spécialement attention pendant cette étape à laisser votre médiator sous l'écran OLED (comme illustré par les photos de cette étape) ou à l'enfoncer de seulement 5 mm dans l'appareil afin d'éviter de heurter l'écran sous la vitre.
+Étape 8
+Continuez à faire céder l'adhésif le long du bord inférieur de l'écran.
+Vous risquez de heurter la caméra et le capteur de proximité logés ici. Ne forcez pas, mais contournez-les.
+Étape 9
+Faites glisser votre médiator vers le bas du bord gauche pour en décoller l'adhésif.
+Étape 10
+L'adhésif qui fixe le bord inférieur de l'écran est plus épais et beaucoup plus tenace que les fines bandes sur les côtés.
+Si vous avez l'intention de réutiliser votre écran, faites chauffer le bord supérieur du téléphone avec un iOpener, un pistolet à air chaud ou un sèche-cheveux, pour ramollir l'adhésif avant de commencer à le faire céder.
+Étape 11
+Faites glisser votre médiator le long du bord inférieur du téléphone pour décoller le reste de l'adhésif de l'écran.
+Comme illustré dans la première étape, il y a plus d'espace ici entre l'écran et le bord de la vitre que sur les côtés.
+Si vous avez l'intention de réutiliser votre écran, faites spécialement attention pendant cette étape à laisser votre médiator sous l'écran OLED (comme illustré par les photos de cette étape) ou à l'enfoncer de seulement 5 mm dans l'appareil afin d'éviter de heurter l'écran sous la vitre.
+N'essayez pas encore de retirer l'écran ! Il est toujours relié au téléphone par une nappe de l'écran.
+Étape 12
+Soulevez l'écran par son bord supérieur (du côté des caméras arrière), retournez-le soigneusement de 180° et posez-le à l'envers sur le téléphone.
+Si vous avez l'intention de réutiliser votre écran, faites attention à ne pas forcer sur la nappe de l'écran au cours de cette étape.
+Étape 13
+Avec une pincette, décollez l'autocollant noir qui recouvre la fixation de la nappe de l'écran.
+Si l'autocollant est en bon état, vous pourrez le réutiliser lors du remontage. Vous pouvez sinon le remplacer par un morceau de ruban adhésif isolant.
+Étape 14
+Dévissez les deux vis T3 qui maintiennent la fixation de la nappe de l'écran en place.
+Ces vis mesurent toutes les deux 4,3 mm, mais il vaut tout de même mieux noter leur emplacement exact, afin de les revisser dans leur trou respectif lors du remontage.
+Étape 15
+Ôtez la fixation de la nappe de l'écran.
+Soulevez le connecteur de la nappe avec la pointe d'une spatule (spudger) pour déconnecter l'écran du téléphone.
+Quand vous débranchez des connecteurs de cette sorte, faites attention à ne pas arracher les petits composants montés en surface autour de la prise.
+Pour rattacher les connecteurs à pression comme celui-ci, alignez-le soigneusement et appuyez d'un côté jusqu'à ce qu'il s'emboîte, puis répétez de l'autre côté. N'appuyez pas au milieu. Si le connecteur n'est pas aligné correctement, les broches risquent de se déformer et de causer des dégâts irréversibles.
+Étape 16
+Ôtez l'écran du téléphone.
+Étape 17
+Pour remonter l'écran :
+Prenez une pincette ou un outil d'ouverture pour retirer tous les résidus d'adhésif du châssis du téléphone. Vous pouvez utiliser de l'alcool isopropylique à haute concentration pour vous aider à nettoyer.
+Si vous avez l'intention de réutiliser l'écran, assurez-vous de nettoyer tous les résidus d'adhésif de l'écran. Faites attention à ne pas rayer l'écran si vous utilisez des outils métalliques.
+Posez des bandes adhésives pré-découpées ou du ruban adhésif double-face (de la marque Tesa par exemple).
+
+------------------
+#FICHIER IFIXIT_4169
+TITRE : Remplacement du disque dure du Acer Aspire One 722
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+disque+dure+du+Acer+Aspire+One+722/53217
+---------
+Outils
+Essential Electronics Toolkit 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Batterie
+Éteignez le netbook (mettez le netbook hors tension dans le coin supérieur gauche).
+Étape 2
+Fermez le netbook et retournez-le afin que le dos soit tourné vers le haut.
+Étape 3
+Faites glisser le bouton situé sous la batterie vers la droite tout en retirant la batterie.
+Étape 4
+Retirez l'ancienne pile et récupérez la pile de remplacement.
+Étape 5
+Vérifiez les fines rainures sur le côté de l’entrée de la batterie et alignez la batterie de remplacement jusqu’à cela.
+Étape 6
+Disque dure
+Retirez la vis sur le bas du netbook.
+Étape 7
+Retirez la plaque d'appui.
+Étape 8
+Dévissez les quatre vis qui maintiennent le disque dur en place.
+Étape 9
+Soulevez lentement le disque dur et retirez le câble SATA qui y est connecté.
+Étape 10
+Prenez votre disque dur de remplacement et connectez le câble SATA au disque dur.
+
+------------------
+#FICHIER IFIXIT_282
+TITRE : Remplacement du panneau avant du Canon EOS 300
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+panneau+avant+du+Canon+EOS+300/21990
+---------
+Introduction
+Le panneau avant sera retiré afin d'accéder à d'autres zones de l'appareil photo telles que le couvercle de la batterie et le panneau supérieur
+Outils
+Phillips #00 Screwdriver 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Batterie
+Ouvrez le couvercle de la batterie.
+Étape 2
+Retirez les piles de l'appareil photo en les faisant glisser dans votre paume.
+Étape 3
+Panneau latéral avec levier
+Relâchez le loquet latéral pour ouvrir le panneau arrière.
+Étape 4
+Retirez les deux vis noires de 4,5 mm au-dessus et en dessous du loquet.
+Étape 5
+À l'aide de votre doigt, ouvrez délicatement le panneau latéral depuis le haut de la caméra.
+Tirez le panneau vers le bas pour le retirer.
+Assurez-vous de garder une trace du petit morceau de caoutchouc noir sous le loquet.
+Étape 6
+Panneau avant
+Retirez les deux vis Phillips # 1 argentées de 6 mm.
+Étape 7
+Retournez la caméra vers le bas.
+Retirez la seule vis argentée Phillips # 1 de 5 mm.
+Étape 8
+Retirez le panneau avant en tirant sur le côté avec le levier.
+
+------------------
+#FICHIER IFIXIT_391
+TITRE : Remplacement de la carte mère du Motorola Moto G6 Play
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+carte+m%C3%A8re+du+Motorola+Moto+G6+Play/132060
+---------
+Introduction
+Consultez ce tutoriel pour remplacer la carte mère de votre Motorola Moto G6 Play.
+Bien que ce tutoriel inclue desphotos de l'appareil sans la batterie, il n'est pas nécessaire de retirer celle-ci pour remplacer la carte mère.
+Outils
+Phillips #00 Screwdriver
+iFixit Opening Picks (Set of 6)
+iOpener
+Suction Handle
+Spudger
+Tweezers
+SIM Card Eject Tool
+Pièces
+Precut Adhesive Card 
+Étape 1
+Ôter le tiroir de carte SIM
+Insérez un trombone ou un outil éjecteur de carte SIM dans le petit trou du tiroir de carte SIM en haut du bord droit du téléphone.
+Appuyez sur l'outil pour éjecter le tiroir.
+Il vous faudra peut-être forcer quelque peu.
+Le mécanisme d'éjection de ce téléphone est plus profond que d'autres et vous aurez peut-être besoin d'un outil plus long. Si le vôtre est trop court, essayez avec un trombone déplié.
+Étape 2
+Enlevez le tiroir de carte SIM.
+Au moment de réinsérer la carte SIM, vérifiez qu'elle est bien orientée dans le tiroir.
+Étape 3
+Décoller la vitre arrière
+Éteignez votre téléphone avant de commencer.
+Si possible, videz la batterie avant le démontage. Une batterie chargée surchauffée ou abîmée pendant la réparation risque plus de déclencher un accident thermique dangereux.
+Si la vitre arrière est fissurée, recouvrez-la complètement de ruban adhésif d'emballage pour maintenir les éclats de verre et éviter de vous blesser.
+Préparez un iOpener et chauffez le bord extérieur du dos du téléphone pendant environ deux minutes ou bien jusqu'à ce qu'il soit légèrement trop chaud au toucher. Cela aidera à ramollir l'adhésif qui fixe la coque arrière.
+Vous devrez peut-être réchauffer et réappliquer plusieurs fois l'iOpener avant que le téléphone soit suffisamment chaud. Respectez les instructions de l'iOpener pour éviter toute surchauffe.
+Un sèche-cheveux, un pistolet à air chaud ou une plaque chauffante peuvent également faire l'affaire, mais faites attention à ne pas surchauffer le téléphone. L'écran et la batterie sont tous deux sensibles à la chaleur.
+Étape 4
+Posez une ventouse sur le bord inférieur de la coque arrière.
+Tirez fermement et constamment sur la ventouse pour créer un léger espace entre la vitre arrière et le châssis.
+Si la vitre est fissurée, la ventouse risque de ne pas adhérer. Essayez de soulever avec du ruban adhésif épais ou bien collez la ventouse avec de la superglue et laissez sécher avant de continuer.
+Vous devrez peut-être forcer quelque peu, mais il vous faut seulement ouvrir un très léger espace pour y insérer votre outil.
+Si vous avez du mal, refaites chauffer pour continuer à ramollir l'adhésif, puis réessayez. L'adhésif refroidit rapidement, il faudra donc que vous le réchauffiez à plusieurs reprises.
+Insérez un médiator dans l'espace que vous venez de créer sous la coque arrière.
+Étape 5
+Faites glisser le médiator le long du bord inférieur du téléphone pour trancher l'adhésif qui fixe la coque arrière.
+Ralentissez et progressez avec précaution quand vous arrivez aux coins. La partie incurvée de la vitre le long des bords droit et gauche se fissure facilement si on la heurte avec le médiator.
+Une fois tranché, l'adhésif risque de réadhérer en refroidissant. Pour éviter cela, laissez le médiator sous le bord et prenez-en un autre pour les prochaines étapes.
+Étape 6
+Chauffez le bord inférieur du téléphone pour ramollir l'adhésif en dessous.
+Étape 7
+Faites glisser le médiator le long du bord droit de la vitre arrière pour la décoller.
+Faites attention à ne pas enfoncer le médiator de plus d'un cm afin d'éviter d'abîmer la nappe du lecteur d'empreintes digitales.
+Laissez le médiator sous le bord supérieur droit de la vitre pour empêcher l'adhésif de recoller. Continuez avec un autre médiator.
+Étape 8
+Chauffez le bord supérieur de la coque pour ramollir l'adhésif en dessous.
+Étape 9
+Faites glisser le médiator le long du bord supérieur du téléphone afin de trancher l'adhésif qui fixe la coque arrière.
+Veillez à ne pas enfoncer le médiator de plus d'un cm pour éviter d'endommager le dissipateur thermique qui entoure la bosse de la caméra.
+Ralentissez et progressez avec précaution quand vous vous approchez des coins. La partie incurvée de la coque le long des bords droit et gauche se fissure facilement si on la heurte avec le médiator.
+Laissez le médiator sous le coin supérieur gauche de la vitre pour empêcher l'adhésif de coller de nouveau. Continuez avec un nouveau médiator.
+Étape 10
+Chauffez le bord gauche du téléphone pour ramollir l'adhésif en dessous.
+Étape 11
+Parcourez le bord gauche du téléphone avec un médiator afin de faire céder l'adhésif.
+Faites attention à ne pas enfoncer le médiator de plus d'un cm pour éviter d'abîmer la nappe du lecteur d'empreintes digitales.
+Étape 12
+Il faut encore décoller deux bandes adhésives de part et d'autre de la moitié inférieure du téléphone avant de retirer la coque arrière.
+Vous devez détacher ces bandes adhésives sans abîmer le nappe du lecteur d'empreintes digitales, qui occupe le milieu du téléphone.
+Étape 13
+Insérez l'extrémité plate d'une spatule (spudger) dans la moitié inférieure du bord droit du téléphone, enfoncez-la de 2 cm et faites-la glisser le long du bord droit afin de décoller la bande adhésive droite.
+N'enfoncez pas trop la spatule et faites lentement levier pour éviter d'endommager la nappe ou de fissurer la coque arrière.
+Étape 14
+Introduisez la spatule dans la moitié inférieure du bord gauche du téléphone, enfoncez-la de 2 cm et faites-la glisser le long du bord gauche pour décoller la bande adhésive gauche.
+N'enfoncez pas trop la spatule et faites lentement levier afin d'éviter d'abîmer la nappe ou de fissurer la coque arrière.
+Étape 15
+Ouvrir la vitre arrière
+Si la vitre est toujours collée, recommencez à faire chauffer et trancher l'adhésif restant aussi souvent que nécessaire.
+Soulevez soigneusement la vitre arrière en vérifiant qu'elle est complètement décollée.
+Ouvrez la coque arrière.
+Ne retirez pas encore entièrement la vitre arrière, car le lecteur d'empreintes digitales est toujours relié au téléphone par une nappe fragile.
+Lors du remontage, faites une pause ici pour remplacer l'adhésif de la vitre arrière avec une feuille adhésive prédécoupée ou du ruban adhésif double face à forte adhérence, comme le Tesa 61395.
+Après avoir refermé votre appareil lors du remontage, posez quelque chose de lourd, un livre ou deux, sur votre appareil pendant 30 à 60 minutes, afin que la colle adhère bien.
+Étape 16
+Déconnecter le lecteur d'empreintes digitales
+Avec un tournevis cruciforme, dévissez les deux vis qui fixent le cache du lecteur d'empreintes digitales.
+Une vis argentée de 1,5 mm
+Une vis dorée de 3,5 mm
+Étape 17
+Prenez une pincette pour retirer le cache du lecteur d'empreintes digitales.
+Étape 18
+Prenez la pointe d'une spatule afin de débrancher la nappe du lecteur d'empreintes digitales.
+Étape 19
+Ôter la vitre arrière
+Enlevez la vitre arrière.
+Étape 20
+Dévisser le châssis central
+Avec un tournevis cruciforme, dévissez les quinze vis dorées de 3,5 mm qui fixent le châssis central en plastique.
+Quelques vis sont recouvertes d'un autocollant. D'autres sont au fond d'un trou profond et il faut les retirer avec une pincette ou appuyer dessus derrière le châssis central.
+Étape 21
+Enlever le châssis central
+Insérez une spatule dans l'encoche du bord supérieur droit du châssis central.
+Faites levier sur le châssis pour détacher les clips qui fixent le châssis en aluminium de l'appareil.
+Ôtez le châssis central en plastique.
+Étape 22
+Déconnecter la batterie
+Faites levier sur la nappe de la batterie avec une spatule pour la débrancher.
+Étape 23
+Ôter le module de la caméra
+Prenez une pincette pour décoller soigneusement le morceau de ruban adhésif qui recouvre le connecteur du module de la caméra.
+Il n'est pas nécessaire d'enlever complètement ce morceau, mais seulement la partie qui recouvre le connecteur.
+Essayez de ne pas abîmer le morceau de ruban adhésif en vue de le réutiliser lors du remontage.
+Étape 24
+Faites levier sur le connecteur du module de la caméra avec le bout plat d'une spatule pour le débrancher.
+Enlevez le module.
+Étape 25
+Ôter le haut-parleur interne
+Introduisez la pointe d'une spatule sous le coin inférieur droit du haut-parleur interne et faites levier pour le soulever.
+Retirez le haut-parleur du smartphone.
+Étape 26
+Débrancher la carte mère
+Faites levier sur la nappe de la carte mère avec une spatule pour la débrancher de sa prise sur la carte mère.
+Étape 27
+Soulevez et déconnectez la nappe de l'écran avec votre spatule.
+Étape 28
+À l'aide d'une pincette, décollez le morceau de ruban adhésif qui recouvre le connecteur de la nappe des boutons latéraux.
+Gardez ce morceau de ruban adhésif pour le remontage.
+Étape 29
+Retournez le clapet de verrouillage du connecteur ZIF des boutons latéraux avec la pointe d'une spatule.
+Étape 30
+Faites glisser la nappe des boutons latéraux hors de sa prise avec une spatule.
+Étape 31
+Faites levier sur le câble d'antenne noir avec la pointe de la spatule pour le débrancher.
+Ces connecteurs UFL sont fragiles. Faites attention à ne rien abîmer quand vous les déconnectez ou les reconnectez.
+Étape 32
+Soulevez et débranchez le câble d'antenne bleu avec la pointe de votre spatule.
+Étape 33
+Enlever la carte mère
+Avec un tournevis cruciforme, retirez les deux vis argentées de 2 mm qui fixent la carte mère.
+Étape 34
+Faites levier sur le coin supérieur droit de la carte mèreavec la pointe de la spatule.
+Ôtez la carte mère.
+Lors du remontage, vérifiez que lejoint de la prise jack est bien installé sur le connecteur de la prise jack. Puis, insérez la carte mère en commençant par le côté du joint et en vérifiant qu'il n'y a pas de nappes coincées en dessous, puis mettez-la en place. Contrôlez que la caméra frontale est bien à sa place.
+
+------------------
+#FICHIER IFIXIT_2214
+TITRE : Ponceuse Multifonction Filaire Dexter 220W - 220MFS2.5 Charbon Replacement
+URL : https://fr.ifixit.com/Tutoriel/Ponceuse+Multifonction+Filaire+Dexter+220W+-+220MFS2.5+Charbon+Replacement/131171
+---------
+Introduction
+Ce tutoriel vous montre le changement d’un seul charbon, pour changer le deuxième il vous suffit de suivre la même méthode.
+Outils
+Visseuse Dexter 20V 
+Tournevis Dexter <span class="quantity highlight-text highlight-gray highlight-small">× 2</span>
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Débranchez
+Avant de commencer pensez à débrancher la prise du secteur.
+Étape 2
+Enlevez le joint au dos de l'appareil.
+Étape 3
+Dévissez la première vis du pad.
+Puis dévissez les quatre vis restantes et tirez vers le haut pour l'enlever.
+Enfin enlevez les vis situées sur la coque de l'appareil.
+Étape 4
+Cette étape est la même pour les deux charbons.
+Coincez les deux charbons pour pouvoir sortir le rotor. Avec un tournevis les remonter, puis avec un autre tournevis appuyer sur la languette.
+Soulevez la charbon et avec l'autre pointe du tournevis, venez tordre la petite patte.
+Puis retirez le charbon.
+Étape 5
+Enlevez le rotor en soulevant le cadre pour pouvoir le récupérer plus facilement.
+Étape 6
+À l'aide d'un tournevis, libérez le crochet pour faire sortir le charbon.
+Étape 7
+Grâce à une pince, attrapez le nouveau charbon pour l'insérer dans son logement.
+Avec un tournevis, venez le pousser jusqu'à bout, puis verrouiller le crochet afin de le faire tenir.
+Étape 8
+Replacez le rotor dans son logement.
+Débloquez les charbons.
+Replacez le câble, la gaine doit arriver entre les deux plots et le manchon doit être positionné dans son logement.
+Étape 9
+Replacez la coque de la ponceuse en faisant attention à bien positionner les stabilisateurs dans leurs logements.
+Enfin enlevez les vis situées sur la coque de l'appareil.
+Étape 10
+Replacez la pad en le positionnant parfaitement dans les embouts.
+Revissez les quatre vis.
+Puis la dernière vis. Pour finir remettez le joint à sa place.
+
+------------------
+#FICHIER IFIXIT_2436
+TITRE : Remplacement de l'objectif du zoom du Ricoh Shotmaster 130Z
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+l'objectif+du+zoom+du+Ricoh+Shotmaster+130Z/74096
+---------
+Introduction
+Si l'objectif zoom de votre appareil photo Ricoh Shotmaster 130Z est cassé ou fonctionne mal, ce guide vous montrera comment le remplacer étape par étape.
+Outils
+Tweezers
+Phillips #00 Screwdriver
+Phillips 0 Screwdriver
+iFixit Opening Tool
+Pièces
+Ricoh Aspheric Zoom Lens 
+Étape 1
+Objectif zoom
+Réglez les molettes sur "A" (Auto) et sur le mode Off.
+Vous ne pourrez pas déplacer ces cadrans une fois le boîtier ouvert.
+Étape 2
+Retirez les 5 vis Phillips sur les côtés et à l'arrière.
+Étape 3
+Retirez les vis JIS # 00 de 5 mm du bas de la caméra.
+Faites attention aux vis de 6 mm sur les côtés de la fente du trépied, car elles sont de taille légèrement différente du reste des vis. Cependant, vous pouvez toujours utiliser un tournevis J00 pour les retirer.
+Étape 4
+À l'aide d'un outil d'ouverture, soulevez le boîtier de la fente du trépied (en bas) jusqu'à ce que la partie arrière du boîtier soit libérée.
+Continuez à utiliser l'outil d'ouverture pour l'insérer et soulevez-le juste à côté de la dragonne de l'appareil photo.
+Cela libérera la partie avant du boîtier.
+Étape 5
+Utilisez un tournevis JIS # 0 pour retirer les trois vis marquées situées autour du périmètre de l'objectif.
+Étape 6
+Procédez au retrait des deux vis à l'aide d'un tournevis JIS # 00.
+Utilisez une pince à épiler pour soulever l'objectif de la carte.
+
+------------------
+#FICHIER IFIXIT_1132
+TITRE : Remplacement du ventilateur de la Nintendo Wii
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+ventilateur+de+la+Nintendo+Wii/3459
+---------
+Introduction
+Utilisez ce tutoriel pour remplacer un ventilateur défectueux.
+Outils
+Metal Spudger
+Phillips #00 Screwdriver
+Tri-point Y1 Screwdriver
+Tweezers
+Pièces
+Nintendo Wii Fan 
+Étape 1
+Façade
+Utilisez une spatule (spudger) en métal pour retirer les caches de vis en plastique blanc, collés sous la coque inférieure, à l'avant de la Wii.
+Étape 2
+Enlevez les deux vis Tri-wing de 8,3 mm dont vous venez d'enlever les caches.
+Étape 3
+Enlevez la vis cruciforme de 5,9 mm située sous la trappe d'accès aux ports contrôleur, la plus proche de la façade.
+Étape 4
+Utilisez une spatule en métal pour retirer le patin en caoutchouc collé sur le côté de la Wii, près de l'ouverture du lecteur DVD.
+Étape 5
+Enlevez la vis cruciforme de 5,9 mm cachée sous le patin que vous venez d'enlever.
+Étape 6
+Tirez délicatement la façade de l'avant de la Wii.
+Utilisez une pincette pour déconnecter le connecteur en plastique du câble LED de la carte mère.
+Retirez la façade.
+Étape 7
+Coque externe
+Ouvrez la trappe d'accès aux ports contrôleur jusqu'à ce qu'elle soit perpendiculaire à la plaque noire des ports.
+Tirez la trappe vers le haut pour la détacher de la coque externe.
+Répétez cette procédure pour la trappe d'accès au lecteur de carte mémoire.
+Étape 8
+Enlevez les deux vis cruciformes de 4,1 mm restantes le long du bord supérieur de la plaque noire des ports contrôleur.
+Soulevez la plaque de la bordure supérieure, et enlevez-la de la Wii.
+Étape 9
+Enlevez les deux vis cruciformes de 5 mm au dessus des ports contrôleur.
+Étape 10
+Utilisez une spatule en métal pour enlever les trois cache-vis collés sur le côté de la Wii.
+Étape 11
+Enlevez les vis suivantes :
+Deux vis cruciformes de 5 mm
+Une vis Tri-wing de 8,2 mm
+Étape 12
+Utilisez une spatule en métal pour enlever les deux patins en caoutchouc collés sur la face inférieure de la Wii, près des ports arrière.
+Étape 13
+Enlevez les deux vis Tri-wing de 8,2 mm cachées sous les patins que vous venez de retirer.
+Étape 14
+Soulevez la coque externe pour la retirer de la Wii.
+Étape 15
+Ventilateur
+Déconnectez le connecteur du ventilateur avec des pincettes et soulevez-le tout droit hors de sa prise sur la carte mère.
+Assurez-vous que votre pincette est fixée sur le connecteur du ventilateur et non sur la prise reliée à la carte mère.
+Étape 16
+Retirez les deux vis cruciformes de 10 mm fixant le ventilateur à la base du ventilateur.
+Étape 17
+Retirez le ventilateur de la Wii.
+
+------------------
+#FICHIER IFIXIT_2398
+TITRE : Remplacement de la carte mère du NeuTab N7 Pro
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+carte+m%C3%A8re+du+NeuTab+N7+Pro/60746
+---------
+Introduction
+Dans ce guide, nous allons retirer la carte mère. La carte mère est un circuit imprimé contenant les principaux composants de la tablette. Il relie les principaux accessoires tels que l'appareil photo, la batterie et l'écran. En suivant ce guide, vous pourrez remplacer votre carte mère avec succès sur votre tablette NeuTab N7 Pro.
+Outils
+iFixit Opening Tool
+Soldering Workstation
+Phillips 0 Screwdriver
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Carte mère
+Éteignez votre appareil avant de commencer le démontage.
+Insérez l’outil d’ouverture en plastique et retirez le boîtier du dos de l’appareil en déplaçant lentement l’outil d’ouverture en plastique le long de l’appareil.
+Étape 2
+Utilisez un pistolet à souder pour séparer tous les fils soudés de la carte mère.
+Pour un guide complet sur la soudure, cliquez ici.
+Étape 3
+Utilisez un spudger pour relâcher avec précaution les languettes des trois connecteurs ZIF fixant les câbles rubans à la carte mère.
+Tirez délicatement les rubans avec des pincettes.
+Étape 4
+Utilisez un tournevis cruciforme # J0 pour retirer trois vis de 1 mm de la carte mère.
+
+------------------
+#FICHIER IFIXIT_3717
+TITRE : Remplacement du SSD du MacBook Air 13" début 2015
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+SSD+du+MacBook+Air+13-Inch+d%C3%A9but+2015/38535
+---------
+Introduction
+Utilisez ce tutoriel pour remplacer ou mettre à niveau le disque dur SSD de votre MacBook Air 13" début 2015. Ce MacBook Air utilise un connecteur de disque de stockage propriétaire, et n'est donc pas compatible avec les disques M.2 classiques sans l'utilisation d'un adaptateur.
+Avant d'effectuer cette réparation, et si c'est du tout possible, sauvegardez les données de votre SSD. Puis familiarisez vous avec la récupération internetou la création d'un disque externe de démarrage pour être prêt à installer macOS sur votre nouveau disque et transférer vos données vers le nouveau SSD.
+Enfin, nous vous recommandons fortement d'installer macOS 10.13 High Sierra (ou un macOS plus récent) avant de remplacer le disque SSD d'origine de votre MacBook Air. La plupart des nouveaux SSD nécessitent des drivers de stockage actualisés non disponible sur les versions de macOS antérieures à High Sierra.
+Outils
+P5 Pentalobe Screwdriver Retina MacBook Pro and Air 
+T5 Torx Screwdriver 
+Pièces
+MacBook Pro and MacBook Air (Mid 2013 to Early 2015) SSD Upgrade Bundle 
+OWC Aura Pro X2 SSD 
+Étape 1
+Boîtier inférieur
+Avant de commencer, éteignez votre MacBook. Fermez l'écran et posez-le à l'envers sur une surface souple.
+Utilisez un tournevis P5 Pentalobe pour retirer les dix vis qui fixent le boîtier inférieur, dont les dimensions sont les suivantes :
+Deux vis de 9 mm
+Huit vis de 2,6 mm
+Étape 2
+Mettez vos doigts entre l'écran et le boîtier inférieur et tirez vers le haut pour détacher le boîtier inférieur.
+Enlevez la partie inférieure et mettez-la de côté.
+Étape 3
+Connecteur de batterie
+Afin de s'assurer que l'ordinateur est bien hors tension et ne se rallumera pas pendant la procédure, il est recommandé de déconnecter la batterie.
+Saisissez la languette en plastique transparent attachée au connecteur de la batterie et tirez-la parallèlement à la surface de la carte mère en direction du bord avant de l'appareil.
+Ne tirez pas vers le haut sur le connecteur pendant que vous le déconnectez, vous risqueriez d'endommager la prise du connecteur.
+Étape 4
+SSD
+Retirez la seule vis Torx T9 de 2,9 mm fixant le SSD à la carte mère.
+Étape 5
+Soulevez délicatement l'extrémité du SSD d'environ 1,2 cm et tirez-le tout droit hors de sa prise sur la carte mère.
+Ne soulevez pas le SSD de plus de 1,2 cm, cela pourrait endommager le SSD ou sa prise sur la carte mère.
+Au moment de remonter le SSD, assurez-vous qu'il est correctement installé avant de revisser la vis qui le fixe.
+
+------------------
+#FICHIER IFIXIT_1888
+TITRE : Remplacement de l'ensemble lentille et flash du Nikon Coolpix 4600
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+l'ensemble+lentille+et+flash+du+Nikon+Coolpix+4600/9219
+---------
+Introduction
+Ce guide d'installation vous aidera à retirer et à remplacer le flash de l'appareil photo Nikon Coolpix 4600. L'ensemble d'objectif est très complexe et compliqué, le démontage de l'ensemble d'objectif réel ne doit être tenté que par un professionnel. Ce guide vous montrera comment retirer et remplacer l'ensemble dans son ensemble.
+Outils
+Phillips #00 Screwdriver 
+Soldering Workstation 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Boitier avant et arrière
+Repérez les six vis à l'extérieur de la caméra (2 3,3 mm en bas, 2 5,25 mm à gauche et 2 5,25 mm à droite).
+À l'aide d'un tournevis cruciforme 00, retirez les six vis.
+Étape 2
+Séparez soigneusement le boîtier avant et arrière.
+Le boîtier avant est fixé aux composants internes et ne peut pas être retiré indépendamment.
+Étape 3
+Regardez attentivement la connexion entre le câble ruban et la carte mère. Repérez les deux languettes grises de chaque côté du support de connexion.
+Faites glisser les languettes grises vers le bas de l'appareil photo. Déconnectez doucement le câble ruban de la carte mère.
+Après avoir déconnecté le ruban de données, vous pouvez maintenant séparer le boîtier arrière du boîtier avant.
+Étape 4
+Carte mère
+Localisez et retirez les quatre vis 4,25 mm sur la carte mère à l'aide d'un tournevis Phillips 00.
+Étape 5
+Retirez le câble ruban en haut à droite de la carte mère. Pour retirer le câble, faites glisser les deux languettes grises, situées des deux côtés, vers le haut de la caméra et tirez doucement sur le câble.
+Étape 6
+En tournant la caméra vers la gauche et en l'inclinant vers le haut, regardez l'extrémité gauche de la carte mère pour localiser le support gris.
+Tournez le support gris dans le sens antihoraire pour le retirer du support LCD argenté.
+Étape 7
+À l'aide d'un tournevis cruciforme 00, retirez la vis de 4,25 mm sur le bord inférieur gauche du support LCD.
+Soulevez le support LCD et faites glisser le support gris à travers le support LCD. Le support LCD doit maintenant être complètement retiré.
+Étape 8
+Dessouder le fil (noir et rouge) de la carte mère.
+Retirez le câble ruban orange. Pour ce faire, faites glisser chaque côté de la barre de verrouillage vers le centre de la caméra. Tirez doucement sur le câble ruban pour le retirer.
+Étape 9
+Décollez délicatement le ruban noir en bas, au milieu de la carte mère. En dessous, vous trouverez une vis.
+Retirez la vis de 4,25 mm avec un tournevis cruciforme 00.
+Étape 10
+Tirez doucement la carte mère loin de l'objectif.
+Retournez l'appareil photo.
+La connexion de la carte mère au boîtier avant est composée de sept fils.
+Dessouder les sept fils.
+Si vous ne retirez la carte mère que comme étape intermédiaire pour accéder à d'autres composants, ne dessoudez pas encore, car tous les fils n'ont pas besoin d'être retirés.
+Soyez prudent lors du dessoudage des fils. Si vous ne savez pas comment dessouder correctement un fil, demandez de l'aide pour éviter d'endommager la carte mère. Assurez-vous également que les craquements de soudure ne tombent pas dans le boîtier de l'objectif.
+Étape 11
+Lentille et flash
+L'ensemble flash et objectif doit maintenant être séparé de la carte mère.
+Localisez le condensateur. C'est le composant qui ressemble en taille et en forme à une pile AAA.
+Avec l'objectif droit et face à vous, soulevez doucement le condensateur vers le haut et vers la gauche pour retirer le flash principal.
+Étape 12
+Localisez la vis de 4,8 mm au-dessus du milieu de l'objectif à l'avant et retirez-la.
+L'ampoule du flash peut maintenant être soulevée de l'objectif.
+Étape 13
+L'ensemble lentille est maintenant séparé de tous les autres composants.
+Suivez les étapes dans l'ordre inverse pour réinstaller la nouvelle lentille.
+
+------------------
+#FICHIER IFIXIT_3661
+TITRE : Remplacement du lecteur de carte SIM de l'Asus MeMO Pad HD 8 ME180A
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+lecteur+de+carte+SIM+de+l'Asus+MeMO+Pad+HD+8+ME180A/74167
+---------
+Introduction
+Vous apprendrez comment remplacer le lecteur de carte SIM. Consultez ce guide si vous rencontrez des difficultés avec le lecteur de carte SIM. Pour remplacer le lecteur de carte SIM, vous devez retirer la batterie. Veuillez utiliser notre Guide de remplacement de la batterie du Asus MeMO Pad HD 8 ME180A avant de commencer.
+Outils
+iFixit Opening Tool
+Phillips 0 Screwdriver
+Heavy-Duty Spudger
+Anti-Static Wrist Strap
+Soldering Workstation
+Desoldering Braid
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Batterie
+Utilisez un outil d'ouverture en plastique pour séparer la moitié arrière de la moitié avant.
+Retirez le panneau arrière de l'appareil.
+Les boutons de volume peuvent tomber du boîtier. Veillez à ne pas les perdre.
+Étape 2
+Assurez-vous de porter votre dragonne antistatique.
+Étape 3
+Soulevez la barre blanche du connecteur ZIF et retirez le connecteur métallique.
+Étape 4
+À l'aide de votre spudger, appuyez sur les deux points affichés afin de libérer les câbles.
+Assurez-vous que les câbles de l'écran tactile sont complètement déconnectés.
+Étape 5
+À l'aide d'un tournevis PH # 0, retirez les douze vis argentées de 3,2 mm.
+Retirez la batterie.
+Étape 6
+Carte mère
+Déconnectez le câble d'antenne GPS.
+Étape 7
+Retournez le loquet et tirez sur le câble ruban pour déconnecter le connecteur ZIF.
+Étape 8
+Retournez le loquet et tirez sur le câble ruban pour déconnecter le connecteur ZIF.
+Étape 9
+Utilisez un tournevis PH # 0 pour dévisser les six vis noires de 3,0 mm.
+Soulevez la carte mère pour la retirer.
+Étape 10
+Lecteur de carte SIM
+Lors du retrait de la carte mère, desserrez les broches qui maintiennent le lecteur de carte SIM en place.
+Les fers à souder ont tendance à devenir très chauds. Fais attention de ne pas te brûler.
+Consultez le guide technique de soudure d'iFixit pour améliorer vos compétences en soudure.
+Si vous le souhaitez, utilisez une pince à épiler pour retirer la carte SIM.
+
+------------------
+#FICHIER IFIXIT_4731
+TITRE : Remplacement du boîtier inférieur du MacBook Pro 13" deux ports Thunderbolt 2019
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+bo%C3%AEtier+inf%C3%A9rieur+du+MacBook+Pro+13-Inch+deux+ports+Thunderbolt+2019/133306
+---------
+Introduction
+C'est le point de départ de chaque réparation de votre MacBook Pro. Vous avez besoin d'un tournevis Pentalobe P5 pour ôter le boîtier arrière et accéder à l'intérieur de votre appareil.
+Pour votre sécurité, laissez la batterie de votre MacBook Pro se vider avant de vous lancer. Une batterie lithium-ion chargée peut déclencher un incendie dangereux et incontrôlable si on la perce accidentellement.
+Outils
+P5 Pentalobe Screwdriver Retina MacBook Pro and Air
+Suction Handle
+iFixit Opening Picks (Set of 6)
+Pièces
+MacBook Pro 13" (A2159, 2019) Lower Case 
+Étape 1
+Désactiver le démarrage automatique
+Avant de commencer cette procédure, il vous faut désactiver la fonction démarrage automatique de votre Mac. Le démarrage automatique allume votre ordinateur dès que vous l'ouvrez et risque de se déclencher accidentellement lors du démontage. Suivez ce tutoriel ou les instructions abrégées ci-dessous pour désactiver le démarrage automatique.
+Allumez votre Mac et lancez Terminal.
+Copiez-collez ou tapez la commande suivante dans Terminal :
+sudo nvram AutoBoot=%00
+Cliquez sur la touche [return]. Si nécessaire, saisissez votre mot de passe d'admin et cliquez sur la touche [return]. Remarque : il est possible que cette touche porte le symbole ⏎ ou l'inscription "enter".
+Vous pouvez à présent éteindre en toute sécurité votre Mac et ouvrir le boîtier inférieur sans démarrer involontairement votre dispositif.
+Quand vous avez fini de réparer et de remonter votre Mac, réactivez le démarrage automatique avec la commande suivante :
+sudo nvram AutoBoot=%03
+Étape 2
+Démonter le boîtier inférieur
+Avant de vous lancer, débranchez et éteignez votre MacBook. Fermez l'écran et posez-leà l'envers sur une surface lisse.
+Dévissez les six vis qui fixent le boîtier inférieur à l'aide d'un tournevis Pentalobe P5 :
+Deux vis de 6,2 mm
+Deux vis de 5,3 mm
+Deux vis de 3,4 mm
+Tout au cours de la réparation, gardez la trace de chaque vis et assurez-vous de remettre chacune là où elle était pour éviter d'endommager votre appareil.
+Étape 3
+Posez une ventouse sur le boîtier inférieur, vers le milieu du bord avant du MacBook Pro.
+Soulevez la ventouse pour créer un léger espace entre le boîtier inférieur et le châssis.
+Étape 4
+Insérez le coin d'un médiator dans l'espace créé entre le boîtier inférieur et le châssis.
+Faites glisser le médiator le long du coin le plus proche, puis continuez jusqu'au milieu du bord du boîtier.
+Cela ouvrira le premier des clips cachés qui fixent le boîtier arrière au châssis. Vous devriez sentir et entendre le clic du clip qui s'ouvre.
+Étape 5
+Répétez l'étape précédente de l'autre côté. Faites glisser votre médiator sous le boîtier inférieur et le long du côté pour ouvrir le deuxième clip.
+Étape 6
+Réinsérez votre médiator sous le bord avant du boîtier inférieur, à côté de l'une des vis centrales.
+Faites pivoter le médiator d'un coup sec pour détacher le troisième clip qui fixe le boîtier inférieur au châssis.
+Répétez la procédure à côté de l'autre vis centrale pour ouvrir le quatrième clip.
+Étape 7
+Tirez fermement le boîtier inférieur vers l'avant du MacBook (en l'éloignant de la charnière) pour détacher le dernier des clips qui fixent le boîtier arrière.
+Il peut être utile de tirer d'abord d'un côté, puis de l'autre.
+Tirez à l'horizontale, et non à la verticale.
+Cette manipulation nécessite de forcer un peu.
+Étape 8
+Ôtez le boîtier inférieur.
+Pour le remonter :
+Posez-le à sa place et alignez les clips coulissants du côté de la charnière. Appuyez et faites glisser le boîtier vers la charnière. Le mouvement devrait se bloquer quand les clips s'enclenchent.
+Si ces clips sontbien accrochés et que le boîtier inférieur semble aligné correctement, appuyez fermement dessus pour enclencher les quatre clips cachés en dessous. Vous devriez sentir et entendre le clic des clips qui s'enclenchent.
+
+------------------
+#FICHIER IFIXIT_6285
+TITRE : Remplacement de la batterie du Canon EOS A2
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+batterie+du+Canon+EOS+A2/5486
+---------
+Introduction
+Votre batterie peut être à l'origine de nombreux problèmes. Il est très important de savoir comment y accéder.
+Étape 1
+Batterie
+Repérez le couvercle du logement de la batterie / poignée de l'appareil photo sur le côté gauche de l'appareil photo et soulevez la languette de retrait rotative.
+Étape 2
+Tournez la languette dans le sens des aiguilles d'une montre pour déverrouiller la porte, puis tirez vers l'extérieur de la caméra pour la retirer.
+Étape 3
+Retirez la batterie de l'intérieur de son logement et mettez le couvercle de côté.
+
+------------------
+#FICHIER IFIXIT_4431
+TITRE : Remplacement de la webcam du Gateway KAV60 LT2016U
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+webcam+du+Gateway+KAV60+LT2016U/19302
+---------
+Introduction
+Une fois que vous avez ouvert le netbook pour atteindre le moniteur, la webcam peut être facilement retirée.
+Outils
+Phillips 0 Screwdriver 
+iFixit Opening Tool 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Batterie
+Déverrouillez le loquet situé dans le coin supérieur gauche du Netbook.
+La marque rouge sert à indiquer que la batterie à été correctement déverrouillée.
+Retirez la batterie.
+Lorsque vous travaillez sur du matériel électronique, il est toujours sage de débrancher la source d'alimentation avant de démonter l'appareil.
+Étape 2
+Panneau supérieur
+Assurez-vous que la mémoire RAM, le disque dur et la carte WiFi ont été retirés de l'ordinateur avant d'essayer de retirer le panneau afin qu'ils ne soient pas endommagés au cours du processus.
+Étape 3
+Retirez six (6) vis de 5 mm, deux (2) vis de 17,5 mm et trois (3) vis de 2,5 mm à l'arrière, à l'aide d'un tournevis cruciforme PH0, comme indiqué ici.
+Étape 4
+Poussez le clavier à l'aide d'un spudger ou d'un outil d'ouverture en plastique à l'endroit exact indiqué sur la photo.
+N'utilisez pas de tournevis comme outil d'ouverture contrairement à ce qui est montré dans cet exemple.
+Déconnectez soigneusement le câble plat du clavier de la carte mère et retirez le clavier.
+Étape 5
+Enlevez les cinq (5) vis de 5 mm montrées ici à l'aide d'un tournevis cruciforme PH0.
+Étape 6
+Séparez le panneau supérieur du panneau arrière. Il est possible de le faire sans outil, mais vous pouvez également utiliser un outil d'ouverture en plastique pour augmenter l'effet de levier.
+Veillez à maintenir une pression uniforme tout autour du panneau afin qu'il ne soit pas plié après la réparation.
+Débranchez soigneusement les deux câbles plats pour terminer la séparation du panneau supérieur.
+Étape 7
+LCD
+Soulevez la bordure supérieure du cadre autour du moniteur à l'aide d'un outil d'ouverture en plastique, comme illustré.
+Faites attention à ne pas endommager l'écran de l'ordinateur pendant le processus.
+Étape 8
+Séparez le moniteur du cadre une fois tous les clips détachées.
+Étape 9
+Enlevez les six (6) vis de 5 mm montrées ici à l'aide d'un tournevis cruciforme PH0.
+Étape 10
+Retirez l'écran du panneau supérieur.
+Étape 11
+Webcam
+La webcam se trouve ici, comme indiqué.
+Débranchez la webcam des fils qui l'attachent à l'ordinateur.
+Retirez la webcam du panneau supérieur.
+
+------------------
+#FICHIER IFIXIT_7228
+TITRE : Remplacement de la batterie du CrystalView NB4-35788
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+batterie+du+CrystalView+NB4-35788/77132
+---------
+Introduction
+Remplacez votre batterie en train de mourir pour restaurer l’alimentation de votre CrystalView Netbook.
+Outils
+Phillips #00 Screwdriver
+Spudger
+Soldering Workstation
+Pièces
+Lead-Free Solder 
+Étape 1
+Batterie
+Éteignez l'appareil avant de commencer le démontage.
+À l'aide d'un tournevis Phillips n ° 00, retirez les vis suivantes:
+Deux vis de 6 mm
+Trois vis 4 mm
+Quatre vis de 3 mm
+Ces vis peuvent être retirées dans n'importe quel ordre.
+Étape 2
+À l’aide d’un tournevis Phillips n ° 00, retirez les vis situées sous les deux supports supérieurs.
+Étape 3
+Retirez le cache à l'arrière de l'appareil.
+Étape 4
+Retirez la batterie avec un spudger en plastique.
+N'utilisez pas de spudger en métal car cela pourrait endommager l'appareil.
+Étape 5
+Détachez le film jaune sur l'ancienne pile pour exposer les fils rouge et noir
+Dessouder ces fils pour déconnecter l'ancienne batterie
+Soyez prudent lorsque vous utilisez un fer à souder car il fait extrêmement chaud.
+Suivez le guide Comment souder et dessouder pour obtenir de l'aide.
+
+------------------
+#FICHIER IFIXIT_7743
+TITRE : Remplacement de la RAM du Gateway MS2285
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+RAM+du+Gateway%C2%A0MS2285/33586
+---------
+Introduction
+Ce tutoriel vous enseignera comment retirer vos modules de RAM. Mettre à niveau la RAM est une pratique courante parmi les utilisateurs. Une chose à prendre en compte est que si vous voulez seulement retirer le module de RAM inférieur, vous devrez d’abord retirer le module supérieur.
+Outils
+Phillips #00 Screwdriver 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Retourner l’ordinateur portable
+Retournez l’ordinateur portable de sorte que le dessous soit face à vous.
+Étape 2
+Déverrouiller la batterie
+Faites glisser le petit loquet vers le symbole de cadenas déverrouillé.
+Étape 3
+Détacher la batterie
+Faites glisser le grand loquet vers l’icône de cadenas déverrouillé.
+Ce loquet est monté sur ressort et peut nécessiter un petit peu de force.
+Si cela est fait correctement, un déclic se fera entendre et la batterie sera légèrement relevée.
+Étape 4
+Retirer la batterie
+Prenez l’extrémité relevée de la batterie et soulevez-la vers le haut.
+Étape 5
+Dévisser le cache de maintenance
+Utilisez un tournevis à tête cruciforme pour retirer les cinq vis qui maintiennent le cache de maintenance.
+Les vis sont filetées dans le sens antihoraire.
+Étape 6
+Retirer le cache de maintenance
+Placez vos doigts dans l’encoche du cache de maintenance et soulevez pour le retirer.
+Étape 7
+Détacher le module de RAM supérieur
+Écartez en même temps les deux attaches du module de RAM supérieur.
+Si cela est fait correctement, le module devrait s’être soulevé.
+Étape 8
+Retirer le module de RAM supérieur
+Saisissez le module et tirez-le bien droit.
+Ne touchez pas les connecteurs dorés.
+Étape 9
+Détacher le module de RAM inférieur
+Écartez en même temps les deux attaches du module de RAM inférieur.
+Si cela est fait correctement, le module devrait s’être soulevé.
+Étape 10
+Retirer le module de RAM inférieur
+Comme si vous enleviez le module supérieur, saisissez le module et tirez-le bien droit.
+Ne touchez pas les connecteurs dorés.
+
+------------------
+#FICHIER IFIXIT_4297
+TITRE : Remplacement du connecteur de dock de l'iPad 3 Wi-Fi
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+connecteur+de+dock+de+l'iPad+3+Wi-Fi/11607
+---------
+Introduction
+Utilisez ce tutoriel pour remplacer le connecteur de dock.
+Outils
+iOpener
+Phillips 0 Screwdriver
+Phillips #00 Screwdriver
+Spudger
+Pièces
+iPad 3/4 Adhesive Strips 
+iPad 3 Dock Connector 
+Étape 1
+Chauffer un iOpener
+Nous recommandons de nettoyer le micro-ondes avant de commencer. D'éventuels restes au fond risquent d'adhérer à votre iOpener.
+Placez l'iOpener au centre du micro-ondes.
+Pour les micro-ondes à plateau tournant : assurez-vous que le plateau tourne bien. Si votre iOpener se coince, il risque de surchauffer et de brûler.
+Étape 2
+Chauffez l'iOpener pendant trente secondes.
+Comme l'iOpener refroidit au cours de la réparation, rechauffez-le à nouveau au micro-ondes, mais ne dépassez pas les trente secondes à chaque fois.
+Faites attention de ne pas surchauffer l'iOpener pendant la réparation. En cas de surchauffe, l'iOpener risque d'exploser.
+Ne touchez jamais l'iOpener s'il vous paraît gonflé.
+Si le milieu de l'iOpener est encore trop chaud au toucher,continuez à l'utiliser jusqu'à ce qu'il soit assez froid pour le chauffer à nouveau. Un iOpener correctement chauffé devrait rester chaud pendant environ 10 minutes.
+Étape 3
+Sortez l'iOpener du micro-ondes en le tenant par l'une des deux extrémités plates, car le centre de l'outil risque d'être brûlant.
+L'iOpener sera très chaud, alors soyez prudent en le manipulant. Utilisez une manique si nécessaire.
+Étape 4
+Panneau frontal
+Si la vitre de votre écran est fissurée, limitez la casse et évitez de vous blesser au cours de la réparation en collant de la bande adhésive sur la vitre.
+Posez des bandes adhésives transparentes se chevauchant sur la vitre de l'iPad jusqu'à ce que toute la surface soit couverte.
+Ainsi les éclats de verre seront maintenus en place et la structure restera stable lorsque vous ferez levier et soulèverez l'écran.
+Faites de votre mieux en suivant le reste des instructions du tutoriel. Toutefois, si la vitre est cassée, elle continuera à se fissurer pendant que vous travaillerez. Vous aurez besoin d'un outil en métal pour mettre les éclats de verre de côté.
+Portez des verres de sécurité pour protéger l'écran et veillez à ne pas abîmer l'écran LCD.
+Étape 5
+Encore une fois, comme vous risquez de travailler sur du verre brisé au cours de cette procédure, nous vous recommandons vivement de porter des lunettes de sécurité pour vous protéger contre les éclats de verre.
+Posez l'iOpener à plat sur le bord droit de l'iPad, en le lissant de sorte à assurer un bon contact entre la surface de l'iPad et l'iOpener.
+Laissez le sac posé sur l'iPad pendant environ 90 secondes avant d'essayer d'ouvrir le panneau frontal.
+Étape 6
+Il y a un petit espace dans l'anneau adhésif de l'iPad, dans le coin supérieur droit de l'iPad à environ 2,0 pouces (~ 5 cm) du haut de l'iPad. Vous allez exploiter cette faiblesse.
+Alignez l'outil avec le bouton du silencieux. Insérez la pointe d'un outil d'ouverture en plastique dans l'espace entre la vitre frontale et le joint en plastique. Insérez juste la pointe de l'outil d'ouverture, juste assez pour élargir la fissure.
+Il faudra un peu forcer pour arriver à coincer la pointe de l'outil d'ouverture entre le verre et le plastique. Travaillez patiemment et avec précaution, en agitant l'outil d'ouverture en plastique d'avant en arrière si nécessaire.
+Étape 7
+Assurez-vous de placer l'outil à l'endroit approprié entre le joint de l'écran en plastique et la vitre tactile.
+Étape 8
+En maintenant la pointe de l'outil en plastique coincée entre la vitre frontale et le joint en plastique, glissez un médiator en plastique dans la fente, juste à droite de l'outil en plastique.
+Étape 9
+Retirez de l'iPad l'outil en plastique et poussez le médiator plus en avant sous la vitre frontale, à environ 0,5 inches (1,2 cm) du bord.
+Étape 10
+Pendant que vous travaillez à ôter l'adhésif sur le côté droit de l'iPad, faites à nouveau chauffer l'iOpener et placez-le sur le bord inférieur de l'iPad.
+Étape 11
+Pendant que l'iOpener chauffe le bord inférieur, commencezà décoller l'adhésif du bord droit de l'iPad.
+Faites glisser le médiator vers le bas le long du bord de l'iPad et décollez l'adhésif au fur et à mesure.
+L'adhésif est très fort et vous devrez forcer autant que nécessaire. Travaillez soigneusement.
+Si vous voyez que le bout du médiator dépasse du côté de la vitre, tirez-le un peu en arrière. En utilisant le médiator à ce niveau, vous n'endommagerez rien et vous enlèverez les restes de colle sur tout le LCD.
+Étape 12
+Il sera peut-être nécessaire de reposer l'iOpener chauffé sur le bord droit de l'iPad au cours de la procédure. Cela dépend du temps que l'iPad a pu refroidir pendant que travaillez dessus.
+Si le médiator reste pris dans l'adhésif, faites-le "pivoter" le long du bord de l'iPad, en continuant ainsi à enlever l'adhésif.
+Étape 13
+Avant d'enlever le premier médiator du bord inférieur de l'iPad, insérez un deuxième médiator sous le bord droit de la vitre frontale pour l'empêcher de se recoller à l'adhésif.
+Faites à nouveau chauffer l'iOpener et posez-le sur le bord supérieur de l'iPad.
+Étape 14
+Les prochaines étapes nécessitent d'extrêmes précautions.
+L'antenne Wi-Fi est attachée au bord droit inférieur du boîtier arrière de l'iPad par des vis et un câble. En raison de l'orientation de l'antenne Wi-Fi, il est impératif de procéder avec précaution sous peine d'endommager irréversiblement l'antenne Wi-Fi.
+Vous devez enlever l'adhésif fixant l'antenne au panneau frontal sans endommager les pièces délicates attachant l'antenne au bas de l'iPad. Suivez soigneusementles prochaines étapes.
+Étape 15
+Glissez le médiator dans le coin inférieur droit de l'iPad pour y décoller l'adhésif.
+Ne glissez pasle médiator plus loin que le coin inférieur droit. Vous endommageriez l'antenne Wi-Fi.
+Étape 16
+Pendant cette étape, vous devez faire glisser le médiator le long du bord inférieur droit du panneau frontal. L'antenne Wi-Fi est très proche du coin et se coupe facilement, si l'adhésif est décollé de façon incorrecte.
+Ne retirez pas complètement le médiator sous la vitre tactile, mais seulement jusqu'à ce que environ 1/8ème de sa pointe reste en dessous de la vitre tactile.
+Faites glisser la pointe du médiator le long du bord inférieur de l'iPad pour décoller l'adhésif de l'antenne Wi-Fi.
+Étape 17
+Une fois que vous avez dépassé l'antenne Wi-Fi (à peu près 7 cm à partir du bord droit ou directement à côté du bouton home), réinsérez complètement le médiator.
+Faites glisser le médiator vers la droite, pour décoller l'adhésif fixant l'antenne Wi-Fi à la vitre frontale.
+L'antenne est attachée au bas de l'iPad par des vis et un câble. Au cours de cette étape, vous détachez l'antenne de la vitre frontale. Ainsi vous ne risquerez pas d'endommager l'antenne lorsque vous enlèverez le panneau.
+Étape 18
+Continuez à décoller l'adhésif le long du bord inférieur de l'iPad, en tirant le médiator vers l'arrière de façon à contourner le bouton home, puis en le réinsérant sur à peu près 1,2 cm de sa longueur une fois le bouton home dépassé.
+Si l'adhésif s'est trop refroidi le long du bord inférieur, faites à nouveau chauffer l'iOpener pour pouvoir travailler l'adhésif ramolli.
+Ne faites jamais chauffer l'iOpener plus d'une minute à la fois et attendez toujours au moins deux minutes avant de le remettre à chauffer.
+Étape 19
+Continuez à décoller l'adhésif tout le long du bord inférieur de l'iPad.
+Si vous avez un iPad 4, insérez au maximum 1,2 cm du médiator dans cette zone pour éviter d'endommager la nappe du bouton home.
+Laissez le médiator coincé sous la vitre frontale à côté du bouton home.
+Étape 20
+Faites à nouveau chauffer l'iOpener au micro-ondes et posez-le sur le bord gauche de l'iPad pour faire ramollir l'adhésif à cet endroit.
+Étape 21
+Faites glisser le médiator le long du bord supérieur de l'iPad en le tirant légèrement vers l'extérieur pour contourner le support de la caméra avant.
+L'adhésif est très épais cet endroit et vous devrez forcer un peu. Progressez soigneusement et lentement en veillant à ni glisser, ni vous blesser, ni endommager votre iPad.
+Si l'adhésif a trop refroidi, reposez l'iOpener le long du bord supérieur et continuez votre travail. Si l'iOpener a trop refroidi, faites-le à nouveau chauffer.
+Si le médiator reste coincé dans l'adhésif, faites-le "pivoter" comme expliqué dans l'étape 9.
+Étape 22
+Continuez à décoller l'adhésif le long du bord supérieur de l'iPad et faites glisser le médiator autour du coin supérieur gauche.
+Si l'adhésif a suffisamment ramolli, enlevez l'iOpener de l'iPad ; ce sera plus pratique. Toutefois, si l'adhésif est encore plutôt visqueux, faites à nouveau chauffer l'iOpener et posez-le sur le bord gauche pendant que vous travaillez.
+Étape 23
+Faites glisser le médiator le long du bord gauche de l'iPad pour décoller l'adhésif. Tout le long du côté gauche, l'adhésif est mince à cause du numériseur. Assurez-vous que le médiateur ne rentre pas trop profond (1,2 cm max) pour éviter d'endommager le numériseur.
+La nappe du numériseur est située à environ 5 cm du bas de l'iPad. Arrêtez de glisser le médiator un peu moins de 6 cm avant le bas de l'iPad.
+Étape 24
+Avec le médiator toujours placé sous le bord inférieur de l'iPad, décollez l'adhésif le long du coin inférieur gauche.
+Le bas de la nappe du numériseur se trouve à seulement ~2,5 cm du bas de l'iPad. Progressez soigneusement et lentement en veillant à ne pas couper la nappe.
+Étape 25
+Avec un des médiators, soulevez le coin inférieur gauche de l'iPad et saisissez-le de vos doigts.
+Il est possible que l'adhésif se soit recollé en partie le long du périmètre de l'iPad. Si c'est le cas, faites glisser un médiator sous le bord de l'iPad à l'endroit où la vitre frontale s'est recollée et "coupez" l'adhésif.
+Étape 26
+Saisissez l'iPad par les coins droits inférieur et supérieur et faites pivoter la vitre frontale pour l'éloigner de l'iPad.
+Vérifiez qu'il n'y ait plus d'adhésif qui colle et coupez avec un médiator tout adhésif maintenant encore la vitre frontale.
+Étape 27
+Ensemble panneau frontal
+Retirez les quatre vis cruciformes #00 de 2 mm fixant l'écran LCD au cadre en aluminium.
+Étape 28
+À l'aide d'un outil d'ouverture en plastique ou d'un spudger, soulevez le bord droit de l'écran LCD hors de l'iPad.
+Faites pivoter l'écran LCD le long de son bord gauche et placez-le sur le dessus du panneau frontal.
+Faites attention lorsque vous déplacez l'écran LCD. La nappe est fragile et peut se briser si elle est trop pliée.
+Étape 29
+Écran LCD
+À l'aide de la pointe d'un spudger, retirez le morceau de ruban adhésif recouvrant le connecteur de la nappe de l'écran LCD.
+Étape 30
+Retournez le clapet de retenue sur le connecteur ZIF de la nappe de l'écran LCD.
+En utilisant vos doigts ou une pincette, tirez la nappe de l'écran LCD hors de sa prise sur la carte mère.
+Étape 31
+Sans toucher la surface de l'écran LCD, soulevez l'écran LCD du panneau frontal.
+Étape 32
+Panneau frontal complet
+Si nécessaire, décollez le morceau de ruban adhésif qui fixe la nappe de la vitre tactile à la carte mère.
+Retournez le clapet de retenue sur les connecteurs ZIF de la nappe de la vitre tactile.
+Étape 33
+Utilisez l'extrémité plate d'un spudger pour décoller l'adhésif en dessous de la nappe de la vitre tactile.
+Faites attention, retirez délicatement la nappe de la vitre tactile hors de sa prise sur la carte mère.
+Étape 34
+Décollez la nappe de la vitre tactile et utilisez l'extrémité plate d'un spudger pour enlever l'adhésif qui fixe la nappe à la coque arrière en aluminium.
+Étape 35
+Avec vos doigts, ôtez la nappe de la vitre tactile du châssis en aluminium.
+Retirez le panneau frontal de l'iPad.
+Étape 36
+Ruban adhésif isolant
+Si présent, retirez les morceaux de ruban adhésif isolant, recouvrant l'antenne Wi-Fi, la nappe du haut-parleur et la nappe du connecteur de dock.
+Étape 37
+Espaceur en plastique
+Faites glisser l'extrémité plate d'un spudger sous l'espaceur en plastique dans le coin inférieur gauche de l'iPad.
+Retirez l'espaceur en plastique.
+Étape 38
+Connecteur de dock
+Utilisez l'extrémité plate d'un spudger pour tirer le câble du connecteur de dock tout droit hors de sa prise sur la carte mère.
+Décollez la nappe du connecteur de dock du cadre en aluminium.
+Étape 39
+Retirez les deux vis cruciformes #00 de 1,8 mm fixant le connecteur de dock à la coque arrière en aluminium.
+Étape 40
+En utilisant l'extrémité plate d'un spudger, soulevez le connecteur de dock.
+Retirez le connecteur de dock de l'iPad.
+
+------------------
+#FICHIER IFIXIT_5513
+TITRE : Remplacement des touches du clavier du Gateway KAV60 LT2016U
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+des+touches+du+clavier+du+Gateway+KAV60+LT2016U/18961
+---------
+Introduction
+Les touches sont très facile à remplacer avec un outil d'ouverture en plastique.
+Outils
+iFixit Opening Tool 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Batterie
+Déverrouillez le loquet situé dans le coin supérieur gauche du Netbook.
+La marque rouge sert à indiquer que la batterie à été correctement déverrouillée.
+Retirez la batterie.
+Lorsque vous travaillez sur du matériel électronique, il est toujours sage de débrancher la source d'alimentation avant de démonter l'appareil.
+Étape 2
+Touches du clavier
+Chaque touche du clavier peut être remplacée.
+Insérez un outil d'ouverture en plastique sous la touche à remplacer.
+Étape 3
+La touche peut être facilement retirée en appliquant une force sur l'outil d'ouverture en plastique jusqu'à ce que la touche se détache.
+
+------------------
+#FICHIER IFIXIT_1534
+TITRE : Remplacement de la caméra arrière de l'iPad 3 Wi-Fi
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+cam%C3%A9ra+arri%C3%A8re+de+l'iPad+3+Wi-Fi/11613
+---------
+Introduction
+Utilisez ce tutoriel pour remplacer la caméra arrière.
+Outils
+iOpener
+Phillips 0 Screwdriver
+Phillips #00 Screwdriver
+Spudger
+Pièces
+iPad 3/4 Adhesive Strips 
+iPad 3/4 Rear Camera 
+Étape 1
+Chauffer un iOpener
+Nous recommandons de nettoyer le micro-ondes avant de commencer. D'éventuels restes au fond risquent d'adhérer à votre iOpener.
+Placez l'iOpener au centre du micro-ondes.
+Pour les micro-ondes à plateau tournant : assurez-vous que le plateau tourne bien. Si votre iOpener se coince, il risque de surchauffer et de brûler.
+Étape 2
+Chauffez l'iOpener pendant trente secondes.
+Comme l'iOpener refroidit au cours de la réparation, rechauffez-le à nouveau au micro-ondes, mais ne dépassez pas les trente secondes à chaque fois.
+Faites attention de ne pas surchauffer l'iOpener pendant la réparation. En cas de surchauffe, l'iOpener risque d'exploser.
+Ne touchez jamais l'iOpener s'il vous paraît gonflé.
+Si le milieu de l'iOpener est encore trop chaud au toucher,continuez à l'utiliser jusqu'à ce qu'il soit assez froid pour le chauffer à nouveau. Un iOpener correctement chauffé devrait rester chaud pendant environ 10 minutes.
+Étape 3
+Sortez l'iOpener du micro-ondes en le tenant par l'une des deux extrémités plates, car le centre de l'outil risque d'être brûlant.
+L'iOpener sera très chaud, alors soyez prudent en le manipulant. Utilisez une manique si nécessaire.
+Étape 4
+Panneau frontal
+Si la vitre de votre écran est fissurée, limitez la casse et évitez de vous blesser au cours de la réparation en collant de la bande adhésive sur la vitre.
+Posez des bandes adhésives transparentes se chevauchant sur la vitre de l'iPad jusqu'à ce que toute la surface soit couverte.
+Ainsi les éclats de verre seront maintenus en place et la structure restera stable lorsque vous ferez levier et soulèverez l'écran.
+Faites de votre mieux en suivant le reste des instructions du tutoriel. Toutefois, si la vitre est cassée, elle continuera à se fissurer pendant que vous travaillerez. Vous aurez besoin d'un outil en métal pour mettre les éclats de verre de côté.
+Portez des verres de sécurité pour protéger l'écran et veillez à ne pas abîmer l'écran LCD.
+Étape 5
+Encore une fois, comme vous risquez de travailler sur du verre brisé au cours de cette procédure, nous vous recommandons vivement de porter des lunettes de sécurité pour vous protéger contre les éclats de verre.
+Posez l'iOpener à plat sur le bord droit de l'iPad, en le lissant de sorte à assurer un bon contact entre la surface de l'iPad et l'iOpener.
+Laissez le sac posé sur l'iPad pendant environ 90 secondes avant d'essayer d'ouvrir le panneau frontal.
+Étape 6
+Il y a un petit espace dans l'anneau adhésif de l'iPad, dans le coin supérieur droit de l'iPad à environ 2,0 pouces (~ 5 cm) du haut de l'iPad. Vous allez exploiter cette faiblesse.
+Alignez l'outil avec le bouton du silencieux. Insérez la pointe d'un outil d'ouverture en plastique dans l'espace entre la vitre frontale et le joint en plastique. Insérez juste la pointe de l'outil d'ouverture, juste assez pour élargir la fissure.
+Il faudra un peu forcer pour arriver à coincer la pointe de l'outil d'ouverture entre le verre et le plastique. Travaillez patiemment et avec précaution, en agitant l'outil d'ouverture en plastique d'avant en arrière si nécessaire.
+Étape 7
+Assurez-vous de placer l'outil à l'endroit approprié entre le joint de l'écran en plastique et la vitre tactile.
+Étape 8
+En maintenant la pointe de l'outil en plastique coincée entre la vitre frontale et le joint en plastique, glissez un médiator en plastique dans la fente, juste à droite de l'outil en plastique.
+Étape 9
+Retirez de l'iPad l'outil en plastique et poussez le médiator plus en avant sous la vitre frontale, à environ 0,5 inches (1,2 cm) du bord.
+Étape 10
+Pendant que vous travaillez à ôter l'adhésif sur le côté droit de l'iPad, faites à nouveau chauffer l'iOpener et placez-le sur le bord inférieur de l'iPad.
+Étape 11
+Pendant que l'iOpener chauffe le bord inférieur, commencezà décoller l'adhésif du bord droit de l'iPad.
+Faites glisser le médiator vers le bas le long du bord de l'iPad et décollez l'adhésif au fur et à mesure.
+L'adhésif est très fort et vous devrez forcer autant que nécessaire. Travaillez soigneusement.
+Si vous voyez que le bout du médiator dépasse du côté de la vitre, tirez-le un peu en arrière. En utilisant le médiator à ce niveau, vous n'endommagerez rien et vous enlèverez les restes de colle sur tout le LCD.
+Étape 12
+Il sera peut-être nécessaire de reposer l'iOpener chauffé sur le bord droit de l'iPad au cours de la procédure. Cela dépend du temps que l'iPad a pu refroidir pendant que travaillez dessus.
+Si le médiator reste pris dans l'adhésif, faites-le "pivoter" le long du bord de l'iPad, en continuant ainsi à enlever l'adhésif.
+Étape 13
+Avant d'enlever le premier médiator du bord inférieur de l'iPad, insérez un deuxième médiator sous le bord droit de la vitre frontale pour l'empêcher de se recoller à l'adhésif.
+Faites à nouveau chauffer l'iOpener et posez-le sur le bord supérieur de l'iPad.
+Étape 14
+Les prochaines étapes nécessitent d'extrêmes précautions.
+L'antenne Wi-Fi est attachée au bord droit inférieur du boîtier arrière de l'iPad par des vis et un câble. En raison de l'orientation de l'antenne Wi-Fi, il est impératif de procéder avec précaution sous peine d'endommager irréversiblement l'antenne Wi-Fi.
+Vous devez enlever l'adhésif fixant l'antenne au panneau frontal sans endommager les pièces délicates attachant l'antenne au bas de l'iPad. Suivez soigneusementles prochaines étapes.
+Étape 15
+Glissez le médiator dans le coin inférieur droit de l'iPad pour y décoller l'adhésif.
+Ne glissez pasle médiator plus loin que le coin inférieur droit. Vous endommageriez l'antenne Wi-Fi.
+Étape 16
+Pendant cette étape, vous devez faire glisser le médiator le long du bord inférieur droit du panneau frontal. L'antenne Wi-Fi est très proche du coin et se coupe facilement, si l'adhésif est décollé de façon incorrecte.
+Ne retirez pas complètement le médiator sous la vitre tactile, mais seulement jusqu'à ce que environ 1/8ème de sa pointe reste en dessous de la vitre tactile.
+Faites glisser la pointe du médiator le long du bord inférieur de l'iPad pour décoller l'adhésif de l'antenne Wi-Fi.
+Étape 17
+Une fois que vous avez dépassé l'antenne Wi-Fi (à peu près 7 cm à partir du bord droit ou directement à côté du bouton home), réinsérez complètement le médiator.
+Faites glisser le médiator vers la droite, pour décoller l'adhésif fixant l'antenne Wi-Fi à la vitre frontale.
+L'antenne est attachée au bas de l'iPad par des vis et un câble. Au cours de cette étape, vous détachez l'antenne de la vitre frontale. Ainsi vous ne risquerez pas d'endommager l'antenne lorsque vous enlèverez le panneau.
+Étape 18
+Continuez à décoller l'adhésif le long du bord inférieur de l'iPad, en tirant le médiator vers l'arrière de façon à contourner le bouton home, puis en le réinsérant sur à peu près 1,2 cm de sa longueur une fois le bouton home dépassé.
+Si l'adhésif s'est trop refroidi le long du bord inférieur, faites à nouveau chauffer l'iOpener pour pouvoir travailler l'adhésif ramolli.
+Ne faites jamais chauffer l'iOpener plus d'une minute à la fois et attendez toujours au moins deux minutes avant de le remettre à chauffer.
+Étape 19
+Continuez à décoller l'adhésif tout le long du bord inférieur de l'iPad.
+Si vous avez un iPad 4, insérez au maximum 1,2 cm du médiator dans cette zone pour éviter d'endommager la nappe du bouton home.
+Laissez le médiator coincé sous la vitre frontale à côté du bouton home.
+Étape 20
+Faites à nouveau chauffer l'iOpener au micro-ondes et posez-le sur le bord gauche de l'iPad pour faire ramollir l'adhésif à cet endroit.
+Étape 21
+Faites glisser le médiator le long du bord supérieur de l'iPad en le tirant légèrement vers l'extérieur pour contourner le support de la caméra avant.
+L'adhésif est très épais cet endroit et vous devrez forcer un peu. Progressez soigneusement et lentement en veillant à ni glisser, ni vous blesser, ni endommager votre iPad.
+Si l'adhésif a trop refroidi, reposez l'iOpener le long du bord supérieur et continuez votre travail. Si l'iOpener a trop refroidi, faites-le à nouveau chauffer.
+Si le médiator reste coincé dans l'adhésif, faites-le "pivoter" comme expliqué dans l'étape 9.
+Étape 22
+Continuez à décoller l'adhésif le long du bord supérieur de l'iPad et faites glisser le médiator autour du coin supérieur gauche.
+Si l'adhésif a suffisamment ramolli, enlevez l'iOpener de l'iPad ; ce sera plus pratique. Toutefois, si l'adhésif est encore plutôt visqueux, faites à nouveau chauffer l'iOpener et posez-le sur le bord gauche pendant que vous travaillez.
+Étape 23
+Faites glisser le médiator le long du bord gauche de l'iPad pour décoller l'adhésif. Tout le long du côté gauche, l'adhésif est mince à cause du numériseur. Assurez-vous que le médiateur ne rentre pas trop profond (1,2 cm max) pour éviter d'endommager le numériseur.
+La nappe du numériseur est située à environ 5 cm du bas de l'iPad. Arrêtez de glisser le médiator un peu moins de 6 cm avant le bas de l'iPad.
+Étape 24
+Avec le médiator toujours placé sous le bord inférieur de l'iPad, décollez l'adhésif le long du coin inférieur gauche.
+Le bas de la nappe du numériseur se trouve à seulement ~2,5 cm du bas de l'iPad. Progressez soigneusement et lentement en veillant à ne pas couper la nappe.
+Étape 25
+Avec un des médiators, soulevez le coin inférieur gauche de l'iPad et saisissez-le de vos doigts.
+Il est possible que l'adhésif se soit recollé en partie le long du périmètre de l'iPad. Si c'est le cas, faites glisser un médiator sous le bord de l'iPad à l'endroit où la vitre frontale s'est recollée et "coupez" l'adhésif.
+Étape 26
+Saisissez l'iPad par les coins droits inférieur et supérieur et faites pivoter la vitre frontale pour l'éloigner de l'iPad.
+Vérifiez qu'il n'y ait plus d'adhésif qui colle et coupez avec un médiator tout adhésif maintenant encore la vitre frontale.
+Étape 27
+Ensemble panneau frontal
+Retirez les quatre vis cruciformes #00 de 2 mm fixant l'écran LCD au cadre en aluminium.
+Étape 28
+À l'aide d'un outil d'ouverture en plastique ou d'un spudger, soulevez le bord droit de l'écran LCD hors de l'iPad.
+Faites pivoter l'écran LCD le long de son bord gauche et placez-le sur le dessus du panneau frontal.
+Faites attention lorsque vous déplacez l'écran LCD. La nappe est fragile et peut se briser si elle est trop pliée.
+Étape 29
+Écran LCD
+À l'aide de la pointe d'un spudger, retirez le morceau de ruban adhésif recouvrant le connecteur de la nappe de l'écran LCD.
+Étape 30
+Retournez le clapet de retenue sur le connecteur ZIF de la nappe de l'écran LCD.
+En utilisant vos doigts ou une pincette, tirez la nappe de l'écran LCD hors de sa prise sur la carte mère.
+Étape 31
+Sans toucher la surface de l'écran LCD, soulevez l'écran LCD du panneau frontal.
+Étape 32
+Panneau frontal complet
+Si nécessaire, décollez le morceau de ruban adhésif qui fixe la nappe de la vitre tactile à la carte mère.
+Retournez le clapet de retenue sur les connecteurs ZIF de la nappe de la vitre tactile.
+Étape 33
+Utilisez l'extrémité plate d'un spudger pour décoller l'adhésif en dessous de la nappe de la vitre tactile.
+Faites attention, retirez délicatement la nappe de la vitre tactile hors de sa prise sur la carte mère.
+Étape 34
+Décollez la nappe de la vitre tactile et utilisez l'extrémité plate d'un spudger pour enlever l'adhésif qui fixe la nappe à la coque arrière en aluminium.
+Étape 35
+Avec vos doigts, ôtez la nappe de la vitre tactile du châssis en aluminium.
+Retirez le panneau frontal de l'iPad.
+Étape 36
+Nappe de la prise casque
+Décollez et retirez le morceau de ruban adhésif isolant recouvrant le connecteur de la nappe de la prise casque.
+En utilisant la pointe d'un spudger, retournez le clapet de retenue de chacun des deux connecteurs ZIF fixant la nappe de la prise casque à la carte mère.
+Étape 37
+Faites glisser l'extrémité plate d'un spudger sous la nappe de la prise casque, pour décoller l'adhésif la fixant sur le cadre arrière en aluminium.
+Tirez la nappe de la prise casque tout droit hors de sa prise sur la carte mère.
+Étape 38
+Ensemble prise casque
+Décollez et retirez le ruban adhésif recouvrant l'ensemble prise casque.
+Étape 39
+À l'aide de l'extrémité plate d'un spudger, retirez le connecteur de caméra frontale de sa prise sur l'ensemble prise casque.
+Faites glisser le spudger vers la droite, en faisant céder l'adhésif qui colle la nappe de la caméra.
+Étape 40
+À l'aide de la pointe d'un spudger, retournez le clapet de retenue du connecteur ZIF de la nappe du microphone.
+Étape 41
+Insérez la pointe du spudger sous la nappe du microphone, pour la retirer de son connecteur ZIF.
+Faites glisser le spudger vers la gauche, en faisant céder l'adhésif qui colle la nappe du microphone à l'ensemble prise casque.
+Étape 42
+Retournez le clapet de retenue fixant le connecteur de la nappe des boutons de volume et de marche à la carte de la prise casque.
+Retirez la nappe du bouton de volume de son connecteur ZIF.
+Étape 43
+Retirez les vis suivantes de l'ensemble prise casque :
+Cinq vis cruciformes #00 de 2,6 mm
+Deux vis cruciformes #00 de 2,0 mm à large tête
+Deux vis cruciformes #00 de 2,6 mm
+Ces vis sont inclinées dans le cadre en aluminium. Assurez-vous de tenir le tournevis aligné avec la vis, pour éviter de perdre la vis.
+Étape 44
+Décollez délicatement la nappe de la prise casque, de la plaquette en mousse située en haut à gauche de la coque arrière.
+Si nécessaire, utilisez l'extrémité plate d'un spudger pour faire céder l'adhésif fixant la nappe à la plaquette en mousse.
+Étape 45
+Saisissez l'ensemble prise casque de vos deux mains, retirez-le de l'iPad, en veillant aux nappes susceptibles de rester accrochées.
+Étape 46
+Ensemble caméra arrière
+À l'aide de l'extrémité plate d'un spudger, retirez la caméra arrière de sa prise sur la face inférieure de la carte de l'ensemble prise casque.
+Étape 47
+Caméra arrière
+Il ne reste que la caméra arrière.
+
+------------------
+#FICHIER IFIXIT_3837
+TITRE : Remplacement du module RF du Xbox 360 E
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+module+RF+du+Xbox+360+E/22622
+---------
+Introduction
+Utilisez ce guide pour remplacer le module RF de votre Xbox 360 E.
+Outils
+Spudger 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Panneau supérieur
+Poussez le Spudger dans la fente entre le panneau supérieur râpé de la Xbox et le bas du corps avec les pieds en caoutchouc.
+Tirez sur le spudger comme un levier, en le maintenant fermement appuyé dans la crevasse.
+Étape 2
+Faites glisser le spudger le long de la séparation que vous avez créée entre le panneau râpé et le corps inférieur de la Xbox.
+Tirez périodiquement sur le spudger comme un levier, en le maintenant fermement appuyé dans la crevasse.
+Étape 3
+Continuez à faire glisser le spudger le long du périmètre de la face râpée gauche de la Xbox.
+Retirez le panneau supérieur.
+Étape 4
+Panneau du bouton
+Poussez le spudger dans la fente entre la face râpée droite et le corps supérieur de la Xbox. Il est plus facile de commencer loin de l'évent.
+Tirez sur le spudger comme un levier, en le maintenant fermement appuyé dans la crevasse.
+Étape 5
+Faites glisser le spudger le long de la crevasse pour séparer le visage râpé et le corps supérieur.
+Étape 6
+Remuez le spudger dans la crevasse pendant que vous faites glisser le spudger pour desserrer la plaque inférieure.
+Faites glisser le spudger le long de la crevasse, en allant complètement autour du périmètre du panneau inférieur.
+Retirez le panneau inférieur.
+Étape 7
+Panneau avant
+Devant le lecteur de CD, vous trouverez le logo Xbox. Appuyez sur la zone à gauche du logo Xbox et le panneau du plateau de disque s'ouvrira.
+Étape 8
+En commençant sur le côté gauche sans la grille, faites glisser le spudger le long de la crevasse jusqu'à ce que vous ayez atteint la partie râpée, tout en maintenant la partie à séparer au fur et à mesure.
+Étape 9
+Gardez le panneau partiellement séparé ouvert. Il est plus facile de le faire en plaçant un spudger dans l'ouverture, mais vous pouvez également le tenir ouvert avec vos mains.
+Faites pivoter la Xbox vers la gauche pour localiser le clip reliant le panneau avant au corps. Insérez le spudger dans l’espace pour libérer le clip. Cela peut nécessiter de remuer le spudger. Le clip se détache, ce qui rend le panneau avant plus souple.
+Étape 10
+Retournez la Xbox afin que le côté opposé soit vers vous. Assurez-vous de garder la séparation ouverte.
+Localisez l'autre clip et insérez le spudger pour le retirer.
+Étape 11
+Continuez à faire passer le spudger le long du pli pour libérer les autres clips qui pourraient encore être attachés.
+Ne retirez pas le panneau trop rapidement car vous ne voulez pas endommager le câble ruban. Retirez lentement le panneau.
+Maintenant que le panneau avant a été libéré de ses clips, vous pouvez retirer le panneau avant.
+Étape 12
+Trouvez la section marron où le câble ruban entre dans le tableau vert. Relevez la partie brune et tirez la languette en plastique à la fin du ruban.
+Étape 13
+Module RF
+En regardant le corps de l'appareil, localisez le panneau vert à droite du lecteur de CD.
+Retirez les deux vis de 6 mm situées en haut à gauche et au centre à droite avec un tournevis T8 Torx.
+Saisissez le milieu du tableau vert et retirez-le doucement.
+
+------------------
+#FICHIER IFIXIT_7203
+TITRE : Remplacement du circuit imprimé de la perceuse modèle Balck & Decker BDEDMT
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+circuit+imprim%C3%A9+de+la+perceuse+mod%C3%A8le+Balck+&+Decker+BDEDMT/55928
+---------
+Introduction
+Dans ce guide, nous allons vous présenter comment remplacer, étapes par étapes, le circuit principal de l'appareil. La carte de circuit imprimé prend la puissancevenant du câble d'alimentation et l'envoie à la gâchette et au moteur. Un certain nombre de choses peuvent entraîner une défaillance de la carte de circuit imprimé, comme un câblage défectueux, de l'eau qui pénètre dans l'appareil. Ce guide est assez simple et peut être réalisé en seulement quatre étapes principales.
+Outils
+Tweezers 
+64 Bit Driver Kit 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Démonter le support de fixation
+Attention ! Toujours déconnecter votre appareil du réseau électrique avant de le démonter.
+Pour détacher le support de fixation du reste de l'appareil, appuyez sur le bouton de libération situé sur le haut de l'appareil.
+Laissez votre doigt appuyé sur le bouton et tirez simplement sur l'accessoire pour le libérer.
+Étape 2
+Démontage de l'armature
+Utiliser un tournevis cruciforme pour enlever les 7 vis de 19 mm, situés tout autour de l'armature.
+Avec le même tournevis, retirez les autres vis de 12 mm situés sur l'armature
+Étape 3
+Circuit imprimé
+Il y a un cordon blanc qui va de la base du cordon d'alimentation à un circuit imprimé; située légèrement au-dessus.
+Utilisez une pince pour détacher le câble blanc et la pièce de connection bleue du circuit imprimé.
+Étape 4
+Il y a un fil noir, un petit fil blanc et un petit fil rouge se connectant au module de déclenchement à partir de la carte de circuit imprimé. À l'aide de votre pince à épiler, insérez l'une des extrémités dans la fente de dégagement sous le fil blanc.
+Assurez-vous d'insérer la pince près du fil à retirer.
+Soulevez l'extrémité des pincettes pour libérer le fil.
+Le circuit est maintenant dégagé.
+Ne pas forcer pour enlever les câbles.
+Bien réinsérer les câbles dans les emplacement correspondants, lors du remontage.
+
+------------------
+#FICHIER IFIXIT_2402
+TITRE : Remplacement de la carte mère du Acer Chromebook C720-2420
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+carte+m%C3%A8re+du+Acer+Chromebook+C720-2420/106023
+---------
+Introduction
+Ce guide vous fournit des instructions simples et claires sur la façon de remplacer la carte mère sur un Acer Chromebook C720-2420.
+Outils
+Precision Tweezers Set
+iFixit Opening Tool
+64 Bit Driver Kit
+Phillips 0 Screwdriver
+Phillips #00 Screwdriver
+Tweezers
+Pièces
+Acer C720 Motherboard 
+Étape 1
+Remplacement du boitier arrière
+Placez votre Chromebook à l'envers.
+À l’aide du tournevis cruciforme Phillips n ° 0, retirez les 13 vis cruciformes de 6,5 mm qui fixent le capot arrière.
+Avant de faire quoi que ce soit, assurez-vous que votre Chromebook Acer est complètement éteint.
+Étape 2
+Utilisez l'outil d'ouverture en plastique pour enlever soigneusement le fond.
+Étape 3
+Batterie
+Retirez les deux vis Phillips 3,6 mm maintenant la batterie en place.
+Étape 4
+Débranchez le connecteur qui relie la batterie au Chromebook à l'aide d'une paire de pinces ou de pincettes.
+Vous pouvez également utiliser vos mains, car il peut être difficile de décrocher le connecteur.
+Étape 5
+Retirez la batterie.
+Étape 6
+Ventilateur
+Retirez les six vis cruciformes de 4,7 mm qui fixent le ventilateur.
+Étape 7
+Débranchez ces câbles de la carte mère à l'aide de la pince à épiler.
+Alternativement, vous pouvez utiliser vos mains.
+Sortez le ventilateur.
+Étape 8
+SSD
+Retirez la vis cruciforme de 3,6 mm qui maintient le SSD en place.
+Étape 9
+Sortez le SSD.
+Étape 10
+Carte mère
+Débranchez le câble du haut-parleur de la carte mère.
+Étape 11
+Déconnectez le câble d’affichage de la carte mère.
+Étape 12
+Tirez doucement sur le fil pour les 2 connecteurs PIC.
+Étape 13
+Retirez les deux vis cruciformes de 3,7 mm qui maintiennent la carte mère en place.
+Étape 14
+Soulevez la languette noire du connecteur ZIF pour libérer le câble ruban.
+Retirez délicatement le câble ruban.
+Étape 15
+Soulevez la languette noire du connecteur ZIF pour libérer le câble ruban.
+Retirez délicatement le câble ruban
+Étape 16
+Soulevez la languette noire du connecteur ZIF pour libérer le câble ruban.
+Retirez le câble ruban.
+Étape 17
+Soulevez et retirez la carte mère.
+
+------------------
+#FICHIER IFIXIT_3315
+TITRE : Créer un adaptateur Micro-SIM à carte SIM
+URL : https://fr.ifixit.com/Tutoriel/Cr%C3%A9er+un+adaptateur+Micro-SIM+%C3%A0+carte+SIM/3183
+---------
+Introduction
+Ce simple guide vous montrera comment faire un adaptateur Micro-SIM à SIMde l'ancienne carte SIM de, afin que vous puissiez utiliser votre nouvel Micro-SIM de l'iPhone 4dans des périphériques plus anciens. Ce processus détruit l'ancienne carte SIM.
+Outils
+Precision Utility Knife
+Pencil
+SIM Card Eject Tool
+Pièces
+iPhone Gen 1 SIM Card 
+iPhone 4 Micro-SIM Card 
+Étape 1
+Créer un adaptateur Micro-SIM à carte SIM
+Obtenez tout ce dont vous aurez besoin:
+Couteau XACTO et une bonne surface de coupe.
+Crayon
+Outil de suppression de carte SIM ou trombone plié
+iPhone 4
+Une ancienne carte SIM GSM que vous pouvez sacrifier pour créer un adaptateur.
+Étape 2
+Enlevez la carte SIM de chacun des iPhones
+Sur l'iPhone 4, le bac de la carte SIM se trouve sur le côté droit du téléphone.
+Sur n'importe quel iPhone ancien, le bac de la carte SIM se trouve sur le dessus du téléphone.
+Étape 3
+Utilisez un crayon pour tracer la Micro-SIM sur l'ancienne carte SIM.
+Assurez-vous que les lignes s'alignent avec ceux qui sont sous eux!
+Étape 4
+Utilisez un couteau XACTO pour couper sur les lignes que vous avez tracé
+Il est difficile de contrôler le couteau en appliquant une force suffisante pour couper le plastique, alors travaillez doucement les premières fois pour faire une rainure. Ceci fait, remontez et appliquez plus de force pour couper le plastique. Vous pouvez aussi forer 5 trous à l'aide d'un foret fin sur les sommets. Cela aide également à guider
+Pour obtenir une coupe très propre, vous pouvez essayer de chauffer la pointe du couteau exacto avec une petite torche plus légère ou même une allume-cigarette. La lame Hot Exacto sera facilement marquée dans la carte SIM de cette façon, mais vous devrez peut-être la chauffer à plusieurs reprises car elle perd de la chaleur très rapidement.
+Lorsque vous avez terminé, retournez la carte SIM. Vous devriez pouvoir voir le contour de la découpe que vous avez faite sur le côté supérieur. Pour un résultat plus propre, finissez de découper la fente du côté inférieur.
+Retirez la pièce que vous avez coupée de la carte SIM.
+Étape 5
+Insérez votre carte Micro-SIM dans le trou que vous avez coupé de la carte SIM.
+Si la Micro-SIM ne convient pas, vous devrez enlever plus de plastique avec le couteau pour agrandir le trou.
+Si vous coupez le trou légèrement trop gros, placez un morceau de ruban sur le dos de la carte SIM (le côté sans les contacts en or) pour maintenir le Micro-SIM en place. Découper tout excès de bande avec le couteau.
+Vous voudrez peut-être ajouter du ruban adhésif même si le trou est la taille correcte; Cela aidera à empêcher la Micro-SIM de se détacher dans le téléphone et de se coincer lorsque vous essayez de l'enlever.
+Étape 6
+Testez-le. J'ai mis la Micro-SIM dans le convertisseur dans un iPhone 2G pour le tester, et tout fonctionne bien!
+Merci d'avoir lu! N'hésitez pas à me contacter si vous avez des problèmes ou des suggestions concernant cette méthode!
+
+------------------
+#FICHIER IFIXIT_1440
+TITRE : Remplacement gâchette Milwaukee Hackzall 2625-20
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+g%C3%A2chette+Milwaukee+Hackzall+2625-20/127858
+---------
+Introduction
+Si la gâchette de votre Milwaukee Hackzall 2625-20 no fonctionne plus, suivez les instructions ci-dessous vous aideront à remplacer l'ensemble gâchette. L'utilisation d'un fer à souder est requis pour retirer les câbles de la gâchette, des compétences en soudure sont donc nécessaires. référez-vous à ceci guide pour plus d'informations.
+Outils
+TR10 Torx Security Screwdriver
+T15 Torx Screwdriver
+TR9 Torx Security Screwdriver
+Soldering Workstation
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Gâchette
+Retirez les vis servant à maintenir la coque de l'appareil ensemble. Chaque plongeur de vis est différente: Utilisez un tournevis Torx T9 pour retirer la vis de 7,0mm.
+Utilisez un tournevis Torx T10 pour retirer la vis de 14,0mm.
+Utilisez un tournevis Torx T15 pour retirer les 8 vis de 16,0mm.
+Retirez la coque de l'appareil pour accéder aux composants internes.
+Étape 2
+Utilisez le fer à souder pour faire fondre la soudure existante, qui est attachée à l'arrière de la gâchette.
+Pour plus d'informations sur la soudure, suivez ce guide
+Étape 3
+Retirez l'ensemble gâchette du reste de l'appareil.
+
+------------------
+#FICHIER IFIXIT_5583
+TITRE : Remplacement du bouton marche/arrêt de l'iPhone 5
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+bouton+marche-arr%C3%AAt+de+l'iPhone+5/10703
+---------
+Introduction
+Utilisez ce tutoriel pour retirer le bouton marche/arrêt de votre iPhone 5.
+Outils
+SIM Card Eject Tool
+SIM Card Eject Tool
+Phillips #000 Screwdriver
+iFixit Opening Tool
+Suction Handle
+Spudger
+P2 Pentalobe Screwdriver iPhone
+Plateau de projet antistatique
+Standoff Screwdriver for iPhones
+Pièces
+iPhone 5 Power and Lock Button 
+Étape 1
+Pose d'adhésif sur l'écran brisé
+Si votre écran est fissuré, pour éviter de l'endommager d'avantage ou de vous blesser durant le retrait, utilisez une bande adhésive.
+Appliquez des bandes de ruban adhésif transparent sur l'écran de votre iPhone jusqu'à ce qu'il soit entièrement recouvert.
+Le ruban adhésif permet de retenir les éclats de verre et de maintenir l'intégrité de la structure lorsque l'écran sera soulevé.
+Portez des lunettes de protection pour protéger vos yeux d'un éventuel bris de verre lors de la réparation.
+Étape 2
+Retrait des vis Pentalobe
+Avant de continuer, déchargez votre iPhone en dessous de 25%. Une batterie lithium ion chargée peut s'enflammer et/ou exploser si elle est percée accidentellement.
+Éteignez votre téléphone avant de commencer le démontage.
+Retirez les deux vis Pentalobe de 3,6 mm de chaque côté du connecteur de charge Lightning.
+Étape 3
+Comment empêcher que l'écran se défasse
+Dans les étapes suivantes, vous allez détacher l'écran du châssis de l'iPhone. L'écran est composé d'une vitre et d'un joint en plastique avec des clips en métal.
+Peu importe l'outil que vous utilisez, assurez-vous de soulever l'écran en entier.
+Si la vitre commence à se décoller du plastique comme vous pouvez le voir sur la première photo, glissez un outil d'ouverture en plastique entre le cadre en plastique et le châssis du smartphone afin de détacher les clips en métal.
+Si vous remontez un écran dont le joint en plastique s'est décollé, vous devrez peut-être poser une fine bande d'adhésif entre le joint en plastique et la vitre afin que l'iPhone reste correctement fermé.
+Étape 4
+Procédure d'ouverture iSclack
+Les deux prochaines étapes vous montrent comment utiliser l'iSclack, un outil spécialement conçu pour ouvrir l'iPhone 5 en toute sécurité, et que nous recommandons à toute personne qui décide d'effectuer cette réparation plus d'une fois. Si vous n'utilisez pas d'iSclack, passez à l'étape 6.
+Serrez les poignées de l'iSclack et séparez ainsi les deux mâchoires avec les ventouses.
+Posez la partie inférieure de votre iPhone entre les deux ventouses contre la jauge de profondeur en plastique.
+La ventouse supérieure doit être placée juste au-dessus du bouton home.
+Ouvrez les poignées pour fermer les mâchoires de l'iSclack. Centrez les ventouses et posez-les fermement sur le dessus et le dessous le l'iPhone.
+Étape 5
+Fin de la procédure d'ouverture à l'aide del'iSclack
+Tenez bien votre iPhone et serrez les poignées de l'iSclack pour séparer les ventouses et enlever la vitre du boîtier arrière.
+L'iSclack est conçu pour ouvrir suffisamment votre iPhone en toute sécurité, sans risquer d'endommager les nappes de l'écran.
+Décollez les deux ventouses de votre iPhone.
+Sautez les trois prochaines étapes et continuez àl'étape 9.
+Étape 6
+Procédure d'ouverture manuelle
+Placez une ventouse sur l'écran, juste au dessus du bouton home.
+Assurez-vous que la ventouse soit complètement sur l'écran afin d'assurer une étanchéité parfaite.
+Si la vitre de votre iPhone est fissurée, recouvrez-la de ruban adhésif, et chassez le maximum de bulles d'air. Cela permettra à votre ventouse d'adhérer, et vous éviterez la propagation de verre brisé.
+Étape 7
+Commencez à soulever le panneau frontal
+Assurez-vous que la ventouse adhère bien au panneau frontal.
+Tout en tenant l'iPhone avec une main, tirez sur la ventouse pour séparer légèrement l'écran du boîtier arrière.
+Prenez votre temps et tirez de façon ferme et continue. L'écran tient beaucoup mieux que la plupart des composants.
+A l'aide d'un outil en plastique, commencez à pousser le boîtier délicatement vers le bas tout en tirant sur la ventouse vers le haut.
+Il y a plusieurs clips qui attachent le panneau frontal au boîtier, il vous faudra probablement utiliser et la ventouse et l'outil en plastique pour faire sortir le panneau frontal.
+Étape 8
+Détachement des clips latéraux du panneau frontal
+Continuez à faire levier en glissant l'outil sur les côtés du panneau frontal tout en défaisant les clips le long des côtés gauche et droit.
+Étape 9
+Ouverture du téléphone
+Attention : ne cherchez pas à retirer le panneau frontal ! Il est encore relié au châssis par plusieurs nappes.
+Une fois que vous avezdéfait les clips en bas et sur les cotés du panneau frontal, éloignez la partie inférieure du boîtier arrière .
+Ouvrez votre écran à un angle de 90° environ et calez-le avec un objet pour le soutenir pendant que vous travaillez sur l'iPhone.
+Rajoutez un élastique pour bien maintenir l'écran lorsque vous travaillez. Ceci évite de forcer inutilement sur le nappes.
+Étape 10
+Retrait des vis du cache du connecteur de la batterie
+Retirez les deux vis suivantes qui attachent le cache métallique du connecteur de la batterie à la carte mère :
+Une vis cruciforme #00 de 1,8 mm
+Une vis cruciforme #00 de 1,6 mm
+Étape 11
+Retrait du cache du connecteur de la batterie
+Retirez le cache métallique du connecteur de batterie de l'iPhone.
+Étape 12
+Déconnexion du connecteur de la batterie
+Utilisez un outil d'ouverture en plastique pour soulever doucement le connecteur de batterie de sa prise sur la carte mère.
+Faites attention de faire levier seulement sur le connecteur de batterie et non pas sur la prise sur la carte mère. Si vous faites levier sur la prise ou la carte même, vous risquez de casser le connecteur ou d'endommager les composants se trouvant juste à côté sur la carte.
+Étape 13
+Retrait des vis du cache de la nappe du panneau frontal
+Retirez les vis suivantes fixant le cache de la nappe du panneau frontal à la carte mère :
+Deux vis cruciformes de 1,2 mm
+Une vis cruciforme de 1,6 mm
+Il se peut que cette vis n'adhère pas à un tournevis magnétique. Veillez à ne pas la perdre lors du retrait, et assurez-vous de la remettre à la bonne place. Une vis magnétisée risque d'interférer avec la boussole.
+Étape 14
+Retrait du support de la nappe de l'écran
+Soulevez le support de nappe de l'écran vers la batterie pour le décrocher, et retirez-le de l'iPhone.
+Lors du remontage, remettez les crochets de gauche sous la carte mère et baissez le support vers l'extérieur du téléphone.
+Étape 15
+Déconnexion des nappes de l'écran
+Vérifiez que la batterie est déconnectée avant de déconnecter ou reconnecter les nappes de cette étape.
+Utilisez un outil d'ouverture en plastique pour déconnecter les trois nappes de l'écran :
+Nappe de caméra frontale et de capteur
+Nappe de l'écran LCD
+Nappe du numériseur
+Lors du remontage de votre téléphone, la nappe de l'écran LCD peut s'enlever de son connecteur. Ceci peut causer des lignes blanches, des bugs d'affichage ou même un écran noir. Si cela se produit, reconnectez simplement la nappe et redémarrez complètement votre iPhone en déconnectant puis en reconnectant la batterie.
+Étape 16
+Séparation du panneau frontal et du boîtier arrière
+Retirez le panneau frontal complet du boîtier arrière.
+Étape 17
+Soulever la batterie
+Utilisez la languette en plastique transparente pour retirer la batterie de l'adhésif qui la maintient à l'iPhone.
+Si vous rencontrez des difficultés à décoller la batterie, utilisez un iOpener ou un séchoir pour chauffer le boîtier de l'iPhone et ramollir l'adhésif.
+La languette plastique est fragile et peut casser. Si la languette rompt avant le retrait de la batterie, consultez les étapes suivantes.
+Étape 18
+Utiliser l'iOpener
+Si la languette casse et la batterie reste collée au boîtier, préparer un iOpener ou utiliser un séchoir pour chauffer le boîtier directement à l'arrière de la batterie.
+Cela va ramollir l'adhésif qui maintient la batterie et vous pourrez l'enlever plus facilement et en sécurité.
+Étape 19
+Détacher la batterie
+Utilisez l'outil d'ouverture en plastique pour détacher délicatement la batterie vers le haut, uniquement sur le bord extérieur de l'iPhone. Détacher ailleurs qu'à cet endroit, surtout près de la carte mère, peut entraîner des dommages à la carte mère.
+Si la batterie ne se détache pas facilement du boîtier, réchauffez et appliquez le iOpener et essayez à nouveau.
+Soulevez doucement et uniformément pour éviter de déformer la batterie. Une batterie pliée peut constituer un risque d'incendie.
+N'essayez pas de soulever la partie supérieure de la batterie, vous risquez de couper les câbles de commande de volume.
+Étape 20
+Retirer la batterie
+Retirez la batterie.
+Si votre batteriede remplacement est livrée avec une protection plastique, enlevez-la avant d'installer la batterie en la décollant de la nappe.
+Lors du remontage, assurez-vous que la batterie est bien posée contre le boîtier arrière. Vous éviterez ainsi d'endommager d'autres composants lors de l'installation de l'écran.
+Effectuez un redémarrage forcé après le remontage. Cela peut empêcher plusieurs problèmes et simplifier le dépannage.
+Étape 21
+Carte mère
+Utilisez la pointe d'un spudger pour retirer le connecteur du câble des données cellulaires de son cache dans la carte mère, juste au-dessus de l'enceinte du haut-parleur.
+Étape 22
+Retirez les deux vis suivantes qui sécurisent le dessus du cache de la carte mère au boîtier arrière :
+une vis cruciforme 1,5 mm
+une vis cruciforme 2,3 mm
+Étape 23
+Retirez la fixation du haut de la carte mère.
+Faites attention à ne pas casser la petite languette qui fixe le cache près de la caméra arrière.
+Sur les nouveaux modèles, la fixation peut être attachée au boîtier de la caméra et ne s'enlèvera pas complètement.
+Étape 24
+Utilisez le bout plat d'un spudger pour déconnecter de la carte mère les trois câbles suivants :
+câble d'interconnexion supérieur
+câble d'ensemble de bouton
+câble d'interconnexion inférieur
+Étape 25
+Retirez les deux vis cruciformes 1,3 mm de l'intérieur de la partie supérieure du boîtier.
+Étape 26
+Retirez l'unique vis cruciforme 1,2 mm restante sur le cache du milieu de la carte mère.
+Étape 27
+Retirez la fixation centrale de la carte mère.
+Étape 28
+Utilisez un spudger pour soulever le câble du connecteur Lightning de son cache sur la carte mère.
+Enlevez délicatement le câble et retirez-le de la carte mère.
+Étape 29
+Appuyez dans l'orifice sur le côté droit du téléphone avec un outil d'éjection de carte SIM ou un trombone pour éjecter le plateau de la carte SIM.
+Alternativement, vous pouvez appuyer sur le levier d'éjection de carte SIM depuis l'intérieur avec l'extrémité plate d'un spudger.
+Retirez le plateau de la carte SIM de l'iPhone.
+Étape 30
+Retirez les vissuivantes qui fixent la carte mère au boîtier:
+deux vis cruciformes 2,3 mm
+deux vis d'entretoise 2,7 mm
+Le mieux est de dévisser les vis d'entretoise à l'aide d'un embout pour vis d'entretoise et d'un manche du tournevis.
+Un petit tournevis plat peut aussi faire l'affaire, mais veillez à ce qu'il ne glisse pas et n'endommage pas les composants qui se trouvent autour.
+une vis d'entretoise non magnétisée 2,7 mm
+Prenez soin de remettre cette vis dans sa position d'origine sur le dessus de la carte mère. Une vis magnétisée peut interférer avec la boussole numérique.
+Étape 31
+Faites pivoter la carte mère vers le côté de la batterie dans le boîtier.
+N'essayez pas encore de retirer la carte mère du boîtier. Il reste un câble connecté en dessous de la carte mère.
+Le cadre du flash est collé au flash et au boîtier. S'il reste sur le boîtier, retirez-le avec une pincette et remontez-le sur le flash.
+Attention : pendant le remontage de votre appareil, faites attention à ce que le câble d'interconnexion inférieur ne soit pas inséré en-dessous de la carte mère.
+Étape 32
+Utilisez la pointe d'un spudger pour soulever le câble de l'antenne Wi-Fi de son cache sur la face inférieure de la carte mère.
+Étape 33
+Retirez la carte mère du boîtier.
+Pendant que la carte mère est en dehors de votre téléphone, posez-la sur un tapis antistatique afin de prévenir tout dommage dans le circuit.
+Étape 34
+Bouton marche/arrêt
+Utilisez la pointe d'un spudger pour retirer le tampon en caoutchouc en dessous du bouton marche/arrêt.
+Étape 35
+Enlevez les vis suivantes du cache en métal entre les vitres du flash et de la caméra arrière.
+une vis d'entretoise 2,9 mm
+Pour retirer cette vis d'entretoise,utilisez un embout de tournevis pour vis d'entretoise. Un petit tournevis plat peut aussi faire l'affaire - mais dans ce cas faites très attention à ne pas glisser et endommager les composants environnants.
+une vis cruciforme 1,6 mm
+une vis cruciforme 1,9 mm
+Étape 36
+Retirez la fixation en métal entre le flash de la caméra arrière et la fenêtre de la caméra.
+Étape 37
+Utilisez la pointe d'un spudger pour écarter la fixation en métal qui maintient le bouton de marche en haut du boîtier.
+Étape 38
+Avec la pointe d'un spudger, poussez le bouton marche/arrêt à l'intérieur du boîtier.
+Retirez le bouton marche/arrêt.
+
+------------------
+#FICHIER IFIXIT_6090
+TITRE : Remplacement de l'écran LCD du Sony SLT Alpha-65V
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+l'%C3%A9cran+LCD+du+Sony+SLT+Alpha-65V/41970
+---------
+Introduction
+Ce guide vous montrera comment dévisser le boîtier de l'écran LCD de l'arrière de la caméra et déconnecter les circuits de l'écran des circuits du reste de la caméra. Cela nécessite l'utilisation d'un tournevis Phillips # 00 et d'un outil d'ouverture en plastique pour retirer l'écran. Il est très utile d'utiliser un tampon magnétique pour organiser et garder une trace de toutes les vis retirées de la caméra.
+Outils
+iFixit Opening Tool
+Phillips #00 Screwdriver
+Phillips #000 Screwdriver
+Pièces
+Sony Alpha 65 LCD Screen 
+Étape 1
+Ecran LCD
+Retirez les deux vis Phillips # 00 de 4,0 mm sur la base de la caméra.
+Retirez la vis Phillips # 00 de 3,0 mm sur la charnière de l'écran.
+Étape 2
+Retirez les deux vis Phillips # 00 de 2,0 mm sur le côté inférieur droit de l'écran.
+Retirez les deux vis Phillips # 00 de 2,0 mm sur le côté inférieur gauche de l'écran.
+Étape 3
+Utilisez l'outil d'ouverture en plastique pour soulever doucement l'écran pour l'ouvrir sur tout l'écran.
+Étape 4
+Le ruban marron et la lumière blanche sur le bord de l'écran sont extrêmement lâches et tomberont. Gardez l'écran plat à tout moment pour vous assurer qu'ils ne sortent pas.
+Utilisez un outil d'ouverture en plastique pour déconnecter les fils d'argent des circuits de l'écran et retirer complètement l'écran de la caméra.
+
+------------------
+#FICHIER IFIXIT_7307
+TITRE : Canon EOS 300 Eyecup Replacement
+URL : https://fr.ifixit.com/Tutoriel/Canon+EOS+300+Eyecup+Replacement/22492
+---------
+Introduction
+Utilisez ce guide pour remplacer l'œilleton.
+Étape 1
+Œilleton
+Avec vos mains, retirez la poignée en caoutchouc de l'oculaire.
+Étape 2
+Retirez l'œilleton de l'oculaire en poussant l'œilleton vers le haut.
+
+------------------
+#FICHIER IFIXIT_4685
+TITRE : Remplacement du viseur du Sony Cyber-shot DSC-HX80
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+viseur+du+Sony+Cyber-shot+DSC-HX80/116231
+---------
+Introduction
+Si le viseur est cassé ou ne fonctionne pas correctement, vous pouvez suivre ces étapes pour le remplacer par un nouveau. Ces étapes peuvent également aider à remplacer le déclencheur et le flash. Pour ce guide, vous aurez besoin d'un tournevis PH000, d'un ouvre-outil en plastique, de spudgers métalliques et d'un tapis magnétique ou d'un sac en plastique.
+Outils
+Spudger
+iFixit Opening Tool
+Phillips #000 Screwdriver
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Viseur
+Avant de démonter une partie quelconque de la caméra, mettez hors tension en appuyant sur le bouton ON / OFF. Le bouton ON / OFF est situé sur le dessus de la caméra.
+Étape 2
+Ouvrez le compartiment situé au bas de la caméra. Faites glisser le commutateur LOCK / OPEN sur le côté OPEN. Localisez la petite languette bleue sur le côté. Tirez-le dans la direction opposée à la batterie. Retirez la batterie et mettez-la de côté.
+Étape 3
+Utilisez le tournevis cruciforme PH000 (du kit d'outils iFixit) pour retirer les vis. Commencez à dévisser par le bas de la caméra. À la fin de cette étape, il y aura un total de cinq vis Phillips noires de 0,4 mm. Placez-les sur un tapis magnétique ou un sac en plastique.
+Étape 4
+Ne retirez pas les vis qui maintiennent l'écran LCD ensemble.
+Étape 5
+Continuez à travailler le long du bord de la caméra jusqu'à ce qu'aucune vis ne soit laissée en place. En plus des cinq vis du bas, il y aura un total de trois autres vis Phillips noires de 0,4 mm. Placez-les sur le tapis magnétique ou le sac en plastique.
+Étape 6
+Retournez l'écran LCD vers le haut.
+Utilisez le tournevis cruciforme PH000 pour retirer les vis situées sous l'écran LDC. Pour cette étape, il y aura trois autres vis Phillips noires de 0,3 mm. Placez-les sur un tapis magnétique ou un sac en plastique.
+Étape 7
+Utilisez d'abord les outils d'ouverture en plastique inclus dans le kit d'outils iFixit. Si la coque / les pièces ne se détachent pas l'une de l'autre, utilisez une spatule en métal (du kit d'outils iFixit) pour desserrer la coque en plastique de la caméra. Gardez à l'esprit qu'il peut y avoir plus de vis maintenant les pièces ensemble
+Étape 8
+Après avoir desserré les bords en plastique de l'appareil photo, tirez doucement le côté de l'écran LCD vers le haut.
+Étape 9
+Localisez les deux vis argentées qui maintiennent la pièce supérieure en place.
+Utilisez le tournevis cruciforme PH000 pour retirer les vis. Placez les deux vis Phillips argentées de 0,3 mm sur un tapis magnétique ou un sac en plastique.
+Étape 10
+Utilisez une spatule en métal pour détacher la partie supérieure du reste de la caméra. Soyez extrêmement prudent car il y a un mince film doré / ruban en plastique qui maintient la partie supérieure au reste de la caméra.
+Étape 11
+Recherchez les vis situées sur le circuit imprimé. Ces vis permettent au mince film doré / ruban en plastique de connecter la pièce supérieure au reste de la caméra.
+Retirez les vis du circuit imprimé à l'aide du tournevis cruciforme PH000. Placez les deux vis Phillips argentées de 0,4 mm sur un tapis magnétique ou un sac en plastique.
+Étape 12
+Retirez doucement le circuit imprimé de la partie supérieure de la caméra. La pièce supérieure sera détachée du reste de la caméra. Le retrait du haut de l'appareil photo facilitera l'accès au viseur.
+Étape 13
+Localisez les trois vis Phillips noires de 0,3 mm autour du viseur.
+Retirez les vis à l'aide du tournevis cruciforme PH000. Placez les vis sur un tapis magnétique ou un sac en plastique.
+Étape 14
+Trouvez une vis cruciforme noire supplémentaire de 0,3 mm située au bas du viseur. Cette vis fixe la carte de circuit imprimé au viseur.
+Retirez la vis avec un tournevis cruciforme PH000. Placez la vis sur un tapis magnétique ou un sac en plastique.
+Étape 15
+Détachez doucement le circuit imprimé du viseur.
+Étape 16
+Après avoir retiré la carte de circuit imprimé, trouvez deux vis Phillips noires de 0,3 mm situées au bas du viseur. Retirez les vis avec un tournevis cruciforme PH000. Placez les vis sur un tapis magnétique ou un sac en plastique.
+Étape 17
+Retirez délicatement le viseur de la coque en plastique.
+Remplacez le viseur par une nouvelle pièce de viseur.
+
+------------------
+#FICHIER IFIXIT_856
+TITRE : Remplacement de la batterie du Lenovo Tab 2 A8
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+batterie+du+Lenovo+Tab+2+A8/52542
+---------
+Introduction
+Ce guide vous montrera comment retirer en toute sécurité le composant de batterie de votre tablette.
+Outils
+Tweezers
+Metal Spudger
+Phillips #000 Screwdriver
+iFixit Opening Tool
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Panneau arrière
+Placez la tablette face vers le bas sur une surface douce et stable qui protègera l'écran.
+Ensuite, grattez le sceau de la vis située à l’arrière de la tablette avec un spudger en métal.
+Utilisez le tournevis Phillips # 000 pour retirer la vis M1.4 × 2.5.
+Si le joint recouvrant la vis a déjà été retiré, veuillez passer à l'étape suivante du processus.
+Comme la vis est petite, vous pouvez extraire à l’aide d’une pince à épiler.
+Étape 2
+En commençant par le côté, contournez la tablette pour la retirer de la couverture arrière. Vous voudrez utiliser un spudger en métal pour cela.
+Une force peut être nécessaire au début pour extraire le capot arrière.
+Notez que les languettes des boutons de cet appareil sont lâches à l'intérieur du boîtier et risquent de tomber lors de l'ouverture.
+Étape 3
+Batterie
+En utilisant un tournevis Phillips # 000 dans le sens inverse des aiguilles d'une montre, retirez la vis M1.4 × 2.5 qui maintient la bande de cuivre reliée à la batterie.
+À l’aide d’une pince à épiler, débranchez avec précaution la bande reliant la batterie à la carte mère.
+Étape 4
+En vous approchant du bord de la batterie, extrayez-la à l'aide d'un outil d'ouverture en plastique.
+Sachez que la batterie est maintenue par du ruban adhésif double face sur le dessous
+
+------------------
+#FICHIER IFIXIT_7580
+TITRE : Remplacement de l'écran complet du Macbook Core 2 Duo
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+l'%C3%A9cran+complet+du+Macbook+Core+2+Duo/536
+---------
+Introduction
+Changez l'écran complet, comprenant inverseur, antennes Airport, charnières et boîtier.
+Outils
+Coin
+Phillips 0 Screwdriver
+Phillips #000 Screwdriver
+Phillips #00 Screwdriver
+Spudger
+Pièces
+MacBook 13.3" Core 2 Duo Display Assembly 
+MacBook 13.3" Santa Rosa/Penryn Display Assembly 
+Étape 1
+Batterie
+À l'aide d'une pièce de monnaie, faites tourner la vis de verrouillage de la batterie de 90 degrés dans le sens des aiguilles d'une montre.
+Étape 2
+Retirez la batterie de l'ordinateur en la soulevant.
+Étape 3
+Capot mémoire
+Dévissez les trois vis Phillips espacées régulièrement sur la paroi arrière du compartiment de la batterie.
+Les vis sont intégrées au capot métallique de la mémoire, vous ne pouvez donc pas les perdre.
+Étape 4
+Faites pivoter le capot de la mémoire en forme de L de manière à dégager l'ouverture du compartiment de la batterie, soulevez-le et sortez-le de l'ordinateur.
+Étape 5
+Boîtier supérieur
+Retirez les 3 vis suivantes :
+Une vis Phillips n°00 11 mm au milieu du boîtier (tête : diamètre 5 mm x épaisseur 0,75 mm).
+Deux vis Phillips n°00 14,5 mm (tête : diamètre 5 mm x épaisseur 0,75 mm).
+Si les vis adhèrent au boîtier, vous pouvez utiliser un tournevis aimanté pour les sortir.
+La plus courte de ces vis est celle du milieu.
+Étape 6
+Retirez les 3 vis suivantes de la paroi arrière du compartiment de la batterie :
+Une vis Phillips n°0 3 mm (tête : diamètre 2,75 mm).
+Deux vis Phillips n°0 4 mm de chaque côté (tête : diamètre 2,75 mm).
+Soyez particulièrement prudent avec ces vis. Elles s'abîment très facilement.
+Étape 7
+Retirez les deux vis Phillips de chaque côté de la paroi droite du compartiment de la batterie (pas celles qui sont les plus proches du connecteur de la batterie).
+Deux vis Phillips n°000 6,25 mm (tête : diamètre 4 mm x épaisseur 0,5 mm).
+Étape 8
+Retirez les quatre vis Phillips indiquées de la paroi avant du compartiment de la batterie : En partant de la gauche, retirez les 2e, 4e, 7e et 9e vis.
+Quatre vis Phillips n°000 3,25 mm (tête : diamètre 4 mm x épaisseur 4 mm).
+Étape 9
+Retirez les 4 vis suivantes à l'arrière de l'ordinateur :
+Les vis les plus longues vont à l'intérieur de l'ordinateur, les plus courtes à l'extérieur.
+Deux vis Phillips n°00 11 mm, avec tige (diamètre 2,2 mm x longueur 2 mm) (tête : diamètre 3,2 mm x épaisseur 0,5 mm).
+Deux vis Phillips n°00 7,25 mm, avec tige (diamètre 2 mm x longueur 3,75 mm) (tête : diamètre 3,2 mm xépaisseur 0,5 mm).
+Étape 10
+Retirez les deux vis Phillips du côté de l'ordinateur correspondant au lecteur optique.
+Deux vis Phillips n°00 5,2 mm, avec tige (diamètre 2,3 mm x longueur 3,5 mm) (tête : diamètre 3,2 mm x épaisseur 0,5 mm).
+Il est inutile de retirer les vis similaires présentes de l'autre côté de l'ordinateur.
+Étape 11
+Ne retirez pas complètement le boîtier supérieur, car il est encore relié à la carte mère par le ruban du pavé tactile et du clavier.
+En commençant près de l'écran et en vous rapprochant de l'avant de l'ordinateur, soulevez le boîtier supérieur en faisant levier. Vous pouvez vous aider d'un médiator moyennement rigide pour cette opération.
+Le boîtier supérieur risque d'adhérer à l'endroit où il est en contact avec le lecteur optique. Dans ce cas, dégagez d'abord les autres côtés, puis tirez sur le boîtier de chaque côté de l'ouverture du lecteur optique.
+Si vous laissez la base posée, il se peut que vous retiriez quatre clips gris qui maintiennent le clavier en place. Pas de panique ! Ils s'insèrent dans quatre fentes situées dans le coin supérieur droit près du lecteur optique.
+Étape 12
+Tout en tenant le boîtier supérieur d'une main, tirez sur la languette noire du câble argenté pour débrancher son connecteur.
+S'il n'y a pas de languette, servez-vous d'un spudger et faites levier sur le connecteur afin de le débrancher. Le connecteur est haut. Veillez à le maintenir bien droit pendant l'opération.
+Si vous rompez le câble lors du retrait du boîtier supérieur, sachez que vous pouvez l'acquérir en tant que pièce détachée et que nous proposons un guide pour faciliter son remplacement.
+Une fois le boîtier supérieur démonté, vous aurez peut-être envie de saisir l'opportunité de le débarrasser de cheveux, de poussière, etc. Le mieux, c'est d'utiliser un petit soufflet, même si vous pouvez prendre une brosse. Si c'est la cas, veillez à utiliser des poils naturels non électrostatiques pour ne pas nuire aux composants électroniques.
+Quatre clips en plastique gris sont présents sur le côté du clavier correspondant au lecteur optique. Lors du remontage, veillez à bien les insérer dans leurs logements pour que le clavier s'enclenche en position.
+Pour faciliter le remontage,il est préférable de retirer les clips d'abord en tirant vers le haut doucement. Faites attention de ne pas mettre trop de force parce qu'ils casseront..
+Étape 13
+Lecteur optique
+Saisissez la languette en plastique blanc fixée au disque dur et tirez-la vers la gauche pour retirer le disque dur de l'ordinateur.
+Étape 14
+Retirez les deux vis Phillips du bord avant du lecteur optique.
+Deux vis Phillips n°000 3,25 mm, (tête : diamètre 4 mm x épaisseur 0,3 mm)
+Étape 15
+Débranchez le câble-ruban orange du lecteur optique de la carte mère. Pour débrancher ce câble, vous pouvez également utiliser un spudger pour le soulever en faisant levier.
+Étape 16
+Débranchez le câble de données de l'écran qui est à présent accessible. Si aucune languette d'extraction n'est présente sur le dessus du connecteur, vous pouvez vous servir d'un spudger pour débrancher ce connecteur.
+Étape 17
+Débranchez le câble du disque dur auquel vous avez maintenant accès.
+Étape 18
+Décollez le ruban adhésif alu entre le ventilateur et le lecteur optique. Enlevez le ruban du côté du ventilateur et laissez-le sur le lecteur optique.
+Lors du réassemblage, faites attention de bien positionner les câbles sous le ruban adhésif avant de les recoller.
+Étape 19
+Tirez vers le haut le câble de données de l'écran, qui longe le côté du lecteur optique de manière à avoir accès à une vis Phillips argentée.
+Étape 20
+Retirez la vis Phillips de 2 mm par laquelle est fixé le lecteur optique.
+Il est possible que la vis soit recouverte par le câble Bluetooth ; dans ce cas, déplacez précautionneusement ce dernier avant de retirer la vis.
+Étape 21
+Soulevez la carte Bluetooth sur le côté droit du lecteur optique.
+Étape 22
+Déroutez le câble du disque dur qui passe à l'avant du lecteur optique.
+Étape 23
+Soulevez le bord avant du lecteur optique et faites-le glisser vers le haut pour le sortir de l'ordinateur.
+Étape 24
+Profilé (Pièce de support)
+Dévissez les 3 vis suivantes :
+Deux vis cruciformes de 3 mm à côté du haut-parleur droit.
+Une vis cruciforme de 6 mm fixée à travers un trou dans un dispositif en plastique au-dessus du caisson de basse.
+Veillez à ne pas trop serrer la vis au-dessus du caisson de basse, le plastique pourrait craquer.
+Les MacBook Santa Rosa et Penryn n'ont pas cette pièce de support. Si vous démontez un de ces modèles, dévissez seulement l'unique vis cruciforme de 3 mm du haut-parleur droit et sautez l'étape 26.
+Étape 25
+Retirez le haut-parleur droit de son emplacement et mettez-le de côté.
+Étape 26
+Si vous avec un modèle Santa Rosa/Penryn, sautez cette étape.
+Avec une spatule, faites délicatement levier pour ouvrir la fente en plastique blanc, glissez le profilé métallique vers la droite et enlevez-le de l'écran.
+Étape 27
+Ecran complet
+Avec une spatule (spudger), déconnectez soigneusement le câble du microphone de la carte mère. Travaillez d'un côté à l'autre et faites sortir lentement le connecteur de sa prise en le remuant.
+En tirant sur ce connecteur verticalement, vous pouvez briser la prise sur la carte mère. Ce connecteur doit être retiré horizontalement en tirant doucement le câble du microphone vers l'écran et en travaillant avec une spatule entre le connecteur et la prise.
+Étape 28
+Soulevez le câble noir du haut-parleur droit d'une main et enlevez le câble du microphone du clip en métal argenté juste au-dessus de la fente de la RAM de droite.
+On ne trouve pas ce clip en métal dans tous les modèles. Assurez-vous que le câble est dégagé du clip de retenue dans cette zone avant de poursuivre .
+Étape 29
+Si vous n’avez pas retiré la vis de mise à terre lors de l'étape 20, faites-le maintenant . C’est une vis cruciforme Phillips de 7 mm (peut être de 4,2 mm dans les modèles Santa Rosa/Penryn) fixant la mise à terre du câble du haut-parleur droit et du câble du microphone au châssis métallique.
+Étape 30
+Dégagez le câble du microphone et le câble noir de données de l'écran des onglets fixés en bas du caisson de basse.
+Étape 31
+Dévissez la vis cruciforme Phillips de 3 mm, qui fixe la mise à terre du câble de données de l’écran, se trouvant juste au-dessus de la carte Bluetooth .
+Étape 32
+Débranchez les trois câbles d'antenne de la carte Airport. Il peut y avoir un morceau de mousse carré sur le connecteur de la carte mère.
+Débranchez le câble de l'inverseur en insérant la spatule entre le bord droit ou gauche de la fiche et en la soulevant doucement. (Ne retirez PAS toute la prise de la carte mère, tirez sur la fiche depuis l'intérieur de la prise.) La fiche de l'inverseur se tire verticalement. Ne tirez pas vers les fils de connexion, vous arracheriez le connecteur.
+Si vous avez un MacBook Core 2 Duo Santa Rosa/Penryn, il n'y a que deux câbles d'antenne et le câble noir de l'inverseur est situé ailleurs.
+Étape 33
+Retirez les 2 vis suivantes de la charnière de droite :
+Une vis cruciforme Phillips de 6 mm sur le côté gauche de la charnière.
+Une vis cruciforme Phillips de 10 mm sur le côté droit de la charnière.
+Pour les modèles Santa Rosa/Penryn, voir la deuxième image et enlever :
+Une vis cruciforme Phillips de 3 mm et de plus petit diamètre tout à gauche.
+Une vis cruciforme Phillips de5,2 mm et d'un diamètre de 4,2 mm au milieu.
+Une vis cruciforme Phillips de 10 mm tout à droite.
+Démontez la charnière droite avec la petite pièce en plastique et enlevez-la de l'ordinateur.
+Étape 34
+Maintenez l'écran d'une main tout en retirant les vis de la charnière gauche.
+Retirez les 3 vis suivantes de la charnière gauche:
+Une vis cruciforme Phillips de 7,2 mm et de plus petit diamètre à droite.
+Une vis cruciforme Phillips de 5,2 mm et de plus grand diamètre au milieu .
+Une vis cruciforme Phillips de 10 mm à gauche.
+Soulevez la charnière gauche avec lapièce en plastique et sortez-la de l'ordinateur.
+Vérifiez que les câbles à droite ne sont pas cachés par d'autres câbles.
+Étape 35
+Saisissez l'ensemble écran des deux côtés, soulevez-le et ôtez-le de l'ordinateur.
+
+------------------
+#FICHIER IFIXIT_5530
+TITRE : Remplacement du haut-parleur du Sony Ericsson T68i
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+haut-parleur+du+Sony+Ericsson+T68i/2882
+---------
+Introduction
+Ce guide vous aidera à retirer le haut-parleur de votre Sony Ericsson T68i.
+Outils
+iFixit Opening Tool 
+T6 Torx Screwdriver 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Clavier
+Retirez la batterie de l'arrière.
+Étape 2
+Retirez le couvercle en plastique du dessus avec une fine cale en plastique, puis retirez-le des deux clips inférieurs.
+Ne le pliez pas trop loin, sinon vous risquez de briser les deux clips inférieurs.
+Étape 3
+Dévissez les quatre vis Torx T6.
+Laissez lesdans un endroit sûr.
+Étape 4
+Après avoir retiré les vis, les deux moitiés se sépareront. Sinon, faites-les doucement séparer.
+Étape 5
+Ecran
+Retirez la carte de circuit imprimé et l'écran de l'appareil.
+Utilisez votre tournevisT6 pour enlever les 4 vis.
+Étape 6
+Retirez la carte mère et l'écran.
+Étape 7
+Retirez délicatement les clips en plastique qui retiennent l'écran sur la carte mère.
+Étape 8
+Haut-parleur
+Retirez délicatement le haut-parleur situé dans le boîtier de l'écran avec un petit tournevis ou un outil similaire.
+
+------------------
+#FICHIER IFIXIT_226
+TITRE : Remplacement de la batterie du Sega Game Gear
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+batterie+du+Sega+Game+Gear/2345
+---------
+Introduction
+Comment remplacer les piles
+Étape 1
+Batterie
+Placez votre appareil à l'envers et localisez les deux compartiments de la batterie.
+Étape 2
+Appuyez sur les languettes situées au bas des couvercles de la batterie, puis soulevez-les pour les retirer.
+Retirez les piles si elles sont présentes.
+
+------------------
+#FICHIER IFIXIT_1946
+TITRE : Remplacement du clavier du ASUS Eee PC 900HD
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+clavier+du+ASUS+Eee+PC+900HD/53538
+---------
+Introduction
+Ce guide vous apprendra comment démonter correctement votre Asus pour remplacer le clavier.
+Outils
+Spudger
+Tweezers
+iFixit Opening Tool
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Clavier
+Ouvrez l'ordinateur portable afin que vous puissiez voir le clavier.
+Déverrouillez les trois onglets du clavier en appuyant sur les onglets argentés avec un spudger.
+Étape 2
+Avec l'outil d'ouverture en plastique, vous soulevez délicatement le clavier.
+Étape 3
+À l'aide d'une paire de pincettes, débranchez le câble situé au bas du clavier en faisant basculer les deux interrupteurs de verrouillage vers le haut des deux côtés du câble.
+Étape 4
+Tirez doucement sur le câble.
+Vous pouvez maintenant déconnecter le clavier de son origine.
+
+------------------
+#FICHIER IFIXIT_7706
+TITRE : Remplacement du Taptic Engine de l'iPhone 6s Plus
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+Taptic+Engine+de+l'iPhone+6s+Plus/51220
+---------
+Introduction
+Suivez ce tutoriel pour remplacer le Taptic Engine dans votre iPhone 6s Plus. Le Taptic Engine est le moteur de rétroaction vibratoire et haptique de l'iPhone. Si votre téléphone ne vibre pas ou ne fait pas de bruit, le remplacement du Taptic Engine peut remédier à vos problèmes.
+Outils
+P2 Pentalobe Screwdriver iPhone
+Suction Handle
+Spudger
+Tweezers
+Phillips #000 Screwdriver
+iFixit Opening Tool
+iOpener
+Pièces
+iPhone 6s Plus Vibrator 
+iPhone 6s Plus Display Assembly Adhesive 
+Étape 1
+Vis Pentalobe
+Avant de démonter votre iPhone, déchargez-le en dessous de 25 %. Une batterie lithium-ion chargée perforée accidentellement peut prendre feu et/ou exploser.
+Éteignez votre iPhone avant de commencer le démontage.
+Enlevez les deux vis Pentalobe de 3,4 mm de chaque côté du connecteur Lightning.
+Étape 2
+Procédure d'ouverture
+Vous pouvez également chauffer le bord inférieur de l'iPhone pendant une minute à l'aide d'un iOpener ou d'un sèche-cheveux.
+La chaleur permet de ramollir la colle qui fixe l'écran ce qui facilite l'ouverture.
+Étape 3
+L'écran du iPhone 6s Plus dispose d'une fine bande adhésive tout autour de son périmètre. Si vous préférez le remplacer, prévoyez un nouveau set de bandes adhésives avant de continuer. Il est possible de finaliser la réparation sans remplacer la bande adhésive, et vous ne remarquerez probablement aucune différence au niveau de la fonctionnalité.
+Fixez une ventouseen bas à gauche sur la vitre.
+Si votre écran est méchamment fissuré, vous pouvez le recouvrir avec du ruban adhésif pour mieux faire adhérer la ventouse. Du ruban adhésif très solide peut être utilisé à la place de la ventouse. Si toutes les autres méthodes échouent, vous pouvez utiliser de la super glue pour coller la ventouse à l'écran cassé.
+Étape 4
+Soulevez la ventouse de façon ferme et constante pour créer un petit interstice entre l'écran et le boîtier arrière.
+Ne tirez pas trop fort sur la ventouse, vous risqueriez d'endommager l'écran. Soulevez juste assez pour créer un petit interstice entre l'écran et le boîtier arrière.
+Étape 5
+Le meilleur endroit pour faire levier est l'encoche dans l'écran située au-dessus de la prise casque.
+Tout en tenant la ventouse, insérez l'extrémité plate d'une spatule (spudger) dans l'encoche directement au-dessus de la prise casque.
+Étape 6
+Agrandissez l'interstice entre l'écran et le boîtier arrière en tournant la spatule.
+Étape 7
+Tirez fermement la ventouse vers le haut et faites glisser la spatule sous le bord du coin gauche de l'écran.
+Étape 8
+Faites glisser la pointe de la spatule le long du côté gauche entre l'écran et le boîtier arrière.
+Étape 9
+Insérer l'extrémité plate de la spatule sous le côté droit de l'écran.
+Faites glisser la spatule le long du bord droit.
+Étape 10
+Utilisez un outil en plastique pour tenir le boîtier arrière pendant que vous tirez sur la ventouse pour ouvrir le téléphone.
+Ne retirez pas complètement l'écran, sinon vous endommageriez les nappes de connexion placées près du bord supérieur de l'iPhone.
+Étape 11
+Tirez sur le petit bouton en plastique sur la ventouse et enlevez-la de l'écran.
+Étape 12
+Saisissez délicatement l'écran et soulevez-le pour ouvrir le téléphone, en vous servant des clips en haut du panneau frontal comme charnière.
+Pendant les étapes suivantes, adossez l'écran à un objet afin de maintenir un angle de 90° par rapport au boîtier.
+Evitez d'ouvrir l'écran à un angle de plus de 90° -il est toujours relié au téléphone par les nappes de l'écran, de la vitre tactile et de la caméra frontale, qui peuvent se déchirer facilement.
+Utilisez un élastique pour garder l'écran fermement en place pendant la réparation. Cela va empêcher une pression excessive sur les câbles de l'écran.
+À la limite, vous pouvez utiliser une cannette de boisson fermée pour tenir l'écran.
+Étape 13
+Connecteur de batterie
+Enlevez les deux vis cruciformes qui attachent le cache du connecteur de batterie à la carte mère :
+Une vis de 2,9 mm
+Une vis de 2,3 mm
+Tout au long du tutoriel, gardez soigneusement la trace de vos vis afin de revisser chacune d'entre elles là où elle était avant. Revisser une vis au mauvais endroit peut causer des dommages irréversibles.
+Étape 14
+Retirez le cache de connecteur de batterie.
+Étape 15
+Utilisez une spatule (spudger) ou un ongle propre pour déconnecter le connecteur de batterie de la carte mère en le soulevant tout droit vers le haut.
+Étape 16
+Repliez le connecteur pour éviter un contact qui pourrait rallumer votre iPhone pendant que vous travaillez dessus.
+Étape 17
+Taptic Engine
+Retirez les vis cruciformes suivantes du cache de la nappe du Taptic Engine :
+Deux vis de 3,5 mm
+Une vis de 2,7 mm
+Étape 18
+Retirez le cache de la nappe du Taptic Engine.
+Étape 19
+Débranchez la nappe du Taptic Engine de sa prise sur la nappe du connecteur de charge Lightning.
+Étape 20
+Retirez les deux vis cruciformes suivantes :
+Une vis de 3,1 mm
+Une vis de 2,1 mm
+Étape 21
+Retirez le Taptic Engine.
+
+------------------
+#FICHIER IFIXIT_1844
+TITRE : Remplacement du ressort de sortie du film du Ricoh Shotmaster 130Z
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+ressort+de+sortie+du+film+du+Ricoh+Shotmaster+130Z/74471
+---------
+Introduction
+Remplacement du ressort de sortie du film Ricoh Shotmaster 130Z.
+Outils
+Phillips 0 Screwdriver 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Ressort de sortie du film
+Appuyez sur l'interrupteur qui dit «ouvert» sur le côté de la caméra.
+Étape 2
+Une fois le compartiment ouvert, dévissez les deux vis Phillips de 0,5 mm qui maintiennent le ressort en place. Remplacez le ressort par un nouveau.
+
+------------------
+#FICHIER IFIXIT_4551
+TITRE : Remplacement du haut-parleur du MJS T2702
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+haut-parleur+du+MJS+T2702/71973
+---------
+Introduction
+Ce guide de remplacement vous montrera comment remplacer le haut-parleur de cet appareil. C'est une procédure simple et facile que nous allons vous montrer comment faire à la maison, étape par étape.
+Outils
+Phillips #000 Screwdriver 
+Spudger 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Haut-parleur
+Séparez le dos de l'appareil du visage en insérant l'extrémité plate du spudger en nylon dans le coin de l'appareil pour le faire levier en toute sécurité.
+Étape 2
+Retirez les vis de 4,1 mm reliant l’enceinte à l’appareil à l’aide de la Phillips Head J # 000.
+Étape 3
+Retirez le cache en plastique du haut-parleur en le tirant doucement avec vos mains.
+Étape 4
+Retirez les fils de l'appareil avec un fer à souder. Utilisez le guide technique de soudure pour des conseils utiles!
+
+------------------
+#FICHIER IFIXIT_6329
+TITRE : Remplacement de l'écran du iRulu AX760
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+l'%C3%A9cran+du+iRulu+AX760/106447
+---------
+Introduction
+Ce guide vous expliquera comment accéder à l’écran d’affichage de leur iRulu AX760 et l’enlever. En suivant ce guide, vous apprendrez comment déconnecter et remplacer l'affichage à l'écran.
+Outils
+iFixit Opening Tool
+Soldering Workstation
+Portable Soldering Iron
+JIS #000 Screwdriver
+Metal Spudger
+Pièces
+iRulu AX760 Screen Display 
+Étape 1
+Batterie
+Utilisez un outil d’ouverture en plastique ou une spatule métallique pour libérer le capot arrière.
+Insérez votre spudger sur le côté de votre tablette.
+Casser chaque bord et enlever le couvercle.
+Étape 2
+Ouvrez votre tablette.
+Étape 3
+Prenez votre outil en plastique à tête plate et insérez-le sous la batterie.
+Soulevez la batterie.
+Assurez-vous de retirer tout ruban adhésif de la batterie.
+Étape 4
+Utilisez un fer à souder pour retirer la soudure qui relie les fils noir et rouge de la batterie à la carte mère.
+Gardez les fils de la batterie appris.
+Le fer à repasser ne doit être appuyé sur la soudure que pendant 2-3 secondes maximum.
+Soyez très prudent, le fer à souder sera très chaud!
+Visitez ce lien pour plus d'informations sur la soudure. Comment souder et dessouder des connexions
+Étape 5
+Retirez votre ancienne batterie et remplacez-la par la nouvelle.
+Étape 6
+Caméra
+Utilisez le spudger en plastique pour soulever les onglets des prises de ruban du numériseur.
+Étape 7
+Tirez les câbles ruban numériseur tout droit sorti de leurs prises.
+Étape 8
+Tirez la caméra hors de l'appareil.
+Étape 9
+Carte mère
+Il y a deux fines bandes adhésives sous la batterie qui s'étendent verticalement le long des côtés gauche et droit.
+Insérez soigneusement une carte en plastique ou un spudger sous la batterie et le long des deux bandes adhésives. Travaillez doucement la carte ou le spudger de haut en bas pour libérer la batterie.
+N'utilisez pas d'outils en métal et ne pliez pas et ne perforez pas la batterie.
+Étape 10
+AVERTISSEMENT: LES FERS À SOUDER DEVIENT EXTRÊMEMENT CHAUD. NE PAS TOUCHER
+Pour plus d'informations sur le soudage et le dessoudage, consultez ce lien.
+Vous devez désouder plusieurs jeux de contacts avant de tenter de retirer la carte mère.
+Vous devez déssouder les contacts BAT (batterie), LED, SPK (haut-parleur) et ANT (antenne).
+Étape 11
+Dévissez la carte mère de l'écran avec le tournevis JIS # 000, un tournevis à tête cruciforme
+Étape 12
+Utilisez un spudger en plastique pour pousser l'onglet, libérant la carte mère de l'écran. Vous pouvez maintenant retirer l'ancienne carte mère.
+Vous n'aurez pas besoin d'un spudger en métal pour replacer la carte mère
+Étape 13
+Ecran
+Retirez la pellicule de plastique attachée à l'arrière de l'écran.
+Étape 14
+Retirez le fil gris de l'arrière de l'écran.
+Étape 15
+Insérez le spudger en plastique sous l'écran et soulevez-le.
+Étape 16
+Continuez à soulever l'écran à la main et retirez-le jusqu'à ce qu'il soit complètement retiré.
+
+------------------
+#FICHIER IFIXIT_5231
+TITRE : Remplacement des haut-parleurs due la tablette DOPO 10.1
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+des+haut-parleurs+due+la+tablette+DOPO+10.1/36781
+---------
+Introduction
+Le remplacement des haut-parleurs est un processus simple mais qui nécessite des connaissances de base sur le fonctionnement des composants électroniques. L’utilisateur devra connaître un peu le fonctionnement d’une carte mère et savoir comment souder des fils.
+Remarque: si l'utilisateur ne sait pas comment souder des fils, suivez le lien fourni ci-dessous.
+Comment souder et dessouder des connexions
+Outils
+Soldering Workstation
+Lead-Free Solder
+iFixit Opening Tool
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Séparer les couvertures
+Insérez l'outil dans le pli entre les couvercles. Tout d’abord, insérez l’un des outils en plastique entre le capot avant et le capot arrière, comme indiqué. Ensuite, tournez l’outil en plastique jusqu’à ce qu’il se produise une séparation entre l’avant et l’arrière de la tablette.
+Étape 2
+Localisez les haut-parleurs
+Les haut-parleurs doivent être fixés au capot blanc de la tablette, comme indiqué. Suivez les fils sur la carte mère en veillant à retirer tout le ruban adhésif fixant les fils à couvrir le long du chemin. Cela libérera les fils pour une maniabilité facile.
+Étape 3
+Dégager la voie pour enlever les haut-parleurs
+Nous devrons séparer légèrement la batterie du panneau. Cela facilitera la maniabilité de retirer les haut-parleurs. Ne séparez pas complètement la batterie.
+Étape 4
+Déssoudez des enceintes de la carte mère de la tablette
+Dessouder les fils rouge et noir de la carte mère des tablettes. Cela déconnectera officiellement et séparera les haut-parleurs défectueux de la carte mère.
+Étape 5
+Retrait des haut-parleurs
+Retirez les haut-parleurs défectueux de leur emplacement dans la tablette.
+
+------------------
+#FICHIER IFIXIT_667
+TITRE : Remplacement du LCD du Samsung Impression.
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+LCD+du+Samsung+Impression./5879
+---------
+Introduction
+Comment retirer et remplacer l'écran LCD du téléphone.
+Outils
+Phillips #00 Screwdriver 
+Flathead 3/32" or 2.5 mm Screwdriver 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Batterie
+Orientez le téléphone avec l'écran vers le bas.
+En utilisant votre pouce, faites glisser le panneau arrière loin de l'appareil photo pour exposer la batterie.
+Étape 2
+Saisissez la batterie sur ses côtés, en face de la flèche blanche.
+Soulevez la batterie. Il pivote à la fin avec la flèche blanche. La batterie sera maintenant libre.
+Étape 3
+Boitier arrière
+Retirez les 6 vis extérieures.
+Les vis doivent avoir une longueur de 3,5 mm.
+Mettez les vis dans un endroit sûr car elles sont très petites et faciles à perdre.
+Étape 4
+Enlevez la couverture en soulevant délicatement les bords supérieur et inférieur avec un tournevis à tête plate.
+Il peut être utile de faire glisser l'écran tactile vers le haut lors du retrait du panneau arrière.
+Les boutons latéraux deviennent lâches et sont susceptibles de tomber, alors mettez-les dans un endroit sûr.
+Étape 5
+Circuit imprimé
+Pour libérer le circuit imprimé, retirez le fil noir qui le retient.
+Vous pouvez retirer le fil en soulevant doucement la terminaison en or qui est attachée au circuit imprimé vert. Un remorqueur léger est tout ce qu'il faudra.
+Étape 6
+Le circuit imprimé sera toujours maintenu par un ruban bleu et noir qui sera retiré en le tirant doucement vers le haut.
+Étape 7
+Clavier
+Retirez les deux vis de base le long du bord de la pièce d'argent, où vous venez d'enlever l'embout noir.
+Les vis ont une longueur de 2,7 mm.
+Le capuchon d'extrémité inférieur noir s'enclenchera.
+Étape 8
+Retirez les 6 vis qui maintiennent la plaque d'argent.
+2.7mm de longueur
+Les touches se détacheront du côté de l'écran du téléphone.
+Étape 9
+La pièce d'argent qui vous reste est l'assemblage du clavier physique.
+Étape 10
+Câble flexible du LCD
+Retirez les 3 vis qui retiennent le câble flexible.
+Les vis ont une longueur de 2,0 mm.
+La vis qui traverse le port circulaire sur le câble flexible est plus longue à 2,3 mm de long.
+Le cadre du clavier se détachera et le câble flexible sera exposé, mais pas libre.
+Étape 11
+Retirez les 4 vis extérieures.
+Les vis ont une longueur de 3,5 mm
+Étape 12
+Faites glisser le téléphone et retirez une 5ème vis (3,5 mm).
+Retirez la coque extérieure en soulevant les bords avec vos doigts ou un petit tournevis. (deuxième image, prise avant l'image pour l'instruction ci-dessus)
+L'appareil sera maintenant en deux parties
+Étape 13
+Soulevez la languette sous le ruban bleu et tirez doucement sur le câble flexible.
+Le câble flexible sera maintenant complètement libre.
+Étape 14
+Ecouteur.
+Retirez la seule vis.
+Cette vis mesure 2,25 mm de longueur.
+Soulevez la languette noire à la fin du ruban.
+Tirez doucement sur le haut-parleur et le ruban libre.
+Étape 15
+LCD
+Soulevez les deux languettes restantes et libérez leurs rubans respectifs.
+Soulevez doucement l'écran du boîtier.
+Soyez prudent avec cette étape car vous êtes en contact direct avec l'écran LCD.
+
+------------------
+#FICHIER IFIXIT_755
+TITRE : Remplacement de l'écran LCD du Sanyo VPC-T700
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+l'%C3%A9cran+LCD+du+Sanyo+VPC-T700/9679
+---------
+Outils
+Phillips #00 Screwdriver 
+iFixit Opening Tool 
+Pièces
+replacement LCD screen 
+Étape 1
+Ecran LCD
+Les caméras s'allument et l'écran LCD cassé devient immédiatement évident.
+Retirez la batterie
+Retirez la dragonne de l'appareil photo
+Étape 2
+Retirez les quatre vis sur le côté droit de la caméra
+Retirez les deux vis sur le côté gauche.
+retirez les quatre vis au bas de la caméra.
+Les deux vis sur le filetage d'un trépied sont plus longues que les autres, gardez celles-ci séparées.
+Étape 3
+Voici un aperçu des vis de la caméra. Les deux vis du filetage du trépied sont les plus longues.
+Commencez à fendre le boîtier avec un outil d'ouverture ou vos ongles. Le boîtier ne nécessite pas beaucoup de force et se détachera facilement.
+Le capot avant semble être le plus simple et se détachera en premier
+Étape 4
+Le capot arrière peut maintenant être facilement retiré. L'écran LCD est assis dans un cadre sans attaches. Il se soulèvera simplement, cependant, il y aura un morceau de matériau isolant qui sépare l'arrière de l'écran LCD de la carte mère. Retirez-le après avoir retiré l'écran LCD du cadre. N'essayez pas encore de retirer l'écran LCD du PCB.
+Ouvrez le connecteur du câble ruban en tirant doucement sur le fermoir blanc.
+Retirez l'ancien écran LCD.
+Étape 5
+Voici le nouvel écran LCD. Notez le couvercle de protection. Retirez ce couvercle en tirant sur la languette verte après avoir installé l'écran LCD sur le PCB.
+Après avoir remonté votre appareil photo, j'espère qu'il ressemblera à ceci.
+
+------------------
+#FICHIER IFIXIT_6487
+TITRE : Remplacement de la batterie du HP Omni 10
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+batterie+du+HP+Omni+10/73776
+---------
+Introduction
+À l'aide d'un spudger et d'un tournevis à tête cruciforme 00, ce guide explique comment retirer une batterie d'une tablette HP Omni 10 en 5 à 10 minutes environ. Soyez prudent avec la batterie, car elle peut être volatile lorsqu'elle est perforée avec des instruments en métal.
+Outils
+Spudger
+Phillips #00 Screwdriver
+Tweezers
+iFixit Opening Tool
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Batterie
+Retirez la façade arrière de la tablette.
+Le capot est solidement fixé à l'appareil et peut être difficile à retirer.
+Étape 2
+Poussez les rabats de sécurité en plastique noir vers le haut.
+Soulevez le petit onglet sur les bandes de sécurité et décollez-les sur la batterie. Ils seront attachés via un adhésif.
+Soulevez la languette de la bande et tirez-la sur la batterie.
+La bande orange ne se détache pas complètement de la tablette comme les trois autres. Il ne se détachera que d'un côté.
+Étape 3
+Dévissez les dix vis de 3,3 mm fixant la batterie à l’aide d’un tournevis cruciforme 00 Phillip.
+Étape 4
+Décrochez le cordon du bord de la batterie.
+Tirez le circuit de fil vers le bas et vers le bas.
+Étape 5
+Soulevez la batterie par ses bords et retirez-la avec précaution. Il y aura un adhésif maintenant la batterie.
+
+------------------
+#FICHIER IFIXIT_7863
+TITRE : Remplacement de l'antenne supérieure droite de l'iPad Mini GSM
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+l'antenne+sup%C3%A9rieure+droite+de+l'iPad+Mini+GSM/25969
+---------
+Introduction
+Utilisez ce tutoriel pour remplacer l'antenne supérieure droite.
+Outils
+iOpener
+Spudger
+Tweezers
+Phillips #00 Screwdriver
+iFixit Opening Tool
+Pièces
+iPad mini & mini 2 Right Cellular Antenna 
+iPad mini & mini 2 Adhesive Strips 
+Étape 1
+Chauffer un iOpener
+Nous recommandons de nettoyer le micro-ondes avant de commencer. D'éventuels restes au fond risquent d'adhérer à votre iOpener.
+Placez l'iOpener au centre du micro-ondes.
+Pour les micro-ondes à plateau tournant : assurez-vous que le plateau tourne bien. Si votre iOpener se coince, il risque de surchauffer et de brûler.
+Étape 2
+Chauffez l'iOpener pendant trente secondes.
+Comme l'iOpener refroidit au cours de la réparation, rechauffez-le à nouveau au micro-ondes, mais ne dépassez pas les trente secondes à chaque fois.
+Faites attention de ne pas surchauffer l'iOpener pendant la réparation. En cas de surchauffe, l'iOpener risque d'exploser.
+Ne touchez jamais l'iOpener s'il vous paraît gonflé.
+Si le milieu de l'iOpener est encore trop chaud au toucher,continuez à l'utiliser jusqu'à ce qu'il soit assez froid pour le chauffer à nouveau. Un iOpener correctement chauffé devrait rester chaud pendant environ 10 minutes.
+Étape 3
+Sortez l'iOpener du micro-ondes en le tenant par l'une des deux extrémités plates, car le centre de l'outil risque d'être brûlant.
+L'iOpener sera très chaud, alors soyez prudent en le manipulant. Utilisez une manique si nécessaire.
+Étape 4
+Panneau frontal
+Si votre écran est fissuré, et afin de prévenir une nouvelle casse ou une blessure pendant la réparation, recouvrez de ruban adhésif toute la vitre de votre iPad.
+Placez des bandes superposées de ruban adhésif transparent sur l'écran de l'iPad jusqu'à ce qu'il soit entièrement recouvert.
+Cela permettra de ne pas faire tomber les éclats de verre et de garder une certaine stabilité lorsque vous ferez levier et enlèverez l'écran.
+Faites de votre mieux pour suivre le reste du tutoriel tel que décrit. Cependant, une fois que le verre est cassé, il continuera sûrement à craqueler et vous devrez peut-être utiliser un outil en métal pour dégager les éclats de verre.
+Portez des lunettes de sécurité pour protéger vos yeux et faites attention de ne pas endommager l'écran LCD.
+Étape 5
+En le manipulant par le attaches de chaque côté, placez l'iOpener chauffé sur le côté de l'iPad à gauche du bouton home.
+Laissez l'iOpener agir pendant environ cinq minutes pour ramollir l'adhésif sous le verre.
+Étape 6
+Placez soigneusement une ventouse à mi-hauteur du côté chauffé.
+Assurez-vous que la ventouse adhère à l'écran sur toute sa surface pour obtenir un joint étanche.
+Tout en maintenant l'iPad enfoncé d'une main, tirez sur la ventouse pour séparer légèrement la vitre du panneau frontal de la coque arrière.
+Veillez à soulever le vitre de juste ce qu'il faut pour insérer un médiator, car vous risqueriez de la briser en soulevant trop.
+Étape 7
+Tout en tenant le verre avec la ventouse, faites glisser la pointe d'un médiator dans l'espace entre la vitre et le reste de l'iPad.
+N'insérez pas la pointe plus profondément que le cache noir sur le côté de l'écran. Aller trop loin peut endommager l'écran LCD.
+Tirez sur la ventouse pour ouvrir le joint d'étanchéité sous vide et retirez la ventouse de l'écran.
+Étape 8
+Refaites chauffer et Reposez l'iOpener.
+Veillez à ne pas surchauffer l'iOpener pendant la procédure de réparation. Attendez toujours au moins dix minutes avant de réchauffer l'iOpener.
+Laissez reposer pendant quelques minutes pour chauffer le bord gauche de l'iPad.
+Étape 9
+Placez un deuxième médiator à côté du premier et faites-le glisser le long de l'iPad, en décollant l'adhésif au fur et à mesure.
+Si, au long du reste de la procédure, vous rencontrez une grande résistance en faisant glisser vos médiators sous le verre, arrêtez et réchauffez la section sur laquelle vous travaillez. Forcer sur les médiators risque de briser le verre.
+Étape 10
+Continuez à déplacer le médiator vers le bas de l'écran pour détacher l'adhésif.
+Si le médiator reste bloqué dans l'adhésif, faites-le tourner le long de l'iPad, en continuant à décoller l'adhésif.
+Étape 11
+Prenez le premier médiator que vous avez inséré et faites-le glisser vers le coin supérieur de l'iPad.
+Si vous pouvez voir la pointe du médiator à travers la vitre, ne paniquez pas, tirez-le juste un peu. Tout se passera certainement bien, mais évitez, car vous pouvez mettre ainsi de l'adhésif sur l'avant de l'écran LCD et c'est difficile à nettoyer.
+Étape 12
+Refaites chauffer l'iOpener et placez-le sur le bord supérieur de l'iPad, sur la caméra frontale.
+Veillez à ne pas surchauffer l'iOpener pendant la procédure de réparation. Attendez au moins dix minutes avant de réchauffer l'iOpener.
+Si vous avez un iOpener flexible, vous pouvez le plier pour chauffer le coin supérieur gauche et le bord supérieur en même temps.
+Étape 13
+Faites glisser le médiator autour du coin supérieur gauche de l'iPad pour séparer l'adhésif.
+Étape 14
+Faites glisser le médiator le long du bord supérieur de l'iPad, en vous arrêtant juste avant d'atteindre la caméra.
+La troisième image montre l'emplacement de la caméra frontale et de son boîtier dans l'iPad.
+Évitez de faire glisser le médiator sur la caméra avant, sinon vous risquez de mettre de l'adhésif sur la lentille ou d'endommager la caméra. Les étapes suivantes détaillent la façon d'éviter d'endommager la caméra frontale.
+Étape 15
+Tirez légèrement sur le médiator et faites-le délicatement glisser le long de la zone de la caméra frontale.
+Étape 16
+Laissez le médiator dans l'iPad juste après la caméra frontale.
+Prenez un deuxième médiator et insérez-le à gauche de la caméra, là où le premier médiator était. Faites-le glisser vers le coin pour décoller complètement tout adhésif restant.
+Laissez le deuxième médiator en place pour éviter que l'adhésif dans l'angle recolle en refroidissant.
+Étape 17
+Insérez le médiator précédent plus profondément dans l'iPad et faites-le glisser depuis la caméra vers le coin.
+Étape 18
+Laissez les trois médiators dans les coins de l'iPad afin d'empêcher toute nouvelle adhérence de l'adhésif du panneau frontal.
+Réchauffez l'iOpener et placez-le sur le côté long restant de l'iPad, le long des boutons de volume et de verrouillage.
+Étape 19
+Faites glisser le médiator droit supérieur autour du coin pour décoller complètement le bord supérieur du verre.
+Laissez ce médiator en place pour éviter que l'adhésif recolle et prenez un nouveau médiator pour l'étape suivante.
+Étape 20
+Insérez un nouveau médiator et faites-le glisser jusqu'au milieu du bord droit de l'iPad, en décollant l'adhésif au fur et à mesure.
+Étape 21
+Continuez à faire glisser le médiator vers le bas de l'iPad, en décollant l'adhésif.
+Étape 22
+Laissez les médiators en place et refaites chauffer l'iOpener.
+N'oubliez pas de ne pas surchauffer l'iOpener – pas plus d'une fois toutes les dix minutes.
+Posez l'iOpener chauffé sur la zone du bouton home et laisse-le agir pendant quelques minutes pour ramollir l'adhésif sous le verre.
+Étape 23
+Faites glisser le médiator inférieur gauche vers le coin inférieur gauche pour couper l'adhésif dans ce coin.
+Laissez-y le médiator. N'allez pas plus loin et ne retirez pas le médiator de l'iPad.
+Il y a un certain nombre de choses à éviter sous la vitre inférieure, alors étudiez attentivement la troisième image :
+Antennes
+Emplacement du bouton home
+Nappe de la vitre tactile
+Les étapes suivantes vous diront où il faut travailler pour éviter d'endommager ces composants. Ne faites chauffer que les endroits indiqués.
+Étape 24
+Laissez le médiator de la dernière étape en place pour éviter que l'adhésif recolle.
+Faites délicatement glisser un nouveau médiator par-dessus l'antenne gauche et arrêtez-vous avent le bouton home.
+Faites glisser simplement le médiator depuis bord extérieur vers le centre de l'iPad. Ne le déplacez pas vers le bord extérieur, car dans ce sens, vous endommageriez l'antenne.
+Si vous devez passer plusieurs fois, retirez le médiator et réinsérez-le sur le bord extérieur et faites-le glisser vers l'intérieur.
+Laisser les médiators en place avant de poursuivre.
+Étape 25
+Insérez la pointe d'un dernier médiator à côté de celui de l'étape précédente et faites-le glisser sous le bouton home.
+Arrêtez à environ 2,5 cm du côté droit pour éviter de couper la nappe de la vitre tactile.
+Insérez le médiator un peu plus profondément et retournez vers le bouton home.
+Encore une fois, assurez-vous de faire seulement glisser le médiator vers le centre de l'iPad lorsqu'il est complètement inséré. Sinon, vous risquez d'endommager l'antenne sous le verre.
+Étape 26
+Réchauffez et reposez l'iOpener sur la partie supérieure du joint de l'iPad.
+Étape 27
+Faites très attention pendant cette étape. Prenez votre temps et assurez-vous que l'adhésif est chaud et mou, et que vous avez coupé tout l'adhésif avec un médiator. N'ayez pas peur d'arrêter et de refaire chauffer.
+En haut de l'iPad en face du bouton home, vous devriez avoir un médiator logé dans chaque coin. Faites-les pivoter pour soulever légèrement le verre et séparer ainsi le reste d'adhésif le long des quatre bords.
+Si vous rencontrez une grande résistance, arrêtez de pivoter. Laissez les médiators en place, refaites chauffer et reposez l'iOpener sur les zones problématiques, avant d'y insérer un médiator une fois de plus.
+Étape 28
+Soulevez lentement et délicatement pour détacher l'adhésif le long du bord inférieur.
+Étape 29
+Une fois que tout l'adhésif a été enlevé, tournez la vitre de l'écran comme une page d'un livre et posez-la sur votre plan de travail.
+Si vous souhaitez remonter votre panneau frontal, vous aurez besoin de remplacer l'adhésif de l'écran. Consultez notre tutoriel de pose d'adhésif d'écran pour appliquer une nouvelle couche d'adhésif et refermer votre appareil.
+Étape 30
+Le boîtier de la caméra frontale peut rester accroché au panneau frontal. Décollez le boîtier et placez-le sur la caméra pour la protéger.
+Faites pivoter le boîtier de la caméra sur un bord pour le libérer de l'adhésif et retirez-le du panneau frontal.
+Remettez le boîtier de la caméra à sa place dans la coque arrière.
+Étape 31
+Ensemble LCD
+De petits morceaux de mousse autocollante recouvrent les vis droites supérieures et inférieures, fixant l'écran LCD à la coque arrière.
+Utilisez une pincette pour décoller et enlever le morceau rectangulaire de mousse recouvrant la vis supérieure droite du LCD.
+Retirez le morceau triangulaire de mousse recouvrant la vis inférieure droite duLCD.
+Étape 32
+La vis en haut à gauche du LCD peut être recouverte d'un ruban adhésif venant du panneau frontal.
+Dans ce cas, utilisez l'extrémité plate d'un spudger pour tirer le ruban vers le haut et à l'extérieur, accédant ainsi à la vis en dessous.
+Étape 33
+Retirez les quatre vis cruciformes #000 de 3,9 mm fixant l'écran LCD à la coque arrière.
+Étape 34
+Utilisez une pincette pour décoller le petit morceau de bande adhésive reliant le châssis du LCD au haut-parleur droit.
+Étape 35
+Une mince bande de mousse autocollante sur le cadre duLCD recouvre une bande d'adhésif reliant l'écran LCD au panneau en dessous. Pour continuer, vous devrez déchirer et décoller un peu cette bande de mousse pour accéder à l'adhésif caché en dessous.
+Utilisez une fine pincette pour tirer le haut de la bande de mousse entourant l'écran LCD.
+Veillez à ne pas toucher l'écran LCD avec la pincette, car vous risquez de l'endommager.
+Utilisez la pincette pour décoller le ruban de mousse pour accéder au haut de l'écran LCD.
+Étape 36
+Insérez la pointe d'un spudger entre le châssis du LCD et la bande adhésive sur le dessus de l'écran LCD.
+Faites glisser le spudger le long de l'espace entre le châssis LCD et la bande adhésive, en décollant la bande du châssis du LCD.
+Étape 37
+L'écran LCD est collé à la plaque de protection métallique du LCD, derrière celle-ci, le long des bords supérieur, gauche et droit. Afin de décoller cet adhésif en toute sécurité, vous utiliserez un médiator pour déplacer plusieurs fois l'écran LCD de quelques millimètres de gauche à droite.
+Insérezun médiator dans l'espace entre l'écran LCD et la coque arrière, près du haut du côté gauche de l'écran LCD.
+Inclinez légèrement le médiator pour l'éloigner de l'iPad, juste assez pour élargir l'espace entre l'écran LCD et la coque arrière.
+Étape 38
+Insérez le médiator à trois endroits de plus sur le côté gauche de l'écran LCD et inclinez-le à chaque fois, pour faire glisser l'écran LCD sur le côté droit de la coque arrière.
+Étape 39
+Passez maintenant au côté droit de l'écran LCD et faites levier avec le médiator à plusieurs endroits le long du côté pour déplacer l'écran LCD vers la gauche.
+Répétez cette étape et la précédente plusieurs fois, jusqu'à ce que l'écran LCD soit facilement démontable vers la gauche et vers la droite.
+Étape 40
+Dans les prochaines étapes, vous ferez glisser un spudger entre l'écran LCD et la plaque de protection en métal pour séparer complètement l'écran LCD de l'adhésif en dessous.
+Insérez l'extrémité plate d'un spudger entre le châssis du LCD et la plaque de protection en métal.
+Assurez-vous d'insérer le spudger entre le cadre LCD et la plaque de protection, et non sous la plaque. Faire levier sur la plaque l'endommagerait, car elle est vissée à la coque arrière sous l'écran LCD.
+Étape 41
+En commençant en haut à droite de l'appareil, faites glisser le spudger entre le châssis du LCD et la plaque de protection en métal. L'adhésif se décollera au fur et à mesure que vous faites glisser votre outil.
+L'objectif est de séparer l'adhésif et non de faire levier sur l'écran LCD. Pour cela, maintenez la pointe du spudger aussi bas que possible pour éviter de plier l'écran LCD.
+Si l'insertion du spudger plie le coin de l'écran LCD, répétez les étapes avec le médiator pour décoller davantage l'adhésif.
+Étape 42
+Répétez la procédure précédente en haut de l'écran LCD.
+Insérez l'extrémité plate du spudger entre le châssis LCD et la plaque de protection en métal et appuyez doucement sur le haut de l'appareil pour décoller l'adhésif.
+Étape 43
+Continuez du côté gauche de l'écran LCD : insérez l'extrémité plate du spudger entre l'écran LCD et la plaque de protection et faites-le avancer autant que possible.
+À ce stade, l'écran LCD doit être décollé de l'adhésif qui le retient. Si ce n'est pas le cas, insérez le spudger sur le côté droit ou en haut pour dégager complètement l'écran LCD.
+Étape 44
+Soulevez l'écran LCD à quelques centimètres de la coque arrière pour vous assurer qu'il est exempt d'adhésif.
+Étape 45
+Deux larges bandes d'adhésif relient l'écran LCD aux haut-parleurs.
+Tout en tenant l'écran LCD d'une main, insérez l'extrémité plate d'un spudger dans l'espace entre l'adhésif et le haut-parleur gauche.
+Retirez doucement l'écran LCD des haut-parleurs tout en faisant pivoter le spudger vers l'extérieur pour séparer l'adhésif du haut-parleur.
+Étape 46
+Insérez l'extrémité plate du spudger dans l'espace entre le haut-parleur droit et l'adhésif du LCD.
+Tout en retirant l'écran LCD des haut-parleurs, faites pivoter le spudger vers l'extérieur pour élargir l'espace et décoller l'adhésif du haut-parleur.
+Étape 47
+Retournez l'écran LCD et posez-le sur le dessus de la vitre du panneau frontal.
+N'essayez pas d'enlever l'écran LCD de l'iPad, car il est toujours connecté par son câble de données.
+Étape 48
+Plaque de protection de l'écran LCD
+Retirez les vis suivantes, fixant la plaque de protection de l'écran LCD à la coque arrière de l'iPad :
+Deux vis cruciformes #00 de 2,6 mm
+Treize vis cruciformes #00 de 2,6 mm
+Une vis cruciforme #00 de 1,7 mm supplémentaire sur certains modèles
+Étape 49
+Insérez l'extrémité plate d'un spudger sous la plaque de protection de l'écran LCD, au milieudu côté inférieur de l'iPad.
+Faites levier avec le spudger pour dégager la plaque des côtés de la coque arrière.
+Étape 50
+Retirez la plaque de protection de l'écran LCD de l'iPad.
+Étape 51
+Connecteur de batterie
+Retirez les trois vis cruciformes #00 de 1,3 mm fixant le cache du connecteur à la carte mère.
+Assurez-vous de ne pas substituer ces trois vis par d'autres vis, en particulier les vis qui fixent la plaque de protection de l'écran LCD à la coque arrière de l'iPad. Toute vis légèrement plus longue peut détériorer les trous des vis et endommager irréparablement la carte mère.
+Étape 52
+Utilisez une pincette pour saisir et retirer de l'iPad le cache du connecteur.
+Étape 53
+Utilisez un outil d'ouverture en plastique pour retirer délicatement le connecteur de batterie de sa prise sur la carte mère.
+Soyez très prudent de faire levier seulement sur le connecteur de la batterie et non sur la prise elle-même. Vous risquez autrement de briser complètement le connecteur.
+Étape 54
+Écran LCD
+Utilisez un outil d'ouverture en plastique pour retirer le connecteur LCD de sa prise sur la carte mère.
+Ne faites pas levier contre le grand IC à côté du connecteur, vous risqueriez de le casser. Faites délicatement levier sur côté du connecteur comme sur la photo.
+Étape 55
+L'écran LCD est toujours connecté au reste de l'iPad par deux larges bandes de ruban adhésif qui passent de l'intérieur de la coque arrière à la partie avant du cadre LCD.
+Tout en tenant l'écran LCD d'une seule main, insérez l'extrémité plate d'un spudger entre l'écran LCD et la bande adhésive sur le côté droit de l'iPad.
+Faites glisser le spudger vers l'extérieur, en décollant la bande adhésive et en soulevant doucement l'écran LCD pour les décoller.
+Il peut être utile de faire pivoter le spudger, pour agrandir l'écart et décoller l'écran LCD de la bande adhésive.
+Étape 56
+Tout en tenant l'écran LCD d'une main, passez au côté gauche de l'iPad et répétez la procédure de l'étape précédente pour décoller le deuxième morceau de bande adhésive.
+Insérez l'extrémité plate d'un spudger entre le cadre LCD et la bande adhésif, et faites-le glisser vers l'extérieur tout en soulevant doucement l'écran LCD.
+Étape 57
+Soulevez et retirez de l'iPad mini l'écran LCD.
+Étape 58
+Panneau frontal complet
+Utilisez un outil d'ouverture en plastique pour tirer doucement le connecteur de la vitre tactile hors de sa prise sur la carte mère.
+Veillez à faire levier de façon uniforme sur le connecteur et pas du tout sur la prise. La prise et le connecteur sont très fragiles et si vous endommagez un des deux, votre vitre tactile ne fonctionnera pas.
+Étape 59
+Retirez délicatement de la coque arrière la carte de la nappe de la vitre tactile.
+Étape 60
+Soulevez et retirez le panneau frontal de l'iPad.
+Étape 61
+Petit support métallique
+Utilisez la pointe d'une spatule (spudger) pour commencer à décollez le côté droit de la bande noire couvrant le petit support métallique.
+Décollez la toute la bande restante avec une pincette et retirez-la du support.
+Étape 62
+Utilisez un outil d'ouverture en plastique pour pousser le support métallique légèrement vers la gauche.
+Étape 63
+Utilisez la pointe d'une spatule (spudger) pour soulever le côté inférieur du support métallique.
+Étape 64
+Saisissez le support avec des pincettes et soulevez-le hors de l'iPad.
+Lors du remontage, accrochez d'abord le bord supérieur de la plaque, puis baissez le fond dans ses fentes.
+Étape 65
+Antenne supérieure droite
+Utilisez un outil d'ouverture en plastique pour extraire la nappe de l'antenne supérieure droite de sa prise sur la carte mère.
+Étape 66
+Retirez les trois vis suivantes fixant l'antenne supérieure droite sur le boîtier arrière:
+Deux viscruciformes #00 de 1,3 mm du côté de la prise de l'antenne.
+Une vis cruciforme #00 de 1,8 mm
+Étape 67
+Utilisez l'extrémité plate d'une spatule (spudger) pour retirer le connecteur coaxial de l'antenne supérieure droite de sa prise sur la carte mère.
+Étape 68
+Utilisez des pincettes pour soulever et retirer l'antenne supérieure droite du boîtier arrière.
+
+------------------
+#FICHIER IFIXIT_1866
+TITRE : Remplacement de la prise jack de l'iPhone 3G
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+prise+jack+de+l'iPhone+3G/580
+---------
+Introduction
+Plus de son ? Remplacez la prise jack!
+Outils
+SIM Card Eject Tool
+Phillips #00 Screwdriver
+Suction Handle
+Spudger
+Pièces
+iPhone 3G/3GS Headphone Jack Assembly 
+Étape 1
+Vitre brisée
+Lorsque la vitre de votre iPhone est brisée, évitez toute autre casse ainsi que des blessures éventuelles en scotchant la vitre.
+Posez des bandes adhésives transparentes se chevauchant sur la vitre de façon à la couvrir complètement.
+Ceci permet de retenir les éclats de verre et de garder la structure intacte lors de la réparation.
+Portez des lunettes de protection pour protéger vos yeux d'éventuels éclats de verre lors de la réparation.
+Étape 2
+Batterie
+Retirez les deux vis cruciformes #00 de 3,7 mm près du connecteur de dock de l'iPhone.
+Étape 3
+Enlevez l'anse métallique de la ventouse. Il est plus facile et sûr de saisir la base de la ventouse plutôt que la anse.
+Soyez très vigilant lorsque vous ouvrez l'iPhone pour éviter de casser les nappes sous l'écran.
+Il y a un joint en caoutchouc entre le joint frontal argenté et l'écran noir. Il faut forcer un peu lors de cette étape pour séparer l'écran de l'iPhone. Essayez de bouger la ventouse d'avant en arrière pour enlever l'écran.
+A l'aide d'une petite ventouse placée près du bouton home, soulevez délicatement la partie inférieure de l'écran de l'iPhone.
+Si l'écran est trop endommagé pour coller une ventouse, utilisez un scotch très fort tel que du ruban adhésif ou du ruban d'emballage.
+Étape 4
+L'écran est toujours relié à l'iPhone par plusieurs nappes, n'essayez donc pas encore de le retirer complètement.
+Soulevez l'écran à un angle d'environ 45°.
+Étape 5
+Tenez l'écran avec une main, avec l'autre et à l'aide d'une spatule (spudger), déconnectezla nappe noire marquée "1". (La nappe 1 est la nappe d'écran)
+Veillez à insérer la spatule par la gauche, comme on peut le voir sur l'image (SOUS LA NAPPE). Si vous faites levier sur la nappe par la droite, vous risquez d'endommager le connecteur de la nappe, et par conséquent pourriez être obligés de remplacer l'écran!
+Tous les connecteurs sauf le connecteur de nappe mentionné lors de l'étape 7, dégagent vers le haut.
+Étape 6
+Soulevez l'écran à la verticale. Ceci facilite la déconnection des autres nappes.
+A l'aide d'une spatule (spudger), déconnectezla nappe noire marquée "2". (La nappe 2 est pour le tactile)
+Étape 7
+Remarque: Dans certains versions non-US (chinoises, européennes) de l'iPhone 3G, il n'y a pas la languette noire rabattable. Dans ce cas, il faut faire glisser la nappe vers l'écran jusqu'à ce qu'elle soit enlevée. Lors du remontage, il va falloir exercer une pression sur la nappe pour la remettre dans son emplacement.
+Les couleurs des nappes pour le connecteur "3" peuvent être inversées sur quelques iPhones (languette noire, connecteur blanc). Assurez-vous de soulever la languette correctement, sinon vous risquez d'endommager le connecteur.
+A l'aide d'une spatule (spudger), soulevez la languette en plastique blanche qui maintient la nappe "3". La languette blanche va pivoter de 90° et relâcher la nappe.
+Dégagez la nappe noire de son connecteur et retirez l'écran de l'iPhone.
+Étape 8
+Insérez un éjecteur de carte SIM ou un trombone dans le trou près de la prise casque.
+Appuyez sur l'outil pour éjecter le tiroir de carte SIM.
+Saisissez le tiroir de carte SIM et retirez-le de l'iPhone.
+Étape 9
+A l'aide d'une spatule (spudger), déconnectez la nappe "4".
+Étape 10
+A l'aide d'une spatule (spudger), déconnectez la nappe "5".
+Étape 11
+A l'aide d'une spatule (spudger), déconnectez la nappe "6".
+Si vous avez un iPhone 3GS, référez-vous à la deuxième image et utilisez une spatule (spudger) pour déconnecter la nappe "7".
+Assurez-vous de bien aligner les connecteurs sur les nappes avec leurs prises sur la carte mère avant d'exercer une pression. Ceci peut nécessiter une loupe.
+Étape 12
+Retirez les 8 vis suivantes:
+Cinq vis cruciformes #00 de 2,3 mm à filetage partiel, qui attachent la carte mère au boîtier arrière.
+Deux vis cruciformes #00 de 2,3 mm à filetage total, qui maintiennent la carte mère et la caméra.
+Une vis cruciforme #00 de 2,9 mm sous le sticker "Do not remove".
+Remarque pour le remontage:
+La vis qui est placée près de la camera (en bas à droite en orange) dispose aussi d'une bande métallique qui maintient la caméra en place.
+N'oubliez pas de remettre cette bande avant de réinsérer la vis cruciforme #00 de 2,3 mm à filetage total près de la caméra.
+Étape 13
+A l'aide d'une spatule (spudger), faites levier pour soulever la caméra et retirez-la de son emplacement dans le boîtier arrière.
+La caméra ne peut pas encore être enlevée complètement car elle est connectée au fond de la carte mère.
+Étape 14
+A l'aide d'une spatule (spudger), faites levier sur le côté de la carte mère, qui se trouve au plus près du connecteur de dock.
+Près du sticker "Do not remove" sur la carte mère se trouve une petite languette dorée pour la mise à la terre. Faites très attention qu'elle ne s'accroche pas sur le côté du boîtier lorsque vous soulevez la carte mère, elle se casse facilement. Si vous avez des soucis de signal après avoir enlevé la carte mère, vérifiez cette languette.
+S'il n'est pas possible de soulever la carte mère, revérifiez si vous avez bien retiré toutes les vis.
+Étape 15
+Faites glisser la carte mère vers le connecteur de dock et retirez-la de l'iPhone.
+Lors du remontage de la carte mère après l'installation de la batterie, connectez la caméra à la carte mère avant de la poser dans le boîtier. Assurez-vous que la partie supérieure de la carte mère (côté tiroir de carte SIM) est en place avant d'en installer le reste. C'est important, car parfois la fente pour la carte SIM ne s'aligne pas.
+Une fois la partie supérieure en place, il est possible de mettre la partie inférieure en place. La carte mère est installée correctement quand le tiroir de la carte SIM est aligné avec l'ouverture dans le boîtier et quand la caméra se pose correctement dans son emplacement.
+Étape 16
+A l'aide d'une spatule (spudger), retirez la batterie du boîtier. La batterie est collée par une bande adhésive tout autour de son périmètre. Pour éviter de la tordre, il est préférable de ne pas utiliser uniquement la languette en plastique.
+Remarque: Il n'est PAS nécessaire d'enlever la batterie pour remplacer l'antenne GPS. Cela vous donne juste plus d'espace pour retirer l'ensemble casque (dont le démontage complet n'est également pas indispensable).
+La batterie est collée au boîtier arrière par un adhésif. En règle générale l'adhésif s'enlève avec la batterie. Si votre batterie de rechange contient déjà une bande adhésive, tout est bon. Dans le cas contraire, il va falloir transférer l'adhésif de l'ancienne batterie à la nouvelle.
+A l'aide d'un sèche-cheveux ou d'un pistolet à air chaud réglé à la température la plus basse, chauffez l'extérieur du dos du boîtier. Ceci permet d'assouplir l'adhésif avant d'utiliser une spatule pour séparer la batterie du boîtier arrière.
+Étape 17
+Prise jack
+Retirez les deux vis cruciformes #00 fixant le commutateur on/off au joint frontal.
+Lors du remplacement, vérifiez la partie saillante du commutateur. Il y a un petit espaceur en plastique collé à l'intérieur du bouton, qui risque de s'enlever lors du nettoyage. Sans l'espaceur, le bouton ne sort pas suffisamment pour être actionné. Si nécessaire, l'espaceur peut être remplacé par un bout de plastique ferme et suffisamment épais.
+Étape 18
+Décollez soigneusement la nappe orange du boîtier arrière.
+La nappe est très fragile, soyez donc particulièrement vigilant.
+Étape 19
+Retirez les quatre vis suivantes:
+Trois vis cruciformes #00 de 1,8 mm fixant la prise jack et l'antenne GPS au boîtier arrière. Faites attention à l'ordre dans lequel vous retirez les vis, celle à gauche a une tête légèrement plus large que les autres.
+Une vis cruciforme #00 de 3,8 mm dans la boucle en plastique près de la prise jack.
+Étape 20
+Retirez les quatre vis cruciformes fixant le commutateur du volume et du silencieux.
+Le commutateur du volume complet se situe sur le commutateur du silencieux. Assurez-vous de ne pas perdre le petit coussinet doux sur le commutateur du silencieux, sinon ce dernier sera très mal fixé après le remontage.
+Les vis du commutateur du silencieux complet doivent être serrées lorsque le commutateur est sur "off". Vérifiez que le commutateur sort suffisamment lorsqu'il est sur "on" pour être actionné. Vérifiez l'espace entre le cadre et le joint du commutateur (l'espace blanc entre les deux vis près du 6).
+La vis toute à droite est un peu plus longue que les trois autres vis. Souvenez-vous-en lors du remontage.
+Étape 21
+Dégagez le circuit du bouton de volume sur le côté de l'iPhone et décollez soigneusement la nappe orange du boîtier arrière. La nappe est fine et très fragile.
+Étape 22
+Retirez délicatement la prise jack complète de l'iPhone.
+Enfoncez le commutateur du silencieux vert (vers le dos de l'iPhone) en position "mute". Ceci facilite son insertion, une fois que le nouveau bouton du silencieux a été installé.
+
+------------------
+#FICHIER IFIXIT_6308
+TITRE : Remplacement du levier d'éjection de la carte SIM de l'iPhone 6 Plus
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+levier+d'%C3%A9jection+de+la+carte+SIM+de+l'iPhone+6+Plus/38108
+---------
+Introduction
+Votre carte SIM est coincée dans votre téléphone ? Utilisez ce tutoriel pour remplacer ou réinstaller un levier d'éjection SIM défectueux dans votre iPhone 6 Plus.
+Outils
+iSclack
+P2 Pentalobe Screwdriver iPhone
+Phillips #000 Screwdriver
+iFixit Opening Tool
+SIM Card Eject Tool
+Suction Handle
+Tweezers
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Vis Pentalobe
+Avant de démonter votre iPhone, déchargez la batterie en dessous de 25%. Une batterie lithium ion chargée peut s'enflammer et/ou exploser si elle est percée accidentellement.
+Éteignez votre iPhone avant de commencer la réparation.
+Retirez les deux vis Pentalobe de 3,6 mm situées près du connecteur Lightning.
+Étape 2
+Procedure d'ouverture d'iSclack
+Les trois prochaines étapes vous montrent comment utiliser l'iSclack, une pince spécialement conçue pour ouvrir votre iPhone 6 Plus en toute sécurité, et que nous recommandons à tous ceux qui éffectuent souvent de réparations. Si vous n'utilisez pas d'iSclack, passez directement à l'étape 4.
+Si la jauge de profondeur en plastique est attachée au milieu de l'iSclack, retirez-la, elle n'est pas nécessaire pour les iPhone de grande taille tel que l'iPhone 6 Plus.
+Serrez les poignées pour ouvrir les mâchoires avec les ventouses.
+Placez la partie inférieure de votre iPhone entre les deux ventouses.
+Positionnez la ventouse supérieure contre la vitre près du bouton home.
+Ouvrez les poignées pour fermer les ventouses. Centrez et exercez une pression sur les ventouses.
+Étape 3
+Tenez bien votre iPhone et desserrez les poignées de l'iSclack pour séparer les ventouses et enlever la vitre du boîtier arrière.
+Le iSclack est conçu pour ouvrir votre iPhone en toute sécurité, c'est à dire, sans risquer d'endommager les nappes de l'écran.
+Décollez les deux ventouses de votre iPhone.
+Sautez les trois prochaines étapes et continuez à l'étape 7
+Étape 4
+Écran
+Si vous n'avez pas d'iSlack, utilisez une ventouse pour soulever l'écran :
+Posez une ventouse sur la vitre juste au dessus du bouton home et appuyez.
+Assurez-vous que la ventouse est bien accrochée à la vitre.
+Étape 5
+Tout en tenant l'iPhone, tirez sur la ventouse pour séparer légèrement l'écran du boîtier arrière.
+Prenez votre temps et tirez de façon ferme et continue. L'écran tient beaucoup mieux que la plupart des composants.
+Utilisez un outil en plastique (plastic opening tool) pour pousser le boîtier vers le bas tout en tirant sur la ventouse vers le haut.
+Il y a plusieurs clips qui attachent l'écran au boîtier, il vous faudra utiliser et la ventouse et l'outil en plastique ( plastic opening tool) pour libérer l'écran.
+Étape 6
+Tirez sur le bouton en plastique pour relâcher la pression interne de la ventouse.
+Décrochez la ventouse de l'écran.
+Étape 7
+Soulevez la partie de l'écran avec le bouton home tout en utilisant la partie supérieure du téléphone pour faire charnière.
+Ouvrez l'écran à un angle d'environ 90 °, et penchez-le contre quelque chose pour le garder calé pendant que vous travaillez sur le téléphone.
+Ajoutez une bande adhésive pour maintenir l'écran bien en place pendant que vous travaillez. Cela évite une pression excessive sur les câbles de l´écran.
+À la limite, vous pouvez utiliser une boisson en canette fermée pour maintenir l'écran.
+Étape 8
+Plusieurs clips le long du bord supérieur de l'écran forment une charnière partielle, permettant d'ouvrir l'écran comme un livre.
+Lors du remontage, alignez les clips correctement sous le bord supérieur du boîtier. Puis insérez l'écran jusqu'à ce que son bord supérieur soit au même niveau que celui du boîtier.
+Étape 9
+Retirez les vis Phillips #00 suivantes du support du connecteur de la batterie :
+Une vis Phillips #00 2.3 mm
+Une vis Phillips #00 3.1 mm
+Étape 10
+Retirez le support métallique du connecteur de batterie de l'iPhone.
+Étape 11
+Utilisez un outil d'ouverture en plastique pour soulever délicatement le connecteur de batterie de son support sur la carte logique.
+Prenez soin de seulement faire levier sur le connecteur de la batterie, et non sur la prise de la carte logique. Si vous faites levier sur la prise de la carte logique, vous risquez de briser entièrement le connecteur.
+Étape 12
+Tout en tenant l'écran ouvert à un angle de 90°, enlevez les vis suivantes qui maintiennent le cache des connecteurs de l'écran :
+Trois vis cruciformes Phillips #00 de1,2mm
+Une vis cruciforme Phillips #00 de 1,5mm
+Une vis cruciforme Phillips #00 de 2,9mm
+Étape 13
+Enlevez le cache des connecteurs de l'écran de la carte mère.
+Étape 14
+Pendant les quatre étapes suivantes, faites attention de ne déconnecter que les connecteurs des nappes et surtout pas les connections sur la carte mère.
+Tout en tenant toujours l'écran, utilisez l'extrémité plate d'un Spudger (spatule en nylon) pour déconnecter la caméra avant etla nappe du haut-parleur interne.
+Étape 15
+Utilisez un outil en plastique (plastic opening tool) pour déconnecter le connecteur de la nappe de bouton home.
+Étape 16
+Utilisez un outil en plastique (plastic opening tool) pour déconnecter le connecteur de la nappe de gestion de l'écran.
+Lors du remontage de votre téléphone, la nappe de gestion de l'écran peut se défaire du connecteur. Les conséquences peuvent être des lignes blanches ou un écran noir lorsque vous rallumez votre téléphone. Si c'est le cas, reconnectezsimplement la nappe et débranchez et rebranchezvotre téléphone. La meilleure façon de le faire est de déconnecter et reconnecter le connecteur de la batterie
+Étape 17
+Utilisez un outil en plastique (plastic opening tool)pour déconnecter la nappe de gestion tactile.
+Lors de la reconnexion du câble numériseur, ne pas appuyer sur le centre du connecteur. Appuyez sur une extrémité du connecteur, puis appuyez sur l'extrémité opposée. Appuyer sur le centre du connecteur peut plier le composant et causer des dommages au numériseur.
+Étape 18
+Détachez l'écran du boîtier arrière.
+Étape 19
+Carte SIM
+Insérez un éjecteur de carte SIM ou un trombone dans le petit trou du tiroir de la carte SIM.
+Appuyez pour éjecter le tiroir.
+Une certaine force est nécessaire lors de cette étape.
+Étape 20
+Retirez le tiroir avec la carte SIM de l'iPhone.
+Lorsque vous remettez la carte SIM, veillez à ce qu'elle soit dans le bon sens par rapport au tiroir.
+Étape 21
+Levier d'éjection de la carte SIM
+Retirez la vis cruciforme #00 de 1,7 mm qui sécurise le levier d'éjection de la carte SIM.
+Étape 22
+Retirez le levier d'éjection de la carte SIM de votre iPhone.
+Prenez note de l'orientation pour le remontage, l'extrémité la plus large doit être alignée avec le trou d'éjection de la carte SIM.
+
+------------------
+#FICHIER IFIXIT_3896
+TITRE : Remplacement du boitier externe du Samsung Juke
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+du+boitier+externe+du+Samsung+Juke/2893
+---------
+Outils
+Spudger 
+iFixit Opening Tool 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Batterie
+Localisez le bouton sur le bas du téléphone. Une fois localisé, appuyez et maintenez le bouton enfoncé.
+Étape 2
+Tout en maintenant le bouton enfoncé, retirez le couvercle arrière du téléphone.
+Étape 3
+Caméra/haut-parleur
+Utilisez le tournevis Phillips de taille 00 pour retirer les quatre vis situées à l'arrière du téléphone. Ces vis sont entourées en jaune dans l'image donnée.
+Étape 4
+En utilisant le même tournevis Phillips 00, retirez les deux vis de la plaque arrière inférieure du téléphone près de l'appareil photo et le haut-parleur.
+Ces vis auront une longueur de 7,25 mm.
+Étape 5
+Avant de poursuivre, localisez le port USB (où le chargeur peut être branché) et ouvrez-le à l'aide de l'outil d'ouverture iFixit.
+Si vous n'ouvrez pas le couvercle du port USB à ce stade, vous risquez d'endommager l'appareil.
+Étape 6
+Retirez les vis de chaque côté de l'appareil photo / haut-parleur avec un tournevis Phillips 00.
+Ces vis auront une longueur de 5,45 mm.
+Étape 7
+Utilisez l'outil d'ouverture iFixit pour commencer à retirer la caméra / le haut-parleur de la carte logique.
+Faites preuve de prudence pour éviter d'endommager le ruban de fixation.
+Étape 8
+Pour retirer complètement l'appareil photo / haut-parleur, localisez l'accessoire orange en dessous (comme indiqué sur l'image).
+Ensuite, utilisez l'outil d'ouverture iFixit pour retirer doucement l'appareil photo / haut-parleur.
+Étape 9
+Carte mère
+Utilisez l'outil d'ouverture iFixit pour faire apparaître l'onglet jaune sur la carte logique.
+Étape 10
+Utilisez l'outil d'ouverture iFixit pour faire apparaître l'autre onglet orange afin de libérer la carte mère.
+Étape 11
+Pour retirer complètement la carte logique, utilisez l'outil d'ouverture iFixit pour l'ouvrir, puis utilisez vos doigts pour l'extraire.
+Ne vous inquiétez pas si les boutons de volume et d'attente sont retirés de la carte mère.
+Étape 12
+Clavier
+Ouvrez / pivotez le téléphone pour que l'arrière de l'écran LCD soit visible.
+Utilisez l'outil d'ouverture de l'iPod pour soulever le clavier de la charnière située à l'arrière de l'appareil.
+Une force modérée peut devoir être appliquée.
+Étape 13
+Roue clickable.
+En utilisant votre ongle, retirez les autocollants qui recouvrent les vis à l'arrière du boîtier LCD.
+À l'aide d'un tournevis Phillips 00, retirez les six vis à l'arrière de l'appareil.
+Ces vis auront une longueur de 3,45 mm.
+Étape 14
+En utilisant une force généreuse, utilisez vos mains pour dégager le boîtier de l'écran LCD.
+Si nécessaire, utilisez l'outil d'ouverture iPod pour libérer complètement le boîtier.
+Veillez à ne pas couper le fil reliant le boîtier extérieur à la carte d'affichage.
+Étape 15
+À l'aide de l'outil d'ouverture de l'iPod, retirez la molette cliquable du tableau.
+Après avoir libéré les bords, utilisez le spudger pour libérer le clip en le maintenant au ras du tableau.
+Étape 16
+Déverrouillez la connexion du ruban en appuyant sur le clip noir.
+Tirez délicatement la molette cliquable loin de l'appareil.
+Étape 17
+Boitier Externe
+À l'aide d'une pince à épiler, saisissez les fils rouge et bleu qui fixent l'écouteur audio à l'enveloppe extérieure et tirez.
+Ceci est collé donc une quantité modérée de force peut être nécessaire.
+
+------------------
+#FICHIER IFIXIT_7266
+TITRE : Réparer une cloison sur une doudoune en duvet Patagonia
+URL : https://fr.ifixit.com/Tutoriel/R%C3%A9parer+une+cloison+sur+une+doudoune+en+duvet+Patagonia/19429
+---------
+Introduction
+Les plumes qui rembourrent une doudoune doivent être maintenues en place, faute de quoi elles auront tendance à s’agglutiner dans le bas. Le haut et les épaules du vêtement sont alors dégarnis et celui-ci ne vous protège plus contre le froid. La méthode la plus simple pour éviter que les plumes ne s’éparpillent anarchiquement est de coudre ensemble l’extérieur de la doudoune et sa doublure. Ce type de construction va effectivement garantir l’uniformité du rembourrage, mais il présente l’inconvénient de laisser passer l’humidité et l’air froid par les trous créés lors de la couture. Le vêtement perd alors de sa capacité d’isolation. Pour une grande partie de ses doudounes, Patagonia utilise donc une construction cloisonnée. Elle a l’avantage d’empêcher les plumes de se déplacer à l’intérieur du vêtement. Chaque cloison joue le rôle d’une sorte de poche isolante grâce aux plumes qu’elle contient, et elle évite de transpercer à la fois le tissu extérieur et la doublure du vêtement par une couture. La construction cloisonnée est un peu complexe à réaliser, mais le gain en termes d’isolation est notable. Dans ce guide, vous apprendrez comment réparer une partie non doublée de votre doudoune. Si vous possédez une doudoune doublée, ou si vous ne parvenez pas à déterminer si la vôtre l’est, n’hésitez pas à consulter la méthode d’ouverture d’une doudoune en duvet Patagonia avant de suivre la procédure décrite ici.
+Pour vous procurer les outils et accessoires nécessaires à votre réparation ou obtenir une aide supplémentaire, veuillez contacter le Service client Patagonia.
+Outils
+Utility Scissors
+Sewing Pins
+Sewing Machine
+Iron
+Tenacious Tape ™
+Seam Ripper
+Measuring Tape
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Réparer une cloison sur une doudoune en duvet Patagonia
+Repérez le trou dans votre doudoune. Pour éviter que toutes les plumes ne s’échappent par l’ouverture, vous allez devoir remplacer la cloison tout entière.
+Étape 2
+Découpez un ovale dans le Tenacious Tape (ou autre film adhésif très résistant) assez grand pour recouvrir le trou.
+Étape 3
+Retirez la pellicule de protection et appliquez le film sur le trou.
+Étape 4
+Avec le découd-vite, coupez la couture à l’extrémité de la cloison à réparer. Dans notre exemple, la couture la plus proche est celle qui court le long de la manche. 
+Coupez suffisamment de points pour pouvoir travailler confortablement.
+Étape 5
+Retournez la doudoune sur l’envers. 
+Mesurez la largeur de la cloison à réparer. Dans notre exemple, elle doit mesurer environ 5 cm de large. 
+Nous allons remplacer deux cloisons, donc il nous faudra une bande de tissu mesurant un peu plus de 10 cm. 
+Mesurez ensuite la longueur de la cloison (en vous aidant de la couture qui la délimite). Dans notre exemple, elle mesure à peu près 23 cm. Puisqu’il s’agit d’une manche, il faut doubler ce chiffre et nous aurons donc besoin d’une bande de tissu d’environ 46 cm de long.
+Étape 6
+Procurez-vous du tissu assorti à votre doudoune. Attention de prévoir assez de tissu (reportez-vous aux mesures prises et ajoutez 2,5 ou 5 cm de plus en longueur et en largeur par sécurité). 
+Nous avons volontairement choisi un tissu légèrement plus clair que celui de la doudoune, afin que vous puissiez suivre facilement les différentes étapes.
+Faites un rentré sur le côté long de la bande.
+Étape 7
+Repassez pour marquer le pli.
+Étape 8
+Alignez ce pli sur la couture extérieure de la cloison à recouvrir. 
+Vérifiez que le rentré se trouve bien contre celle-ci (il ne devra pas être visible une fois la réparation terminée). 
+Alignez le pli de la cloison sur la couture et épinglez.
+Étape 9
+Placez le vêtement sur la machine à coudre. 
+Pour cette réparation, choisissez l’aiguille la plus fine possible. Ainsi, la couture ne formera pas d’épaisseur et vous éviterez que le duvet ne s’échappe des trous formés par l’aiguille. 
+Piquez directement au niveau de l’ancienne couture de la cloison, à l’extrême bord de la bande de tissu. 
+Si vous réparez une manche, faites très attention à ne pas piquer les deux épaisseurs ensemble, car vous ne pourriez plus l’enfiler !
+Cousez lentement, en superposant au fur et à mesure le pli de la bande de tissu avec l’ancienne couture de la cloison. À certains endroits, vous devrez peut-être réaligner ces deux pièces, c’est tout à fait normal.
+Étape 10
+Pendant la couture, prenez soin d’écarter le biais(qui vient dissimuler la couture) afin qu’il ne soit pas piqué avec le reste. 
+Continuez à coudre la bande. 
+Prenez votre temps, le tissu très glissant ne facilite pas la tâche et vous apprécierez que la réparation soit esthétique. 
+À la fin de la couture, faites quelques points arrière pour l’arrêter.
+Étape 11
+La réparation va nécessiter trois coutures en tout. Vous venez de faire la première couture extérieure. Ne vous occupez pas de la couture centrale pour le moment. Faites de nouveau un rentré sur l’autre côté long de la bande de tissu. 
+Faites la deuxième couture en procédant comme la première fois.
+Étape 12
+Continuez à coudre. 
+Lorsque vous avez terminé, vous devez obtenir un résultat similaire à la deuxième photo.
+Étape 13
+Remettez la doudoune sur l’endroit pour repérer la couture d’origine de la cloison. 
+Écartez le biais de la couture pour ne pas le piquer avec le reste. 
+Alignez le pied presseur juste au-dessus de la couture centrale (entre les deux que vous venez de réaliser).
+Étape 14
+Piquez directement à cet endroit, entre les deux nouvelles coutures. 
+Faites bien attention à ne pas piquer le biais en même temps.
+Étape 15
+Recoupez l’excès de tissu.
+Étape 16
+Vous devez maintenant réaligner la couture de la manche que vous aviez défaite au début. 
+Maintenez le biais à l’écart pour ne pas le piquer en même temps. 
+Refermez la couture de la manche, et renforcez-la en faisant quelques points arrière au début et à la fin.
+Étape 17
+Vous allez à présent remettre le biais en place. 
+Positionnez-le bien à cheval sur la couture que vous venez de faire.
+Étape 18
+Piquez le long du biais, en restant aussi près du bord que possible. 
+Faites quelques points arrière au début et à la fin de la couture.
+Étape 19
+Vérifiez vos coutures. Assurez-vous que tout est à sa place, coupez les fils et félicitez-vous : ce n’était pas une réparation facile !
+
+------------------
+#FICHIER IFIXIT_4985
+TITRE : Remplacement de la batterie du Samsung Gear 360
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+la+batterie+du+Samsung+Gear+360/86092
+---------
+Introduction
+Ce guide vous guidera tout au long du processus de remplacement d'une batterie morte ou endommagée dans une Samsung Gear 360.
+Étape 1
+Batterie
+Insérez le pouce sous l'onglet du couvercle de la batterie.
+Tirez pour retirer le couvercle de la batterie.
+Étape 2
+Une fois le couvercle ouvert, appuyez avec l'index sur l'onglet pour libérer la batterie de son logement.
+Étape 3
+Une fois que la batterie est sortie, retirez la batterie de l'appareil photo.
+
+------------------
+#FICHIER IFIXIT_1655
+TITRE : Remplacement de l'écran LCD du Sony Ericsson K750i
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+l'%C3%A9cran+LCD+du+Sony+Ericsson+K750i/6979
+---------
+Outils
+Phillips 0 Screwdriver
+Flathead 3/32" or 2.5 mm Screwdriver
+T6 Torx Screwdriver
+Tweezers
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Couvercle de batterie
+Retirer le couvercle de la batterie
+Appuyer fermement avec le pouce et glisser le couvercle vers l'arrière
+Étape 2
+Boitier arrière
+Retirer 4 vis de la chambre de la batterie
+Rouge - Phillips 0 tournevis
+Bleu - Tournevis Torx 6
+Étape 3
+Soulevezdélicatement le boîtier arrière
+Remarque: Passez un outil d'ouverture en plastique ou tournevis à tête plate autour de la couture entière avant de tenter de retirer le boîtier. Cela réduira les risques de fissuration de l'enveloppe.
+Étape 4
+Retirer le boîtier pour exposer les composants de la caméra
+Étape 5
+Clavier
+Soulevez délicatement le carter avant ouvert en travaillant avec un outil de petite taille ou un tournevis à tête plate le long de la couture complète
+Étape 6
+Retirez le boîtier avant en le soulevant doucement du téléphone
+Veillez à ne pas enlever d'autres pièces délicates
+Étape 7
+Le clavier doit être facile à enlever
+Attention: l'écran LCD est très fragile. Veillez à ne pas attraper le clavier pendant qu'il enleve.
+Étape 8
+Ecran LCD
+Retirer les vis qui maintiennent l'écran en place
+Étape 9
+Soulevez doucement la base du clavier pour l'enlever
+Étape 10
+Retirez délicatement le film vert.
+Évitez le joystick
+L'écran LCD sera attaché à ce film et en sortira.
+Attention: l'écran LCD est très fragile. Manipuler avec soin.
+
+------------------
+#FICHIER IFIXIT_2206
+TITRE : Remplacement d'une carte mère de PC Fixe
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+d'une+carte+m%C3%A8re+de+PC+Fixe/41643
+---------
+Introduction
+La carte mère est l'organe principal d'un ordinateur. Au fil du temps, les composants peuvent se dégrader et doivent être remplacés. Le remplacement de la carte mère peut permettre de faire fonctionner plus rapidement et sans à-coup un ordinateur.
+Outils
+Phillips #2 Screwdriver 
+All-in-One PC Driver 
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Panneau latéral gauche
+Retirez les deux vis Phillips #2 de 5 mm situées à l'arrière du boîtier de l'ordinateur.
+Ces vis peuvent être dévissées à la main.
+Étape 2
+Puis retirez le panneau latéral du boîtier de l'ordinateur pour pouvoir accéder à l'intérieur.
+Si un ventilateur est monté sur le panneau latéral, assurez-vous de débrancher le câble avant de retirer complètement le panneau.
+Étape 3
+Panneau droit
+Retirez les deux vis Philips #2 de 5 mm à l'arrière du boitier d'ordinateur.
+Étape 4
+Ensuite, enlevez le panneau du boitier d'ordinateur pour accéder à l'intérieur du boîtier.
+Étape 5
+Carte graphique
+Retirez la vis Philips #2 de 5 mm qui maintient la carte graphique en place.
+Cette vis peut être enlevée à la main.
+Étape 6
+Glissez soigneusement la carte graphique hors du port de l'ordinateur.
+Étape 7
+Disque dur
+Retirez les 2 vis Philips #2 de 5 mm qui maintiennent le disque dur en place.
+Étape 8
+Retirez les deux vis Philips #2 de 5 mm tenant de l'autre côté le disque dur.
+Étape 9
+Faites glisser le disque dur en dehors de la cage métallique.
+Étape 10
+Retirez les câbles de l'arrière du disque dur.
+Étape 11
+Carte mère
+Débranchez tous les câbles de la carte mère.
+Chaque ordinateur peut avoir un nombre de câble différent.
+Étape 12
+Enlevez les huit vis Philips #2 de 5 mm, de la carte mère.
+Étape 13
+Enlevez soigneusement la carte mère du boîtier de l'ordinateur.
+
+------------------
+#FICHIER IFIXIT_3118
+TITRE : Remplacement de l'écran du NABI XD
+URL : https://fr.ifixit.com/Tutoriel/Remplacement+de+l'%C3%A9cran+du+NABI+XD/69365
+---------
+Introduction
+Si l’écran est fissuré ou non réactif, son remplacement corrigera le NABI XD.
+Outils
+Tweezers
+Spudger
+Phillips 0 Screwdriver
+Metal Spudger
+iFixit Opening Tool
+Pièces
+Aucune pièce spécifiée.
+Étape 1
+Boitier arrière
+Utilisez l’outil d’ouverture en plastique situé dans la couture en haut à gauche, puis écartez le coin.
+Étape 2
+Ensuite, faites glisser l’outil d’ouverture en plastique sur les côtés du Nabi. Il va s'ouvrir lentement.
+Il y a de petits clips en plastique qui doivent être libérés. Appliquez doucement une pression vers l'extérieur jusqu'à ce que les clips donnent.
+Faites le tour du NABI XD et séparez le panneau arrière de l'appareil.
+Étape 3
+Batterie
+Placez vos ongles des deux côtés du connecteur et retirez-le du support.
+Étape 4
+La batterie est collée à la base, soulevez avec précaution.
+Pour retirer la batterie, retirez-la de la carte mère.
+Étape 5
+Port de chargement
+Retirez les deux vis Phillips 4mm avec le tournevis PH # 0.
+Débranchez le fil du haut-parleur gauche (L) du port de charge en le saisissant des deux côtés à l'aide de la pince à épiler et en le tirant vers l'arrière.
+Étape 6
+Utilisez vos ongles ou un spudger pour relever le petit rabat de retenue, puis tirez le ruban vers l'arrière pour le retirer.
+Soulevez le port de charge du NABI XD.
+Étape 7
+Carte mère
+Pour retirer les rubans marqués, utilisez vos ongles ou un spudger pour soulever un petit onglet.
+Utilisez la pince à épiler de précision pour extraire délicatement les rubans des connecteurs.
+Vous devez enlever 4 rubans
+Étape 8
+Déconnectez la caméra en soulevant le ruban. Déconnectez également le ruban restant en soulevant doucement.
+Pour débrancher le fil d’antenne, utilisez la pince à épiler pour dégager le connecteur directement de la carte.
+Étape 9
+Déconnectez l'enceinte droite en saisissant la tête de fil par ses côtés et en la tirant vers l'arrière du connecteur.
+Étape 10
+Retirez les quatre vis cruciformes 4mm avec le tournevis PH # 0.
+Étape 11
+Soulevez la carte mère pour l’éloigner du Nabi XD.
+Étape 12
+Haut-parleurs
+Retrait du haut-parleur droit (R):
+Retirez une vis Phillips 4mm.
+Utilisez le spudger en métal pour séparer le haut-parleur du cadre.
+Le haut-parleur est collé au Nabi XD, il faudra un peu de force pour les séparer.
+Étape 13
+Retirez le fil de gauche (L) du haut-parleur du cadre en le tirant sur le côté et vers le haut.
+Le fil dans cette étape est connecté au port de charge. Le retirer, est montré en détail à l’étape 6.
+Étape 14
+Dépose du haut-parleur gauche (L):
+Retirez deux vis Phillips 4mm.
+Utilisez le spudger en métal pour séparer le haut-parleur du cadre.
+Étape 15
+Ecran
+Les rubans sont collés au cadre afin de les soulever doucement sans les déchirer.
+Soulevez légèrement les fils et les rubans marqués du cadre en les tirant doucement dans le sens des flèches et vers le haut.
+Retirez cinq vis Phillips 4mm du cadre.
+Étape 16
+Utilisez les outils d’ouverture en plastique pour soulever le cadre.
+Les rubans doivent être démêlés du cadre pendant que vous le soulevez.
+Ne tirez pas le cadre loin du Nabi XD, il est connecté par un ruban. Soulevez doucement.
+Étape 17
+Soulevez l'écran avec le spudger noir.
+Soulevez le cadre lentement et placez-le sur le côté.
