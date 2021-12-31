@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c84597de-9381-4cbf-b88a-f2a38d42eb81" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Actionnaire/Actionnaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actionnaire/Actionnaire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actionnaire/Capteur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actionnaire/Capteur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actionnaire/Centre de commande .java" beforeDir="false" afterPath="$PROJECT_DIR$/Actionnaire/Centre de commande .java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actionnaire/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actionnaire/Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actionnaire/TableauDeBord.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actionnaire/TableauDeBord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actionnaire/TableauDeBordPression.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actionnaire/TableauDeBordPression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actionnaire/TableauDeBordTemp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actionnaire/TableauDeBordTemp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actionnaire/abstractActionneur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actionnaire/abstractActionneur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actionnaire/capteur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actionnaire/capteur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actionnaire/liste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actionnaire/liste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cours_devleppement_logiciel_verification/TestJava" beforeDir="false" afterPath="$PROJECT_DIR$/../../cours_devleppement_logiciel_verification/TestJava" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-dream-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../my-dream-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/Audio.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/tps/tp2/Audio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/Document.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/tps/tp2/Document.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/Livre.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/tps/tp2/Livre.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/Multi_Imprimable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/Multi_Non_Imprimable.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/tps/tp2/Multi_Non_Imprimable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/Multimedia.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/tps/tp2/Multimedia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/Texte.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/tps/tp2/Texte.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/Video.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/.idea/mediatheque.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/Article.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/Audio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/Documents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/Livre.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/Mediatheque.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/Multimedia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/Texte.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/Video.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/tps/tp2/mediatheque_reference/mediatheque.dat" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22N5JRGfqQPXqG3EeShBI2hqzoO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c84597de-9381-4cbf-b88a-f2a38d42eb81" name="Changes" comment="" />
+      <created>1639665131556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639665131556</updated>
+    </task>
+    <servers />
+  </component>
+</project>
