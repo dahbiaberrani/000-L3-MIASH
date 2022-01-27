@@ -4,8 +4,8 @@ import os, sys,os.path
 def change_extention(filename):
     (prefix, _, _) = filename.rpartition('.')
     return prefix + ".o"
-
-
+# liste_path = /t
+liste_erreurs = []
 def create_link_command_param_list(source_file_list):
     # ['compile.py', 'titi.c', 'tutu.c', 'toto.c', 'tata.c', 'monprog']
     # ['tutu.o', 'titi.o', 'tata.o', 'toto.o', '-o', 'monprog']
@@ -36,13 +36,15 @@ for  i in range(1, len(sys.argv)-1):
         os.dup2(fich,2)
         os.execlp("c99","c99", "-c",sys.argv[i])
     (pid, status) = os.wait()
+# Vérifier que y ' a pas d'erreur
+#TODO gérer les erreur dans chaque fichier
 
-    # if status != 0 :
-    #     if os.fork() == 0:
-    #         os.execlp("more", "more", "/tmp/erreurs")
-    #     os.wait()
-    #     os.remove("/tmp/erreurs")
-    #     os.execlp("code", "code", sys.argv[i])
+    if status != 0 :
+        if os.fork() == 0:
+            os.execlp("more", "more","/tmp/erreurs")
+        os.wait()
+        # os.remove("/tmp/erreurs")
+        os.execlp("nano", "nano", sys.argv[i])
 
 
 #Edition des liens
@@ -50,6 +52,5 @@ link_param_list = create_link_command_param_list(sys.argv)
 if os.fork() == 0: 
     os.execvp("c99", link_param_list)
 
-#TODO verifier que le linkage s'est bien passé
 os.wait()
 os.execlp("./" + sys.argv[len(sys.argv)-1], sys.argv[len(sys.argv)-1])
