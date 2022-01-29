@@ -1,4 +1,4 @@
-#include "struct.hpp"
+#include "person.hpp"
 #include <iostream>
 using namespace std;
 
