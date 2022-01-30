@@ -32,4 +32,12 @@ void affiche(const TListe*);
 bool ajoute(TListe* p_liste,TPersonne* p_personne);
 
 
-bool recherche_Id(TListe* p_liste, std::string id);
+/**
+ * @brief supprime de la liste l'objet TPersonne contenant id.
+ * 
+ * @param p_liste un pointeur vers la liste dans laquelle on doit supprimer la personne si il existe
+ * @param id identifiant de la personne à supprimer
+ * @return un pointeur vers la personne retenue dans le noeud à supprimer si il existe
+ *          ou retroune un nullptr si la personne n''existe pas  
+ */
+TPersonne* supprime(TListe* p_liste, const std::string id);

@@ -3,6 +3,7 @@ using namespace std;
 
 
 void affiche(TPersonne* p_person) {
+
     cout << "numero etudiant: " << p_person->id;
     cout << endl;
     cout << "nom: " << p_person->nom;

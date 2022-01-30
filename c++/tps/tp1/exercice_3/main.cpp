@@ -10,21 +10,39 @@ int main() {
     personne1.nom = "test";
 
     ajoute(&list_1, &personne1);
-    affiche(&list_1);
+
 
     TPersonne  personne2;
     personne2.id = "30";
     personne2.nom = "toto";
     ajoute(&list_1, &personne2);
-    affiche(&list_1);
+   
 
     TPersonne  personne3;
     personne3.id = "30";
     personne3.nom = "titi";
     ajoute(&list_1, &personne3);
+
+
+    TPersonne  personne4;
+    personne4.id = "40";
+    personne4.nom = "tata";
+    ajoute(&list_1, &personne4);
     affiche(&list_1);
-    std::cout << recherche_Id(&list_1, "30") << std::endl;
+
+
+    // spression
+    std::cout << "---------------------" << std::endl;
+    affiche(supprime(&list_1, "30"));
+    std::cout << "---------------------" << std::endl;
+    //affiche(supprime(&list_1, "15"));
+    std::cout << "---------------------" << std::endl;
+    affiche(&list_1);
+
+
+
+    // std::cout << recherche_Id(&list_1, "30") << std::endl;
     
-    std::cout << recherche_Id(&list_1, "300") << std::endl;
+    // std::cout << recherche_Id(&list_1, "300") << std::endl;
     return 0;
 }
