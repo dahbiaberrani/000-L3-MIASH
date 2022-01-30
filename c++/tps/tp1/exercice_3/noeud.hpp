@@ -41,3 +41,10 @@ bool ajoute(TListe* p_liste,TPersonne* p_personne);
  *          ou retroune un nullptr si la personne n''existe pas  
  */
 TPersonne* supprime(TListe* p_liste, const std::string id);
+
+/**
+ * @brief libère toute la méroire allouée pour les noeuds de la liste.
+ * 
+ * @param p_liste un pointeur vers la liste des noeuds.
+ */
+void desalloc(TListe* p_liste);

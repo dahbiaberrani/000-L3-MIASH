@@ -41,14 +41,18 @@ int main() {
     affiche(supprime(&list_1, "30"));
     std::cout << "---------------------" << std::endl << "la pesonne suivante a été suprimmée:" << std::endl;
     affiche(supprime(&list_1, "15"));
+    // tentative de suppression d'une personne qui n'existe pas
+    supprime(&list_1, "523");
     std::cout << "---------------------" << std::endl;
-     std::cout << "ma liste après la suppresion deux personne" << std::endl;
+    std::cout << "ma liste après la suppresion deux personne" << std::endl;
     affiche(&list_1);
 
 
+    // dans l'énnoncé il est dit que pour finir l'exrecice il faut modifier la fonction "ajoute_noeud" sauf que cette fonction n'a jamais existée dans le tp.
+    // Du coup impossible de modifier un code qui n'existe pas.
 
-    // std::cout << recherche_Id(&list_1, "30") << std::endl;
-    
-    // std::cout << recherche_Id(&list_1, "300") << std::endl;
+
+    //libration des méroire allouée pour les noeuds de la liste.
+    desalloc(&list_1);
     return 0;
 }

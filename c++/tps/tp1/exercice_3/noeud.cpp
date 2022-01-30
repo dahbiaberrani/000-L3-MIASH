@@ -91,7 +91,6 @@ TPersonne* supprime(TListe* p_liste, const std::string id) {
     // si le noeud à supprimer est à la queue de la liste 
     if (p_liste->p_queue->p_pers->id == id) {
         p_personne = p_liste->p_queue->p_pers;
-        affiche(p_personne);
         TNoeud* p_curr = p_liste->p_queue;
         p_liste->p_queue = p_curr->p_prec;
         p_liste->p_queue->p_suiv = nullptr;
@@ -107,4 +106,14 @@ TPersonne* supprime(TListe* p_liste, const std::string id) {
     p_personne = p_curr->p_pers;
     delete p_curr;
     return p_personne;
+}
+
+void desalloc(TListe* p_liste) {
+    TNoeud* p_curr = p_liste->p_tete;
+    while (p_liste->p_tete != nullptr) {
+        p_curr = p_curr->p_suiv;
+        delete(p_liste->p_tete);
+        p_liste->p_tete = p_curr;
+    }
+    p_liste->p_queue = nullptr;
 }
