@@ -10,8 +10,8 @@ typedef struct TNoeud {
 } TNoeud;
 
 typedef struct {
-    TNoeud* p_tete;
-    TNoeud* p_queue;
+    TNoeud* p_tete = nullptr;
+    TNoeud* p_queue = nullptr;
 } TListe;
 
 /**
@@ -30,3 +30,6 @@ void affiche(const TListe*);
  * @return true si la personne a été bien rajoutée à la liste
  */
 bool ajoute(TListe* p_liste,TPersonne* p_personne);
+
+
+bool recherche_Id(TListe* p_liste, std::string id);
