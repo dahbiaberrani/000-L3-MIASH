@@ -28,15 +28,21 @@ int main() {
     personne4.id = "40";
     personne4.nom = "tata";
     ajoute(&list_1, &personne4);
+
+    TPersonne  personne5;
+    personne5.id = "50";
+    personne5.nom = "tutu";
+    ajoute(&list_1, &personne5);
     affiche(&list_1);
 
 
     // spression
-    std::cout << "---------------------" << std::endl;
+    std::cout << "---------------------" << std::endl << "la pesonne suivante a été suprimmée:" << std::endl;
     affiche(supprime(&list_1, "30"));
+    std::cout << "---------------------" << std::endl << "la pesonne suivante a été suprimmée:" << std::endl;
+    affiche(supprime(&list_1, "15"));
     std::cout << "---------------------" << std::endl;
-    //affiche(supprime(&list_1, "15"));
-    std::cout << "---------------------" << std::endl;
+     std::cout << "ma liste après la suppresion deux personne" << std::endl;
     affiche(&list_1);
 
 
