@@ -1,0 +1,14 @@
+# ninja log v5
+1	288	1643905864387071709	CMakeFiles/tp1.dir/exercice_1/strcpy.cpp.o	a663136bb14dcc27
+0	11	1643906320186618021	build.ninja	a6d5dcb6a2e518c9
+0	181	1643906135520422441	CMakeFiles/main.dir/exercice_3/noeud.cpp.o	4b6b5083f88cf33f
+1	279	1643905864375071826	CMakeFiles/tp1.dir/exercice_2/person.cpp.o	4868ca2a86beb9df
+0	184	1643906196319828354	CMakeFiles/tp1.dir/exercice_3/main.cpp.o	2ed0cb1b9ac23548
+0	179	1643906135520422441	CMakeFiles/main.dir/exercice_3/main.cpp.o	8967d1e00d68d8d6
+0	185	1643906196323828315	CMakeFiles/tp1.dir/exercice_3/noeud.cpp.o	cc3dfa50b46ca712
+1	270	1643905864367071904	CMakeFiles/tp1.dir/exercice_2/main.cpp.o	2c36c9039fdf8011
+0	296	1643905864395071630	CMakeFiles/tp1.dir/exercice_1/main.cpp.o	d5a52d49091addb0
+0	183	1643906324966571316	CMakeFiles/tp1.dir/exercice_2/person.cpp.o	ff2733812ec8316a
+0	188	1643906324970571277	CMakeFiles/tp1.dir/exercice_3/noeud.cpp.o	cdb5ef110e703cc4
+0	190	1643906324970571277	CMakeFiles/tp1.dir/exercice_3/main.cpp.o	c1d2bf3a52be265c
+190	234	1643906325014570847	tp1	1b3cc8c8342e6cbc
