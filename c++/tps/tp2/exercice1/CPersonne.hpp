@@ -4,6 +4,7 @@ using namespace std;
 
 
 class CPersonne {
+    friend class CListe;
     private:
         string *id, *nom, *prenom, *mail;
 
