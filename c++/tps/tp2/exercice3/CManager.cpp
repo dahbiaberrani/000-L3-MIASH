@@ -36,15 +36,3 @@ void CManager::set_developpeurs(vector<CPersonne*> liste) {
 void CManager::add(CPersonne* p_persone) {
     liste_developpeurs.push_back(p_persone);
 }
-
-
-ostream& operator<<(ostream& os, const CManager& manager) {
-    os << "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" << endl;
-    os << static_cast<const CPersonne&>(manager);  
-    for (int i = 0; i < manager.liste_developpeurs.size(); i++) {
-        os << *(manager.liste_developpeurs.at(i)) << endl;
-    }
-   
-    os << "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" << endl;
-    return os;
-}   

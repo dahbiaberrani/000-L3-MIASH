@@ -96,21 +96,33 @@ bool CPersonne::operator==(const CPersonne &other_per) {
 
 ostream& operator<<(ostream& os, const CPersonne& persone) {
     if (CDeveloppeur* p_dev = dynamic_cast<CDeveloppeur*>(const_cast<CPersonne*>(&persone))) {
-        cout << "casted to Cdeveloppeur" << endl;
-        os << p_dev->get_id()<< endl 
-        << p_dev->get_nom() << endl 
-        << p_dev->get_prenom() << endl 
-        <<p_dev->get_mail() << endl 
-        <<p_dev->get_projet_en_cours() << endl 
-        <<p_dev->get_niveau() << endl 
+        os << "id = " << p_dev->get_id() << endl 
+        << "nom = " << p_dev->get_nom() << endl 
+        << "prenom = " <<  p_dev->get_prenom() << endl 
+        << "mail= " << p_dev->get_mail() << endl 
+        <<"projet en cours = " << p_dev->get_projet_en_cours() << endl 
+        << "mon niveau = " << p_dev->get_niveau() << endl 
         << "---------------------" << endl;
     } else {
-        os << *persone.id << endl 
-        << *persone.nom << endl 
-        << *persone.prenom << endl 
-        << *persone.mail << endl 
+        if (CManager* p_man = dynamic_cast<CManager*>(const_cast<CPersonne*>(&persone))) {
+        os << "id = " << p_man->get_id()<< endl 
+        << "nom = "<< p_man->get_nom() << endl 
+        << "prenom = "  << p_man->get_prenom() << endl 
+        << "mail= " <<p_man->get_mail() << endl;
+        cout << "ma liste de subordonnés :" << endl;
+        for (int i = 0; i < p_man->get_liste_developpeurs().size(); i++) {
+        os << *(p_man->get_liste_developpeurs().at(i)) << endl;
+        }
+               
+    } else {
+        os << "id = " << *persone.id << endl 
+        << "nom = "<< *persone.nom << endl 
+        << "prenom = "<< *persone.prenom << endl 
+        << "mail= " << *persone.mail << endl 
         << "---------------------" << endl;
+        }
     }
+   
     return os;
 }
 

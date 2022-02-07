@@ -17,12 +17,12 @@ int main() {
 
     CDeveloppeur developpeur1 = CDeveloppeur("1", "ingenieur c++", "dev1", "ingenierC++.deomaine@", "application_mobile", 4);
     CDeveloppeur developpeur2 = CDeveloppeur("2", "ingenieur java", "dev2", "ingenierJava.deomaine@", "application_java", 3);
-    cout << developpeur2;
+
     
     CManager manager1 = CManager("10", "manager1", "managEquipe c++", "managerc++@domain.com");
     manager1.add(&developpeur1);
     manager1.add(&developpeur2);
-    cout << manager1;
+
 
     CListe liste = CListe();
     liste.ajoute(&personne1);
@@ -31,8 +31,8 @@ int main() {
     liste.ajoute(&personne4);
     liste.ajoute(&developpeur1);
     liste.ajoute(&developpeur2);
-    // liste.ajoute(&manager1);
+    liste.ajoute(&manager1);
 
-    // liste.affiche();
+    liste.affiche();
     return 0;
 }

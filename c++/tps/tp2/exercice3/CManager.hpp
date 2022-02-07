@@ -20,7 +20,6 @@ class CManager : public CPersonne {
         void add(CPersonne* p_persone);
 
         vector<CPersonne*> get_liste_developpeurs();
-        friend ostream& operator<<(ostream& os, const CManager& manager);
 };
 
 

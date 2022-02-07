@@ -19,5 +19,4 @@ class CDeveloppeur : public CPersonne {
 
         string get_projet_en_cours();
         short get_niveau();
-
 };
