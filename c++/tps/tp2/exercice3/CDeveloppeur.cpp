@@ -6,7 +6,7 @@ using namespace std;
 
 
 CDeveloppeur::CDeveloppeur() : CPersonne() {
-    projet_en_cours = "aucun";
+    projet_en_cours = nullptr;
     niveau = 0;
 }
 
@@ -19,17 +19,20 @@ CDeveloppeur::CDeveloppeur(
     string projet_en_cours,
     short niveau
     ) : CPersonne(id, nom, prenom, mail) {
-        projet_en_cours = projet_en_cours;
-        niveau = niveau;
+        this->projet_en_cours = new string(projet_en_cours);
+        this->niveau = niveau;
 
 }   
 
 CDeveloppeur::~CDeveloppeur() {
-
+    if (projet_en_cours) {
+        delete projet_en_cours;
+        projet_en_cours = nullptr;
+    }
 }
 
 void CDeveloppeur::set_projet_en_cours(string projet) {
-    projet_en_cours = projet;
+    projet_en_cours = new string(projet);
 
 }
 
@@ -39,18 +42,9 @@ void CDeveloppeur::set_niveau(string niveau) {
 }
 
 string CDeveloppeur::get_projet_en_cours() {
-    return projet_en_cours;
+    return *projet_en_cours;
 }
 
 short CDeveloppeur::get_niveau() {
     return niveau;
-}
-
-// Redéfinition de l'affichage
-ostream& operator<<(ostream& os, const CDeveloppeur& developpeur) {
-    os << static_cast<const CPersonne&>(developpeur)
-        << " Projet en cours : " << developpeur.projet_en_cours << endl
-        << " Niveau : " << developpeur.niveau << endl 
-        << "---------------------" << endl;
-    return os;
 }

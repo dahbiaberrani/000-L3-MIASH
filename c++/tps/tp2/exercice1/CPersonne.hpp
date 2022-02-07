@@ -18,9 +18,9 @@ class CPersonne {
         string get_id();
         string get_nom();
         string get_prenom();
-        string get_mail();
+        virtual string get_mail();
         ~CPersonne();
-        friend ostream& operator<<(ostream& os, const CPersonne& persone);
+        friend  ostream& operator<<(ostream& os, const CPersonne& persone);
         bool operator==(const CPersonne &other_per);
         CPersonne(const CPersonne& other_personne);
         CPersonne& operator=(const CPersonne& other_personne);

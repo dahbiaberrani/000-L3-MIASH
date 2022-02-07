@@ -1,4 +1,6 @@
 #include "CListe.hpp"
+#include "../exercice3/CManager.hpp"
+#include "../exercice3/CDeveloppeur.hpp"
 #include <string>
 #include <iostream>
 using namespace std;
@@ -50,7 +52,13 @@ void CListe::affiche() const {
     CNoeud *p_curr = this->tete;
     while (p_curr != nullptr) {
         // on affiche la personne courante 
-        cout << *p_curr->pers;
+        // Si la personne est un developpeur
+        if (CDeveloppeur* p_dev = (CDeveloppeur*)p_curr->pers) {
+            cout <<  *p_dev;
+        } else {
+            cout << *p_curr->pers;
+        }
+        
         // on passe au noeud suivant 
         p_curr = p_curr->suiv;
     }

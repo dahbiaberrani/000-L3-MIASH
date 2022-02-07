@@ -1,4 +1,6 @@
 #include "CPersonne.hpp"
+#include "../exercice3/CManager.hpp"
+#include "../exercice3/CDeveloppeur.hpp"
 #include <string>
 #include <iostream>
 using namespace std;
@@ -93,7 +95,22 @@ bool CPersonne::operator==(const CPersonne &other_per) {
 }
 
 ostream& operator<<(ostream& os, const CPersonne& persone) {
-    os << *persone.id << endl << *persone.nom << endl << *persone.prenom << endl << *persone.mail << endl << "---------------------" << endl;
+    if (CDeveloppeur* p_dev = dynamic_cast<CDeveloppeur*>(const_cast<CPersonne*>(&persone))) {
+        cout << "casted to Cdeveloppeur" << endl;
+        os << p_dev->get_id()<< endl 
+        << p_dev->get_nom() << endl 
+        << p_dev->get_prenom() << endl 
+        <<p_dev->get_mail() << endl 
+        <<p_dev->get_projet_en_cours() << endl 
+        <<p_dev->get_niveau() << endl 
+        << "---------------------" << endl;
+    } else {
+        os << *persone.id << endl 
+        << *persone.nom << endl 
+        << *persone.prenom << endl 
+        << *persone.mail << endl 
+        << "---------------------" << endl;
+    }
     return os;
 }
 

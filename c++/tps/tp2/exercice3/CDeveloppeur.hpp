@@ -6,7 +6,7 @@ using namespace std;
 
 class CDeveloppeur : public CPersonne {
     private: 
-        string projet_en_cours; 
+        string* projet_en_cours; 
         short niveau;
     public:
         using CPersonne::CPersonne;
@@ -19,7 +19,5 @@ class CDeveloppeur : public CPersonne {
 
         string get_projet_en_cours();
         short get_niveau();
-
-        friend ostream& operator<<(ostream& os, const CDeveloppeur& developpeur);
 
 };
