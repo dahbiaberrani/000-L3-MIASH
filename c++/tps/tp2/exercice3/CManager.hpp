@@ -18,7 +18,7 @@ class CManager : public CPersonne {
 
         void set_developpeurs(vector<CPersonne*> liste);
         void add(CPersonne* p_persone);
-
+        
         vector<CPersonne*> get_liste_developpeurs();
 };
 

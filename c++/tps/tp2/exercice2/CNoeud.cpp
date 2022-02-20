@@ -17,7 +17,7 @@ CNoeud::CNoeud(CPersonne* p_pers, CNoeud* p_suiv, CNoeud* p_pred) {
 }
 
 CPersonne* CNoeud::get_pers() const {
-    return pers;
+    return this->pers;
 }
 
 CNoeud* CNoeud::get_pred() const {

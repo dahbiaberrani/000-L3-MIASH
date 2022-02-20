@@ -24,5 +24,4 @@ class CPersonne {
         bool operator==(const CPersonne &other_per);
         CPersonne(const CPersonne& other_personne);
         CPersonne& operator=(const CPersonne& other_personne);
-        
 };
