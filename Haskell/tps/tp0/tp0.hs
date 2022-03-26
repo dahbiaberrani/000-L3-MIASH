@@ -23,3 +23,11 @@ mult x y
     | y > 0 = plus x (mult x (pred y))
     -- | y < 0 = plus (-x) (mult x (succ y))
     | otherwise  = mult (-x) (-y)
+
+quotient :: Int -> Int -> Int 
+quotient x y 
+    | x < y = 0
+    |otherwise = succ (quotient (soustraction x y) y) 
+
+reste :: Int -> Int -> Int 
+reste x y = soustraction x (mult(quotient x y) y)
