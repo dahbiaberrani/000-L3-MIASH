@@ -52,3 +52,16 @@ pow x 1 = x
 pow x n 
     | estPair n = pow (mult x x) (quotient n 2)
     | estImpair2 n = mult x (pow (mult x x) (quotient (soustraction n 1) 2))
+
+fact :: Int -> Int 
+fact 0 = 1
+fact x = mult x (fact (soustraction x 1))
+
+--combinaison avec factoriel
+combinaison :: Int -> Int -> Int 
+combinaison n k = quotient (fact n) (mult (fact k) (fact (soustraction n k)))
+
+-- combinaison recursive sans factoriel bug à corriger 
+combinaison2 :: Int -> Int -> Int 
+combinaison2 n 0 = 1
+combinaison2 n k = mult (quotient (soustraction n (soustraction k 1)) k)   (combinaison n (soustraction k 1))
