@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5e16638-296c-4d1a-a12a-8e1ef58fb154" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Haskell/tps/tp0/exemple1.hs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Haskell/tps/tp0/tp0.hs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Haskell/tps/tp0/tp0.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-dream-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../my-dream-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/cours/L3_MIASHS_2021 2022_MIC0503V_THEORIE_DES_LANGAGES.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/cours/resume-partie_fini_théorie des langages.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/td/L3 MIASHS-Langages-2019-2020 Examen.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/td/L3_MIASHS_2019 2020_langages Examen solutions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/td/L3_MIASHS_2020 2021_MIC0503V_LANGAGES TD3 - analyse - solutions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/td/L3_MIASHS_2021 2022_MIC0503V_LANGAGES TD2 - Automates- solutions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/td/L3_MIASHS_2021 2022_MIC0503V_LANGAGES TD2 - automates.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/td/L3_MIASHS_2021 2022_MIC0602T_LANGAGES TD1 - Expressions régulières et Grammaires.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/td/L3_MIASHS_2021 2022_MIC0602T_LANGAGES TD1 - Grammaires - solutions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/td/L3_MIASHS_2021 2022_MIC0602T_LANGAGES TD3 - analyse.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/td/TD1-Bases.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../science_du_language/td/iFixit_50.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27QusZVmewB4Nw2sFpzGcoEiNjd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5e16638-296c-4d1a-a12a-8e1ef58fb154" name="Changes" comment="" />
+      <created>1649264837295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649264837295</updated>
+      <workItem from="1649264838464" duration="3033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

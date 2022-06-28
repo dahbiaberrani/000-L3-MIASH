@@ -1,0 +1,11 @@
+// 1  Creer le tube 
+/ 2  Cree le fils 1  1) orienattion du tuple 
+                     2)redirection de la sortie standard 
+                     3) fermeture du tube
+                     4) execlp
+                     
+//3 Si fils -r Crée fils 1) Orientation du tuple
+                         2) redirection de la sortie standard
+                         3) fermeture du tube
+                         4) execlp
+                          
